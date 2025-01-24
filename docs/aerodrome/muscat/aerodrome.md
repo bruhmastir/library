@@ -22,8 +22,8 @@
 ### 1.2.2 ATS airspace
 | Airspace                    | Classification   | Vertical Limits    | Transition Altitude   | Transition Level   |
 |:---------------------------:|:----------------:|:------------------:|:---------------------:|:------------------:|
-| Muscat CTR                  |        C         | SFC to 5500ft      | 13 000 ft             | FL 150             |
-| Muscat TMA                  |        C         | MRVA to FL150      | 13 000 ft             | FL 150             |
+| Muscat TMA (Terminal Area)  |        C         | MRVA to FL150      | 13 000 ft             | FL 150             |
+| Muscat CTR (Control Zone)   |        C         | SFC to 5500ft      | 13 000 ft             | FL 150             |
 
 ## 1.3 Radio navigation aids
 | Type            | Identifier   | Frequency   |
@@ -42,21 +42,99 @@
 | 26L                  | 265°/264°                 | 4080 X 45        |
 
 ### 1.4.2 Declared distances (take-off)
-| Runway | Intersection | Takeoff Run Available (TORA) | Accelerate Stop Distance Available (ASDA) | 
-|:------:|:------------:|:----------------------------:|:-----------------------------------------:|
-| 08L    | FULL LENGTH  |             4000m            |                   4000m                   |
-| 08L    | Y3           |             3312m            |                   3312m                   |
-| 08R    | FULL LENGTH  |             4080m            |                   4080m                   |
-| 08R    | E2           |             3690m            |                   3690m                   |
-| 08R    | D2           |             3140m            |                   3140m                   |
-| 08R    | D3           |             2568m            |                   2568m                   |
-| 26L    | FULL LENGTH  |             4080m            |                   4080m                   |
-| 26L    | E8           |             3985m            |                   3985m                   |
-| 26L    | E7,D7        |             3585m            |                   3585m                   |
-| 26L    | D6           |             3069m            |                   3069m                   |
-| 26L    | D5           |             2455m            |                   2455m                   |
-| 26R    | FULL LENGTH  |             4000m            |                   4000m                   |
-| 26R    | Y6           |             3312m            |                   3312m                   |
+<table><thead>
+  <tr>
+    <th>Runway</th>
+    <th>Intersection</th>
+    <th>Takeoff Run Available (TORA)</th>
+    <th>Accelerate Stop Distance Available (ASDA)</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>08L</td>
+    <td>FULL LENGTH</td>
+    <td>4000 m</td>
+    <td>4000 m</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Y3</td>
+    <td>3312 m</td>
+    <td>3312 M</td>
+  </tr>
+  <tr>
+    <td>08R</td>
+    <td>FULL LENGTH</td>
+    <td>4080 m</td>
+    <td>4080 m</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>D2</td>
+    <td>3140 m</td>
+    <td>3140 m</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>D3</td>
+    <td>2568 m</td>
+    <td>2568 m</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>E2</td>
+    <td>3690 m</td>
+    <td>3690 m</td>
+  </tr>
+  <tr>
+    <td>26L</td>
+    <td>FULL LENGTH</td>
+    <td>4080 m</td>
+    <td>4080 m</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>D5</td>
+    <td>2455 m</td>
+    <td>2455 m</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>D6</td>
+    <td>3069 m</td>
+    <td>3069 m</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>D7</td>
+    <td>3585 m</td>
+    <td>3585 m</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>E7</td>
+    <td>3585 m</td>
+    <td>3585 m</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>E8</td>
+    <td>3985 m</td>
+    <td>3985 m</td>
+  </tr>
+  <tr>
+    <td>26R</td>
+    <td>FULL LENGTH</td>
+    <td>4000 m</td>
+    <td>4000 m</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Y6</td>
+    <td>3312 m</td>
+    <td>3312 m</td>
+  </tr>
+</tbody></table>
 
 ### 1.4.3 Declared distances (landing)
 | Runway | Landing Distance Available (at Threshold) |
