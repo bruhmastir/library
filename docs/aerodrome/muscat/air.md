@@ -9,7 +9,7 @@ to a 5-knot tailwind. Otherwise, runway 08L will be used. Tower shall pick the c
 used in real life (by checking flight radar) whenever possible.
 
 !!! warning
-  At the time of writing, the southern runway (08R/26L) is currently closed, as per updated NOTAMs. This is due to the restructing of Muscat aerodrome. This runway shall not be used, except for crossing taxiing aircraft between taxiways E1 and D1. 
+    At the time of writing, the southern runway (08R/26L) is currently closed, as per updated NOTAMs. This is due to the restructing of Muscat aerodrome. This runway shall not be used, except for crossing taxiing aircraft between taxiways E1 and D1. 
 
 ## 4.3 Departure procedures
 
@@ -136,7 +136,7 @@ Once the traffic is closer to the aerodrome, they shall be given circuit joining
 
 !!! example
     **Controller:** "A-TT, join base runway 26R" or
-    
+
     **Controller:** "A-TT, cross midfield, join right-hand downwind runway 26R"
 
 VFR arrivals may be denied entry into the control zone during times of increased IFR arrival activity and instructed to hold outside controller airspace awaiting further instructions. VFR aircraft may also be told to orbit at any VRP inside the CTR.
