@@ -11,12 +11,12 @@ Aircraft requesting push that are not squawking their assigned transponder code 
 Pushback direction is based primarily on aircraft location and runway configuration. Pushback from the main terminal shall occur onto T or L as appropriate. A pushback clearance must be a variant of those provided in 3.2.2 and include an instruction on which direction to face (e.g. “FACE WEST”).
 
 !!! example
-  **Controller:** "OMA613, Muscat Ground, Pushback Approved, Face West on T."
+    **Controller:** "OMA613, Muscat Ground, Pushback Approved, Face West on T."
 
 Conditional pushback instructions may also be issued if an aircraft is taxiing behind another, waiting for pushback.
 
 !!! example
-  **Controller:** "FDB3EF, Behind Oman Air A320 passing left to right, pushback approved, face east on T behind."
+    **Controller:** "FDB3EF, Behind Oman Air A320 passing left to right, pushback approved, face east on T behind."
 
 ### 3.2.2 Pushback direction
 When departing runway 26R, aircraft parked on the north side of the main terminal (stands 2xx and 3xx) shall be instructed to "FACE EAST" or "FACE NORTH", accordingly.
@@ -33,7 +33,7 @@ This type will normally have the aircraft stop abeam the adjacent stand. The phr
 A short pushback instruction shall require the aircraft to complete the pushback abeam the current stand such that the adjacent stand will not be blocked.
 
 !!! example 
-  **Controller:** "OMA51, short pushback approved, face West on L, to finish abeam stand 406."
+    **Controller:** "OMA51, short pushback approved, face West on L, to finish abeam stand 406."
 
 ### 3.2.4 Simultaneous pushback operations
 Simultaneous pushbacks may be permitted from adjacent stands provided aircraft are instructed to manoeuver in accordance with 3.2.2 such that on completion of both aircraft’s pushback operation, they will be separated on the taxiway by two aircraft stands.
@@ -52,7 +52,7 @@ Taxiway N is used for southbound aircraft, while taxiway R is used for northboun
 Traffic south of runway 08R/26L shall exit their apron at the respective apron exit, then taxi via A to cross runway 08R/26L at intersection D1, then continue via E1, H, etc. 
 
 !!! warning
-  Controllers shall exercise caution when taxiing aircraft to/from the aprons south of runway 08R/26L, as only a single intersection connects the apron to the rest of the aerodrome, increasing the risk of a nose-nose situation. 
+    Controllers shall exercise caution when taxiing aircraft to/from the aprons south of runway 08R/26L, as only a single intersection connects the apron to the rest of the aerodrome, increasing the risk of a nose-nose situation. 
 
 Taxiway V shall be used by departing aircraft in all configurations.
 
@@ -61,10 +61,10 @@ These directions keep traffic flow organised and reduces the potential for confl
 To deconflict traffic and to reduce the length of taxi clearances, intermediate holding points shall be used wherever possible. 
 
 !!! example
-  **Controller:** "OMA7R, Taxi via T, UE, V, holding point Y7 runway 26R"
+    **Controller:** "OMA7R, Taxi via T, UE, V, holding point Y7 runway 26R"
 
 !!! example
-  **Controller:** "OMA7R, Taxi via T, hold UE"
+    **Controller:** "OMA7R, Taxi via T, hold UE"
 
 ## 3.4 Arrival taxi procedures
 ### 3.4.1 General arrival taxi procedures

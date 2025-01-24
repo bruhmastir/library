@@ -34,8 +34,11 @@ An IFR clearance shall be in the following format:
 
 !!! example
     **Pilot**: "Muscat Delivery, OMA478, Boeing 777-300ER, information X, stand 215, request clearance to Dubai."
+
     **Controller**: "OMA478, Muscat Delivery, information X correct, cleared to Dubai via T508 SOLUD, ITLAK1N departure, maintain altitude 3000ft, squawk 2613."
+
     **Pilot**: "Cleared to Dubai via T508 SOLUD, ITLAK1N departure, maintain altitude 3000ft, squawk 2613, OMA478."
+    
     **Controller**: "OMA478, readback correct, QNH 1016, report ready for pushback."
 
 ## 2.4 Aircraft routing
