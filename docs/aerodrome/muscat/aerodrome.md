@@ -16,7 +16,7 @@
 | Muscat Tower South          | OOMS_2_TWR       | AIR 2          | 118.400     |
 | Muscat Ground North         | OOMS_1_GND       | GMC 1          | 127.875     |
 | Muscat Ground South         | OOMS_2_GND       | GMC 2          | 121.800     |
-| Muscat Delivery             | OOMS_DEL         | GMP            | 125.575     |
+| Muscat Delivery             | OOMS_DEL         | CLD            | 125.575     |
 | Muscat Information          | OOMS_ATIS        | ATIS           | 126.800     |
 
 ### 1.2.2 ATS airspace
