@@ -82,6 +82,8 @@ extra:
       link: https://instagram.com/arabianvacc
     - icon: fontawesome/brands/github
       link: https://github.com/arabian-vacc
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@ArabianVACC
 
 # Additional Markdown Extensions to use bundled icon sets
 markdown_extensions:
