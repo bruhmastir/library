@@ -13,6 +13,10 @@ GMP is responsible for issuing clearances for departing aircraft. Pilots may be 
 -	Parking stand;
 -	Reporting “READY TO PUSH AND START”
 
+GMP shall instruct pilots to monitor Ground Movement Controller (GMC) frequency 123.975 MHz and standby for ATC call.
+GMC shall inform aircraft that are ready for pushback of any delay exceeding 5 minutes and provide an estimate. If no contact is made by ATC after 5 minutes of monitoring pilots shall contact Ground Movement Control to receive an estimate for pushback and start.
+To facilitate the most expeditious movement of ready aircraft, pilots not ready to pushback and start when instructed to do so by ATC shall expect to wait for further pushback instructions.
+
 ### 2.2.2 Information contained in a departure clearance
 
 ### 2.2.3 Datalink clearance (DCL)
