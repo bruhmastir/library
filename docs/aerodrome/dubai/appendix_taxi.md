@@ -10,11 +10,12 @@ Taxiways with a red background are not code F (A380/B747-8) compatible.
 
 ## 6.2 Runway 30 configuration
 ### 6.2.1 Dual Runway 30L/30R
+
 <figure markdown>
 ![Taxi routings - 30 dual config](img/OMDB_30_TITO.png)
 </figure>
 <figure markdown>
-  <figcaption>Figure4-1: Taxi routings - 30 dual config (Click to expand)</figcaption>
+  <figcaption>Figure4-1: Taxi routings - 30 dual config</figcaption>
 </figure>
 
 ### 6.2.2 Single Runway 30L
