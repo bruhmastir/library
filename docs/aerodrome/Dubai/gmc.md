@@ -180,7 +180,7 @@ After runway crossing, traffic shall be transferred to GMC 2 to taxi to the appr
 ##### Apron F (except stand F26L)
 
 <figure markdown>
-![Taxi routings - 30 dual config](img/OMDB 30 TITO.png)
+![Taxi routings - 30 dual config](img/OMDB_30_TITO.png)
 </figure>
 <figure markdown>
   <figcaption>Figure4-1: Taxi routings - 30 dual config</figcaption>
