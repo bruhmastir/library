@@ -1,4 +1,4 @@
-#  # 2. Ground Movement Planner ("Muscat Delivery")
+# 2. Ground Movement Planner ("Muscat Delivery")
 ## 2.1 General provisions
 Airway clearance delivery (CLD) is responsible for validation of routes and shall provide IFR clearance to departing aircraft. The controller shall assign the correct departure procedure depending on the runway configuration. 
 Where the flight plan contains an invalid route, level or procedure, CLD must ensure that the error is corrected before the aircraft is given its clearance..
