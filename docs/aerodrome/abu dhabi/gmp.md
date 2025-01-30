@@ -1,10 +1,5 @@
 # 2. Ground Movement Planner ("Abu Dhabi Delivery")
 ## 2.1 General provisions
-<<<<<<< Updated upstream
-
-## 2.2 Departure clearance
-### 2.2.1 General
-=======
 Airways clearance/Ground Movement Planner (GMP) is responsible for validating routes and shall provide IFR clearance to departing aircraft. The controller shall assign the correct departure procedure to the aircraft based on the first point that is filed on the flight plan.
 
 
@@ -23,7 +18,7 @@ GMP is responsible for issuing clearances for departing aircraft. Pilots may be 
 -	Reporting “Ready to Push and Start”
 
 GMP shall instruct pilots to monitor the appropriate Ground Movement Controller (GMC) frequency as per the pilot's location and standby for ATC call.
->>>>>>> Stashed changes
+
 
 GMC shall inform aircraft that are ready for pushback of any delay exceeding 5 minutes and provide an estimate. If no contact is made by ATC after 5 minutes of monitoring pilots shall contact Ground Movement Control to receive an estimate for pushback and start.
 
