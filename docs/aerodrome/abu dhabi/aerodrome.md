@@ -12,10 +12,10 @@
 |:---------------------------------:|:----------------:|:---------------:|:-----------:|
 |       Abu Dhabi ATIS (DEP)        |    OMAA_D_ATIS   |      ATIS       |   119.675   |
 |       Abu Dhabi ATIS (ARR)        |    OMAA_A_ATIS   |      ATIS       |   119.975   |
-|     Abu Dhabi Delivery (DEL)      |      OMAA_DEL    |       GMP       |   119.975   |
-|   Abu Dhabi Ground South (GND)    |    OMAA_3_GND    |      GMC 1      |   123.975   |
+|     Abu Dhabi Delivery (DEL)      |      OMAA_DEL    |       GMP       |   125.100   |
+|   Abu Dhabi Ground South (GND)    |    OMAA_1_GND    |      GMC 1      |   123.975   |
 |  Abu Dhabi Ground Central (GND)   |    OMAA_2_GND    |      GMC 2      |   120.425   |
-|   Abu Dhabi Ground North (GND)    |    OMAA_1_GND    |      GMC 3      |   121.950   |
+|   Abu Dhabi Ground North (GND)    |    OMAA_3_GND    |      GMC 3      |   121.950   |
 |   Abu Dhabi Tower South (TWR)     |    OMAA_1_TWR    |      AIR 1      |   119.200   |
 |   Abu Dhabi Tower North (TWR)     |    OMAA_2_TWR    |      AIR 2      |   118.675   |
 |      Abu Dhabi Information        |    OMAA_I_APP    |      FIS        |   119.200   |
