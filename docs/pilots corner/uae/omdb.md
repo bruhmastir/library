@@ -191,3 +191,20 @@ On receipt of a line-up clearance pilots shall ensure, complying with safety and
 Wherever possible, pilots are encouraged to conduct a rolling takeoff to minimise runway occupancy time.
 
 #### Reduced Runway Separation Minima (RRSM)
+Reduced runway separation may be implemented at any time, day or night, under the following scenarios:
+
+- A departing aircraft followed by another aircraft departing from the same runway.
+- Two consecutive landing aircraft.
+- Two consecutive departing aircraft.
+
+##### Conditions for Application:
+
+- The tailwind component does not exceed **5 knots** at the landing threshold, and there are no pilot reports of **wind shear**.
+- Meteorological visibility is at least **5000 metres**, and the cloud ceiling is not below **1000 feet**. The AIR controller must be confident that the following aircraft can **continuously and completely observe** the relevant traffic.
+- Traffic information is provided to the crew of the **succeeding aircraft**.
+- The runway is **dry**, with no indications that braking action will be adversely affected.
+- The AIR controller must be able to assess separation **visually** or using **radar-derived information**.
+- Suitable **landmarks and surface surveillance markers** must be available to assist in assessing aircraft separation.
+- **Wake turbulence separation minima** must be maintained.
+- **Minimum separation** must still exist between two departing aircraft **immediately after** the second aircraft takes off.
+- The pilot of an arriving aircraft must be informed of the **expected exit point** for runway vacating.
