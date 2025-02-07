@@ -175,10 +175,26 @@ Crews should base their performance calculations on departure from standard depa
 ATC may tactically use a different departure point nearer the runway end based on the traffic situation.
 
 #### Runway 30s Configuration
-Diagram soon™
+##### General
+<figure markdown>
+![OMDB - 30s Configuration](img/omdb/OMDB_30_TITO.png)
+</figure>
 
 #### Runway 12s Configuration
-Diagram soon™
+##### General
+<figure markdown>
+![OMDB - 12s Configuration](img/omdb/OMDB_12_TITO.png)
+</figure>
+
+##### Departure Bias
+<figure markdown>
+![OMDB - 12s Configuration, Departure Bias](img/omdb/OMDB_12_TITO_DB.png)
+</figure>
+
+##### Arrival Bias
+<figure markdown>
+![OMDB - 12s Configuration, Arrival Bias](img/omdb/OMDB_12_TITO_AB.png)
+</figure>
 
 ### Take-off
 
