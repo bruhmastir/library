@@ -132,7 +132,7 @@ In Dubai, if datalink clearances are unavailable, voice clearances will be provi
 #### Airport Collaborative Decision Making (A-CDM)
 Dubai has implemented **A**irport **C**ollaborative **D**ecision **M**aking (**A-CDM**) procedures to ensure efficient operations and reduce time spent at the holding point. Pilots are required to adhere to assigned A-CDM times. When A-CDM procedures are in effect, this will be announced in the ATIS. Pilots should set their **T**arget **O**ff **B**lock **T**ime (**TOBT**) and update it whenever their estimate changes by more than 5 minutes using the [VATMENA vACDM Pilot Interface](https://vacdm.vatsim.me), aiding controllers in departure planning.
 
-If you are unfamiliar with A-CDM procedures, please refer to our A-CDM pilot guide (coming soon™).
+If you are unfamiliar with A-CDM procedures, please refer to the [A-CDM pilot guide](https://vacdm.net/docs/pilot/use-vacdm).
 
 ### Push & Start
 Once clearance delivery releases you to the designated ground frequency, pilots may request push and start clearance. Upon initial contact, the ground controller may provide various types of pushback instructions. Pilots must ensure they can comply with these instructions; if unable, they must inform the ground controller.
