@@ -148,19 +148,6 @@ Pushback clearances will specify a direction to face, such as West or East, and 
 !!! warning
     If pilots are unable to commence pushback within 2-3 minutes, the pushback clearance may be revoked, and slot times will be recalculated.
 
-#### Pushback Types
-##### Standard Pushback
-Diagram soon™
-
-##### Long Pushback
-Diagram soon™
-
-##### Short Pushback
-Diagram soon™
-
-##### Abeam Stand Pushback
-Diagram soon™
-
 ### Taxi
 #### Standard Intersection Departures
 For the purposes of takeoff performance planning the standard departure taxiways are:
