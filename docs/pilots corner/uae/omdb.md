@@ -124,7 +124,9 @@ In Dubai, if datalink clearances are unavailable, voice clearances will be provi
 
     **Controller**: "UAE1GP, information F correct, cleared to Nice via the NABIX3F departure, maintain altitude 4000ft, squawk 0542."
 
-    **Pilot**: "UAE1GP, readback is correct, QNH 1004, report ready for push and start"
+    **Pilot**: "Cleared to Nice, NABIX3F departure, maintain altitude 4000ft, squawk 0542, UAE1GP."
+
+    **Controller**: "UAE1GP, readback is correct, QNH 1004, report ready for push and start"
 
 !!! warning
     Clearance delivery will not provide push and start clearance. However, remain on the clearance delivery frequency; do not switch to the ground frequency on your own. You must report fully ready on the delivery frequency—this includes having the jetway disconnected, tug connected, and chocks removed. Delivery will advise when to switch to the appropriate ground frequency, based on the current airport departure rate.
