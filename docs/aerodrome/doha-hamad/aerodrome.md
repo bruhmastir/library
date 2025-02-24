@@ -11,7 +11,7 @@
 ### 1.2.1 List of ATS callsigns
 |      Radio Callsign      | Logon Callsign | Abbreviation | Frequency |
 |:------------------------:|:--------------:|:------------:|:---------:|
-| Hamad Clearance Delivery |    OTHH_DEL    |      GMP     |  122.875  |
+| Hamad Clearance Delivery |    OTHH_DEL    |      GMP     |  120.875  |
 |    Hamad Ground (East)   |   OTHH_1_GND   |     GMC 1    |  120.225  |
 |  Hamad Ground (Central)  |   OTHH_2_GND   |     GMC 2    |  118.650  |
 |    Hamad Ground (West)   |   OTHH_3_GND   |     GMC 3    |  118.575  |
