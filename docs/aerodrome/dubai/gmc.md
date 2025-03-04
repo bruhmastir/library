@@ -180,7 +180,7 @@ After runway crossing, traffic shall be transferred to GMC 2 to taxi to the appr
 ##### Apron F (except stand F26L)
 
 <figure markdown>
-![Taxi routings - 30 dual config](../img/OMDB_30_TITO.png)
+![Taxi routings - 30 dual config](img/OMDB_30_TITO.png)
 </figure>
 <figure markdown>
   <figcaption>Figure4-1: Taxi routings - 30 dual config</figcaption>
@@ -213,11 +213,11 @@ Use of full-length holding points (K1, K2) shall require coordination with AIR a
 Departing traffic shall not be issued taxi to holding points M
 
 <figure markdown>
-![Taxi routings - 12 dual config (arrival bias)](../img/OMDB 12 TITO AB.png)
+![Taxi routings - 12 dual config (arrival bias)](img/OMDB 12 TITO AB.png)
 </figure>
 
 <figure markdown>
-![Taxi routings - 12 dual config (departure bias)](../img/OMDB 12 TITO DB.png)
+![Taxi routings - 12 dual config (departure bias)](img/OMDB 12 TITO DB.png)
 </figure>
 
 ### 4.3.8 Single runway 12R
@@ -268,11 +268,11 @@ In addition to the standard taxi routings outlined above, a ”bias” mode can 
 In the arrival bias, arriving traffic may vacate 12L to taxi westbound on M and then southbound on L3 and L4 to enter the C apron. Departing traffic will not interfere with the arrivals as they are prohibited from using any of the runway holding points along taxiway M.
 
 <figure markdown>
-![Taxi routings - 12 dual config (arrival bias)](../img/OMDB 12 TITO AB.png)
+![Taxi routings - 12 dual config (arrival bias)](img/OMDB 12 TITO AB.png)
 </figure>
 
 <figure markdown>
-![Taxi routings - 12 dual config (departure bias)](../img/OMDB 12 TITO DB.png)
+![Taxi routings - 12 dual config (departure bias)](img/OMDB 12 TITO DB.png)
 </figure>
 
 ### 4.4.7 Single runway 12L arrival taxi procedure
