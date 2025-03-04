@@ -11,10 +11,10 @@ Uncoloured areas are the responsibility of the respective GMC controller as indi
 
 ## 2.2 Runway 30L/30R
 <figure markdown>
-![Areas of Responsibility 30 config](img/OMDB AIR Split 30.png)
+![Areas of Responsibility 30 config](../img/OMDB AIR Split 30.png)
 </figure>
 
 ## 2.3 Runway 12L/12R
 <figure markdown>
-![Areas of Responsibility 12 config](img/OMDB AIR Split 12.png)
+![Areas of Responsibility 12 config](../img/OMDB AIR Split 12.png)
 </figure>

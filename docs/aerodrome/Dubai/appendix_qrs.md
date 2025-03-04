@@ -4,5 +4,5 @@ The Quick Reference Sheet should only be used once all the aerodrome SOP's have 
 
 ## 9.2 Quick reference
 <figure markdown>
-![QRS](img/omdb_qrs.png)
+![QRS](../img/omdb_qrs.png)
 </figure>
