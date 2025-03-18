@@ -32,6 +32,9 @@ If an aircraft infringes the NTZ, the Final Approach Monitoring Controller will 
 
 The Final Approach Monitoring Controller will override the relevant Tower frequency when issuing a breakout maneuver due to an NTZ infringement from the adjacent approach path.
 
+!!! example
+    **Controller**: "QTR40P, turn left heading 250 degrees and climb and maintain 4000ft"
+
 ## 4.3 Departure procedures
 High Intensity Runway Operations for departing aircraft are in effect 24 hours a day. All checks should be completed when reaching the assigned holding point, and aircraft must line up without delay when cleared by ATC. Prompt action should be taken in response to take-off clearance. Whenever possible, intersection departures should be used.
 
