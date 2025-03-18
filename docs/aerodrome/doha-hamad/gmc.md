@@ -81,14 +81,14 @@ Aircraft should be assigned the most suitable taxi route for their designated de
 Code F aircraft (A380/B747-8) are not permitted to taxi onto taxiway W (between taxiway H and stand A4), taxiway E (between taxiway D and stand B2), or taxiway Y. 
 
 !!! info
-    Where aircraft are taxied to runway holding points, transfer of control to AIR shall be made early enough such that the aircraft is not required to stop its taxi.
+    Aircraft should not be taxied to the runway holding points, transfer of control to AIR shall be made early enough such that the aircraft is not required to stop its taxi.
 
 !!! example
     **Pilot**: "QTR3B, request taxi."
 
-    **Controller**: "QTR3B, taxi via W2, K, holding point L, runway 34L."
+    **Controller**: "QTR3B, via E1, C, hold short taxiway L2."
 
-    **Pilot**: "Taxi via W2, K, holding point L, runway 34L, QTR3B."
+    **Pilot**: "Taxi via E1, C, hold short taxiway L2, QTR3B."
 
 To deconflict traffic, and to reduce the length of taxi clearances, intermediate holding points shall be used wherever possible.
 
@@ -102,76 +102,76 @@ To deconflict traffic, and to reduce the length of taxi clearances, intermediate
 ### 3.3.2 Runway 16L departure taxi procedures
 | **Concourse/Apron**                             | **Instruction Details**                                                                                                         |
 |-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| **Concourse A, C (West), D, Remote Transfer H** | Aircraft on taxiway W: taxi via H or W to join J, R, and B to reach holding points A10, A11, A12.                               |
-|                                                 | Aircraft on taxiway J: taxi via R and B to reach holding points A10, A11, A12.                                                  |
-|                                                 | Aircraft on W1, W2, W3, W4: taxi via J, R, and B to reach holding points A10, A11, A12.                                         |
-| **Concourse B, C (East), E, Remote Transfer G** | Aircraft on taxiways E, E1, E2, E3, E4: taxi to join B to reach holding points A10, A11, A12.                                   |
-|                                                 | Aircraft on taxiway D: taxi to join E1 and B to reach holding points A10, A11, A12.                                             |
-|                                                 | Aircraft on taxiway C: taxi to join B to reach holding points A10, A11, A12.                                                    |
-| **Central Concourse**                           | Aircraft on taxiway N: taxi to join R and B to reach holding points A10, A11, A12.                                              |
-| **Apron Cargo**                                 | Aircraft on taxiway F: taxi to join B to reach holding points A10, A11, A12.                                                    |
-| **Apron V**                                     | Aircraft on taxiway V: taxi to join B to reach holding points A10, A11, A12.                                                    |
-|                                                 | Aircraft on taxiway C: taxi to join B to reach holding points A10, A11, A12.                                                    |
-| **Apron 4**                                     | Aircraft on taxiway Q: taxi to join C or B to reach holding points A10, A11, A12.                                               |
-| **Apron 5**                                     | Aircraft on taxiway K: taxi to join R and B to reach holding points A10, A11, A12.                                              |
-|                                                 | Aircraft on taxiway Y: taxi to join K, R, and B to reach holding points A10, A11, A12.                                          |
-| **Apron 6**                                     | Aircraft on taxiways S2 or S3: taxi to join R1, R, and B to reach holding points A10, A11, A12.                                 |
+| **Concourse A, C (West), D, Remote Transfer H** | Aircraft on taxiway W: taxi via H or W to join J, R, and B to hold short taxiway A10.                                           |
+|                                                 | Aircraft on taxiway J: taxi via R and B to hold short taxiway A10.                                                              |
+|                                                 | Aircraft on W1, W2, W3, W4: taxi via J, R, and B to hold short taxiway A10.                                                     |
+| **Concourse B, C (East), E, Remote Transfer G** | Aircraft on taxiways E, E1, E2, E3, E4: taxi to join B to hold short taxiway A10.                                               |
+|                                                 | Aircraft on taxiway D: taxi to join E1 and B to hold short taxiway A10.                                                         |
+|                                                 | Aircraft on taxiway C: taxi to join B to hold short taxiway A10.                                                                |
+| **Central Concourse**                           | Aircraft on taxiway N: taxi to join R and B to hold short taxiway A10.                                                          |
+| **Apron Cargo**                                 | Aircraft on taxiway F: taxi to join B to hold short taxiway A10.                                                                |
+| **Apron V**                                     | Aircraft on taxiway V: taxi to join B to hold short taxiway A10.                                                                |
+|                                                 | Aircraft on taxiway C: taxi to join B to hold short taxiway A10.                                                                |
+| **Apron 4**                                     | Aircraft on taxiway Q: taxi to join C or B to hold short taxiway A10.                                                           |
+| **Apron 5**                                     | Aircraft on taxiway K: taxi to join R and B to hold short taxiway A10.                                                          |
+|                                                 | Aircraft on taxiway Y: taxi to join K, R, and B to hold short taxiway A10.                                                      |
+| **Apron 6**                                     | Aircraft on taxiways S2 or S3: taxi to join R1, R, and B to hold short taxiway A10.                                             |
 
 ### 3.3.3 Runway 16R departure taxi procedures
 | **Concourse/Apron**                             | **Instruction Details**                                                                                                         |
 |-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| **Concourse A, C (West), D, Remote Transfer H** | Aircraft on taxiway W: taxi via K to reach holding points L10, L11, L12.                                                        |
-|                                                 | Aircraft on taxiway J: taxi via K to reach holding points L10, L11, L12.                                                        |
-|                                                 | Aircraft on taxiways W1, W2, W3, W4: taxi via K to reach holding points A10, A11, A12.                                          |
-| **Concourse B, C (East), E, Remote Transfer G** | Aircraft on taxiways E, E1, E2, E3, E4: taxi to join C, S, and K to reach holding points L10, L11, L12.                         |
-|                                                 | Aircraft on taxiway D: taxi to join E1, C, S, and K to reach holding points L10, L11, L12.                                      |
-|                                                 | Aircraft on taxiway C: taxi to join S, and K to reach holding points L10, L11, L12.                                             |
-| **Central Concourse**                           | Aircraft on taxiway N: taxi to join S and K to reach holding points L10, L11, L12.                                              |
-| **Apron Cargo**                                 | Aircraft on taxiway F: taxi to join C, S, and K to reach holding points L10, L11, L12.                                          |
-| **Apron V**                                     | Aircraft on taxiway V: taxi to join C, S, and K to reach holding points L10, L11, L12.                                          |
-|                                                 | Aircraft on taxiway C: taxi to join S and K to reach holding points L10, L11, L12.                                              |
-| **Apron 4**                                     | Aircraft on taxiway Q: taxi to join F or B, then continue onto S and K to reach holding points L10, L11, L12.                   |
-| **Apron 5**                                     | Aircraft on taxiway K: taxi to reach holding points L10, L11, L12.                                                              |
-|                                                 | Aircraft on taxiway Y: taxi to join K to reach holding points L10, L11, L12.                                                    |
-| **Apron 6**                                     | Aircraft on taxiways S2 or S3: taxi to join R1 and M to reach holding points L10, L11, L12.                                     |
+| **Concourse A, C (West), D, Remote Transfer H** | Aircraft on taxiway W: taxi via K to hold short taxiway L10.                                                                    |
+|                                                 | Aircraft on taxiway J: taxi via K to hold short taxiway L10.                                                                    |
+|                                                 | Aircraft on taxiways W1, W2, W3, W4: taxi via K to hold short taxiway L10.                                                      |
+| **Concourse B, C (East), E, Remote Transfer G** | Aircraft on taxiways E, E1, E2, E3, E4: taxi to join C, S, and K to hold short taxiway L10.                                     |
+|                                                 | Aircraft on taxiway D: taxi to join E1, C, S, and K to hold short taxiway L10.                                                  |
+|                                                 | Aircraft on taxiway C: taxi to join S, and K to hold short taxiway L10.                                                         |
+| **Central Concourse**                           | Aircraft on taxiway N: taxi to join S and K to hold short taxiway L10.                                                          |
+| **Apron Cargo**                                 | Aircraft on taxiway F: taxi to join C, S, and K to hold short taxiway L10.                                                      |
+| **Apron V**                                     | Aircraft on taxiway V: taxi to join C, S, and K to hold short taxiway L10.                                                      |
+|                                                 | Aircraft on taxiway C: taxi to join S and K to hold short taxiway L10.                                                          |
+| **Apron 4**                                     | Aircraft on taxiway Q: taxi to join F or B, then continue onto S and K to hold short taxiway L10.                               |
+| **Apron 5**                                     | Aircraft on taxiway K: taxi to hold short taxiway L10.                                                                          |
+|                                                 | Aircraft on taxiway Y: taxi to join K to hold short taxiway L10.                                                                |
+| **Apron 6**                                     | Aircraft on taxiways S2 or S3: taxi to join R1 and M to hold short taxiway L10.                                                 |
 
 ### 3.3.4 Runway 34L departure taxi procedures
 | **Concourse/Apron**                             | **Instruction Details**                                                                                                                                           |
 |-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Concourse A, C (West), D, Remote Transfer H** | Aircraft on taxiway W: taxi via L or L1.                                                                                                                          |
-|                                                 | Aircraft on taxiway J: taxi via L2, L1, or L.                                                                                                                     |
-|                                                 | Aircraft on taxiways W1, W2, W3, W4: taxi via J or K and continue to holding points L2, L1, or L.                                                                 |
-| **Concourse B, C (East), E, Remote Transfer G** | Aircraft on taxiways E, E1, E2, E3, E4: taxi to join C, S, and K and proceed to holding points L2, L1, or L.                                                      |
-|                                                 | Aircraft on taxiway D: taxi to join C, S, and K and proceed to holding points L2, L1, or L.                                                                       |
-|                                                 | Aircraft on taxiway C: taxi to join S, K, and proceed to holding points L2, L1, or L.                                                                             |
-| **Central Concourse**                           | Aircraft on taxiway N: taxi to join S, K, and continue to holding points L2, L1, or L.                                                                            |
-| **Apron Cargo**                                 | Aircraft on taxiway F: taxi to join C, S, K, and continue to holding points L2, L1, or L.                                                                         |
-| **Apron V**                                     | Aircraft on taxiway V: taxi to join C, S, K, and continue to holding points L2, L1, or L.                                                                         |
-|                                                 | Aircraft on taxiway C: taxi to join S, K, and continue to holding points L2, L1, or L.                                                                            |
-| **Apron 4**                                     | Aircraft on taxiway C or Q: taxi to join F, C, S, K, and continue to holding points L2, L1, or L.                                                                 |
-| **Apron 5**                                     | Aircraft on taxiway K: taxi to join holding points L2, L1, or L.                                                                                                  |
-|                                                 | Aircraft on taxiway Y: taxi to join K and continue to holding points L2, L1, or L.                                                                                |
-| **Apron 6**                                     | Aircraft on taxiway S2: taxi to join S3, P, M, and continue to holding points M1, M2, or M3.                                                                      |
-|                                                 | Aircraft on taxiway S4: taxi to join P, M, and continue to holding points M1, M2, or M3.                                                                          |
+| **Concourse A, C (West), D, Remote Transfer H** | Aircraft on taxiway W: taxi via L or L1 and hold short taxiway J.                                                                                                 |
+|                                                 | Aircraft on taxiway J: taxi via L2, L1, or L and hold short taxiway L2.                                                                                           |
+|                                                 | Aircraft on taxiways W1, W2, W3, W4: taxi via J or K and and hold short taxiway J.                                                                                |
+| **Concourse B, C (East), E, Remote Transfer G** | Aircraft on taxiways E, E1, E2, E3, E4: taxi to join C, S, and K and hold short taxiway L2.                                                                       |
+|                                                 | Aircraft on taxiway D: taxi to join C, S, and K and hold short taxiway L2.                                                                                        |
+|                                                 | Aircraft on taxiway C: taxi to join S, K, and hold short taxiway L2.                                                                                              |
+| **Central Concourse**                           | Aircraft on taxiway N: taxi to join S, K, and hold short taxiway L2.                                                                                              |
+| **Apron Cargo**                                 | Aircraft on taxiway F: taxi to join C, S, K, and hold short taxiway L2.                                                                                           |
+| **Apron V**                                     | Aircraft on taxiway V: taxi to join C, S, K, and hold short taxiway L2.                                                                                           |
+|                                                 | Aircraft on taxiway C: taxi to join S, K, and hold short taxiway L2.                                                                                              |
+| **Apron 4**                                     | Aircraft on taxiway C or Q: taxi to join F, C, S, K, and hold short taxiway L2.                                                                                   |
+| **Apron 5**                                     | Aircraft on taxiway K: taxi and hold short taxiway L2.                                                                                                            |
+|                                                 | Aircraft on taxiway Y: taxi to join K and hold short taxiway L2.                                                                                                  |
+| **Apron 6**                                     | Aircraft on taxiway S2: taxi to join S3, P, and continue to holding points P1, P2, P3, P4, P5, P6, P7.                                                            |
+|                                                 | Aircraft on taxiway S4: taxi to join P, and continue to holding points P1, P2, P3, P4, P5, P6, P7.                                                                |
 
 ### 3.3.5 Runway 34R departure taxi procedures
 | **Concourse/Apron**                             | **Instruction Details**                                                                                                                    |
 |-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| **Concourse A, C (West), D, Remote Transfer H** | Aircraft on taxiway W: taxi via H, then proceed through either W1 or W2, and continue on J, R, and B to reach holding points A2, A1, or A. |
-|                                                 | Aircraft on taxiway J: taxi via R and B to reach holding points A2, A1, or A.                                                              |
-|                                                 | Aircraft on taxiways W1, W2, W3, or W4: taxi via J, R, and B to reach holding points A2, A1, or A.                                         |
-| **Concourse B, C (East), E, Remote Transfer G** | Aircraft on taxiways E, E1, E2, E3, E4: taxi to join either B or C to reach holding points A2, A1, or A.                                   |
-|                                                 | Aircraft on taxiway D: taxi to join B to reach holding points A2, A1, or A.                                                                |
-|                                                 | Aircraft on taxiway C: taxi to join B to reach holding points A2, A1, or A.                                                                |
-| **Central Concourse**                           | Aircraft on taxiway N: taxi to join R, B, and continue to reach holding points A2, A1, or A.                                               |
-| **Apron Cargo**                                 | Aircraft on taxiway F: taxi to join B to reach holding points A2, A1, or A.                                                                |
-| **Apron V**                                     | Aircraft on taxiway V: taxi to join C to reach holding points A2, A1, or A.                                                                |
-|                                                 | Aircraft on taxiway C: taxi to reach holding points A2, A1, or A.                                                                          |
-| **Apron 4**                                     | Aircraft on taxiway C: taxi to join B to reach holding points A2, A1, or A.                                                                |
-|                                                 | Aircraft on taxiway Q: taxi to join B to reach holding points A2, A1, or A.                                                                |
-| **Apron 5**                                     | Aircraft on taxiway K: taxi to join R and B to reach holding points A2, A1, or A.                                                          |
-|                                                 | Aircraft on taxiway Y: taxi to join K, R, and B to reach holding points A2, A1, or A.                                                      |
-| **Apron 6**                                     | Aircraft on taxiways S2 and/or S4: taxi to join R1, cross runway 34L, and join R and B to reach holding points A2, A1, or A.               |
+| **Concourse A, C (West), D, Remote Transfer H** | Aircraft on taxiway W: taxi via H, then proceed through either W1 or W2, and continue on J, R, and B and hold short taxiway A2.            |
+|                                                 | Aircraft on taxiway J: taxi via R and B and hold short taxiway A2.                                                                         |
+|                                                 | Aircraft on taxiways W1, W2, W3, or W4: taxi via J, R, and B and hold short taxiway A2.                                                    |
+| **Concourse B, C (East), E, Remote Transfer G** | Aircraft on taxiways E, E1, E2, E3, E4: taxi to join either B or C and hold short taxiway A2.                                              |
+|                                                 | Aircraft on taxiway D: taxi to join B and hold short taxiway A2.                                                                           |
+|                                                 | Aircraft on taxiway C: taxi to join B and hold short taxiway A2.                                                                           |
+| **Central Concourse**                           | Aircraft on taxiway N: taxi to join R, B, and continue and hold short taxiway A2.                                                          |
+| **Apron Cargo**                                 | Aircraft on taxiway F: taxi to join B and hold short taxiway A2.                                                                           |
+| **Apron V**                                     | Aircraft on taxiway V: taxi to join C and hold short taxiway A2.                                                                           |
+|                                                 | Aircraft on taxiway C: taxi and hold short taxiway A2.                                                                                     |
+| **Apron 4**                                     | Aircraft on taxiway C: taxi to join B and hold short taxiway A2.                                                                           |
+|                                                 | Aircraft on taxiway Q: taxi to join B and hold short taxiway A2.                                                                           |
+| **Apron 5**                                     | Aircraft on taxiway K: taxi to join R and B and hold short taxiway A2.                                                                     |
+|                                                 | Aircraft on taxiway Y: taxi to join K, R, and B and hold short taxiway A2.                                                                 |
+| **Apron 6**                                     | Aircraft on taxiways S2 and/or S4: taxi to join R1, cross runway 34L, and join R and B and hold short taxiway A2.                          |
 
 ## 3.4 Arrival taxi procedures
 ### 3.4.1 General arrival taxi procedures
