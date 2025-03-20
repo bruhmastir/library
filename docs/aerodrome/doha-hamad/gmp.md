@@ -101,7 +101,7 @@ For instance, flights departing the TMA toward the northeast will use runway 16L
     <td>DATRI1C</td>
     <td>7000ft</td>
     <td>LUBET1A</td>
-    <td>FL180</td>
+    <td>10000ft</td>
     <td>ALVEN3E</td>
     <td>4000ft</td>
   </tr>
@@ -131,7 +131,7 @@ For instance, flights departing the TMA toward the northeast will use runway 16L
     <td>TULUB1C</td>
     <td>6000ft</td>
     <td><b>TULUB1A</b></td>
-    <td>FL180</td>
+    <td>10000ft</td>
     <td>KUPRO1E</td>
     <td>4000ft</td>
   </tr>
@@ -151,7 +151,7 @@ For instance, flights departing the TMA toward the northeast will use runway 16L
     <td></td>
     <td></td>
     <td><b>ULIKA1A</b></td>
-    <td>FL200</td>
+    <td>4000ft</td>
     <td>LUBET2Z</td>
     <td>4000ft</td>
   </tr>
@@ -162,7 +162,7 @@ For instance, flights departing the TMA toward the northeast will use runway 16L
     <td></td>
     <td>ULIKA1W</td>
     <td>4000ft</td>
-    <td>TULUB3E</td>
+    <td>TULUB2E</td>
     <td>4000ft</td>
   </tr>
   <tr>
@@ -181,7 +181,7 @@ For instance, flights departing the TMA toward the northeast will use runway 16L
 </figure>
 
 !!! warning
-    The TULUB1A and ULIKA1A are temporary procedures, so always check the latest NOTAMs for updates. The ULIKA1A departure is available from 22:00 to 01:00 UTC the following day, while the TULUB1A is available 24/7.
+    The TULUB1A, LUBET1A and ULIKA1A are temporary procedures, so always check the latest NOTAMs for updates. The ULIKA1A departure is available from 22:00 to 01:00 UTC the following day, while the TULUB1A and LUBET1A are available from 07:00 to 04:00 UTC the following day .
 
 ### 2.3.2 RNP radar departure
 The RNP radar departure procedure shall be used when aircraft are unable to accept a one of the published RNP departures. Whereas regular RNP departures follow a prescribed track until leaving the Doha TMA, the RNP radar departures proceed to a fix beyond the extended runway centerline before continuing along the transition out of the TMA.
