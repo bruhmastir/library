@@ -47,7 +47,7 @@ points after departure from UAE airports.
 During off-peak times, this separation minima may be disregarded, and standard separation minima of 2 minutes may be applied provided it is not done for more than two successive departures. 
 
 |  SID  | FIR exit point | Longitudinal separation |
-|:-----:|:--------------:|-------------------------|
+|:-----:|:--------------:|:-----------------------:|
 | ANVIX |      TARDI     |        3 minutes        |
 | IVURO |  LALDO/GOMTA   |        3 minutes        |
 <figure markdown>
