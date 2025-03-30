@@ -20,3 +20,300 @@ Pilots can access the latest charts through the following sources: [Chartfox (Fr
 | MSFS           | [flightsim.to](https://flightsim.to/file/14639/doha-city-and-hamad-airport-v2-wip) | [MXI Design](https://orbxdirect.com/product/mxidesign-othh-msfs?srsltid=AfmBOorSUbpAdfQPk3byohWDT66taPrJvg6F9c4L9nO8NxV93QifouBE) |
 | X-Plane        | X-Plane Default                                                                    |                                                                                                                                   |
 | Prepar3D V4/V5 | [AVSIM](https://library.avsim.net/search.php?SearchTerm=othh&CatID=root&Go=Search) | [Taxi2Gate](https://secure.simmarket.com/taxi2gate-othh-v2-p3d5.phtml)                                                            |
+
+### Stand Allocation
+|  Apron/Concourse  |            Stand Allocation           |                     Operator                    |
+|:-----------------:|:-------------------------------------:|:-----------------------------------------------:|
+|    Concourse A    |            Stands A1 to A11           |           International Operators, QTR          |
+|    Concourse B    |            Stands B1 to B10           |           International Operators, QTR          |
+|    Concourse C    |            Stands C1 to C13           |           International Operators, QTR          |
+|    Concourse D    |            Stands D1 and D3           |           International Operators, QTR          |
+|    Concourse E    |            Stands E1 and E3           |           International Operators, QTR          |
+| Central Concourse |           Stands 301 to 309           |                       QTR                       |
+| Remote Transfer G |            Stands H1 to H10           | Low Cost Carriers, International Operators, QTR |
+| Remote Transfer H |            Stands G1 to G10           | Low Cost Carriers, International Operators, QTR |
+|    Cargo Apron    |            Stands F1 to F16           |              Cargo, QTR (Overflow)              |
+|      Apron V      |            Stands V1 to V12           |            Government & State Aircraft          |
+|      Apron 4      |           Stands 425 to 429           |                       QTR                       |
+|      Apron 5      | Stands 501 to 519 & Stands 551 to 564 |                       QTR                       |
+|      Apron 6      |           Stands 601 to 637           |                       QTR                       |
+
+!!! Info
+    All arriving aircraft will be assigned a stand by the stand assigner using the Ground Radar Plugin. In real-world operations, aircraft may be parked at any apron, regardless of their arrival runway assignment.
+
+### Air Traffic Control positions
+| Login Code |      Radio Callsign      | Frequency |                                                                                 Area of Responsibility                                                                                 |
+|:----------:|:------------------------:|:---------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  OTHH_DEL  | Hamad Clearance Delivery |  120.875  |                                                                                                                                                                                        |
+| OTHH_1_GND |       Hamad Ground       |  120.225  | - Apron 3 (Stands 301-305)<br>- Apron 4<br>- Cargo Apron<br>- Concourse B<br>- Concourse C (East Side)<br>- Concourse E<br>- Emiri Apron<br>- Maintenance Apron<br>- Remote Transfer G |
+| OTHH_2_GND |       Hamad Ground       |  118.650  |                - Apron 3 (Stands 306-309)<br>- Apron 5<br>- Concourse A<br>- Concourse C (West Side)<br>- Concourse D<br>- General Aviation Apron<br>- Remote Transfer H               |
+| OTHH_3_GND |       Hamad Ground       |  118.575  |                                                                                        - Apron 6                                                                                       |
+| OTHH_4_GND |       Hamad Ground       |  118.075  |                                                                                  - Overflow Frequency                                                                                  |
+| OTHH_5_GND |       Hamad Ground       |  119.075  |                                                                                   - Planner Frequency                                                                                  |
+| OTHH_1_TWR |        Hamad Tower       |  118.525  |                                                                                    - Runway 16L/34R                                                                                    |
+| OTHH_2_TWR |        Hamad Tower       |  118.025  |                                                                                    - Runway 16R/34L                                                                                    |
+| DOH_F1_APP |       Doha Director      |  119.400  |                                                                    Final Approach Sequencing, Runway 16L/34R (OTHH)                                                                    |
+| DOH_F2_APP |       Doha Director      |  124.050  |                                                                    Final Approach Sequencing, Runway 16R/34L (OTHH)                                                                    |
+| DOH_F3_APP |       Doha Director      |  123.875  |                                                                     Final Approach Sequencing, Runway 15/33 (OTBD)                                                                     |
+| DOH_A1_APP |       Doha Approach      |  124.775  |                                                                                      Approach East                                                                                     |
+| DOH_A2_APP |       Doha Approach      |  119.725  |                                                                                      Approach West                                                                                     |
+| DOH_R1_APP |        Doha Radar        |  121.100  |                                                                                       Radar North                                                                                      |
+| DOH_R2_APP |        Doha Radar        |  120.675  |                                                                                       Radar South                                                                                      |
+| OTDF_1_CTR |       Doha Control       |  135.725  |                                                                                      Control North                                                                                     |
+| OTDF_2_CTR |       Doha Control       |  132.975  |                                                                                      Control South                                                                                     |
+
+!!! Warning
+    It's crucial that you pay close attention to the frequency you're being transferred to. Do not attempt to guess the next frequency, and never switch frequencies without explicit instructions from the controller. Auto-handoffs are issued with the take-off clearance at Doha-Hamad International. If you're unsure, don’t hesitate to ask for the frequency again!
+
+#### Ground Movement Control Area of Responsibility
+
+## Departing Traffic
+### Flight Planning: Route(s)
+Pilots departing from Doha-Hamad can obtain valid routes through SimBrief by selecting the "Preferred Route" or "IFPS Compliant Route" option. Our operations department updates the SimBrief database with each AIRAC cycle to ensure compliance with Air Traffic Flow Management (ATFM) regulations in the Middle East and Eurocontrol IFPS validation.
+
+<figure markdown>
+![Simbrief Preferred Route](img/simbrief_ifps_route.png){ width="600" }
+  <figcaption>Figure 1-1: Simbrief IFPS compliant Route</figcaption>
+</figure>
+
+<figure markdown>
+![Simbrief Preferred Route](img/simbrief_preferred_route.png){ width="600" }
+  <figcaption>Figure 1-2: Simbrief Preferred Route</figcaption>
+</figure>
+
+### Flight Planning: Standard Instrument Departure (SID)
+Controllers will assign a Standard Instrument Departure (SID) based on the first waypoint in your flight plan to guide you out of the Doha Terminal Maneuvering Area (TMA). Refer to the table below to determine the expected SID. If your waypoint is not listed, ensure your AIRAC cycle is up to date. If using an outdated AIRAC, notify the controller promptly so an RNAV radar-vectored departure or an omnidirectional departure can be arranged.
+
+
+<table><thead>
+  <tr>
+    <th></th>
+    <th colspan="4">RUNWAY</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>FIX</td>
+    <td>16L</td>
+    <td>16R</td>
+    <td>34L</td>
+    <td>34R</td>
+  </tr>
+  <tr>
+    <td>ALSEM</td>
+    <td>2M</td>
+    <td></td>
+    <td></td>
+    <td>2E</td>
+  </tr>
+  <tr>
+    <td>ALVEN</td>
+    <td>2M</td>
+    <td></td>
+    <td></td>
+    <td>3E</td>
+  </tr>
+  <tr>
+    <td>BUNDU</td>
+    <td></td>
+    <td>2C</td>
+    <td></td>
+    <td>2E</td>
+  </tr>
+  <tr>
+    <td>DATRI</td>
+    <td></td>
+    <td>1C</td>
+    <td>1W</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>DEMBO</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>IVENA</td>
+    <td></td>
+    <td>2</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>KASIS</td>
+    <td>2</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>KUPRO</td>
+    <td>1M</td>
+    <td></td>
+    <td></td>
+    <td>1E</td>
+  </tr>
+  <tr>
+    <td>LUBET</td>
+    <td>1M/1Y</td>
+    <td>1C</td>
+    <td>1A/1W</td>
+    <td>2Z</td>
+  </tr>
+  <tr>
+    <td>PARES</td>
+    <td></td>
+    <td></td>
+    <td>2</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>TULUB</td>
+    <td>1M</td>
+    <td></td>
+    <td>1A/1W</td>
+    <td>2E</td>
+  </tr>
+  <tr>
+    <td>ULIKA</td>
+    <td></td>
+    <td>1C</td>
+    <td>1A/1W</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>VAXIN</td>
+    <td>2M</td>
+    <td></td>
+    <td></td>
+    <td>2E</td>
+  </tr>
+</tbody></table>
+
+!!! Note
+    The departures listed above are runway-specific and cannot be used on any runway other than those published. As a result, your clearance will not specify a designated runway. Pilots must cross-check their charts to determine their assigned departure runway. For example, if parked on Apron 6 and assigned Runway 34R, expect a long taxi.
+
+### Getting your clearance
+Departing aircraft shall contact Hamad Clearance Delivery **10 minutes prior to their estimated off block time (EOBT)** and pass the following information:
+<ul>
+    <li>Aircraft Callsign</li>
+    <li>Aircraft Type</li>
+    <li>Parking Stand</li>
+    <li>Requested Flight Level</li>
+    <li>Destination</li>
+</ul>
+
+#### Datalink Clearance (DCL)
+The preferred method for obtaining your clearance is through datalink. To request clearance via Hoppie datalink, send your request to **OTHH**. Please note that logging on to the station is not required. No readback is necessary.
+
+#### Voice Clearance
+At Doha-Hamad, if datalink clearances are unavailable, voice clearances will be provided. These will be brief, covering only your Standard Instrument Departure (SID), initial climb, and squawk code. Ensure you have the latest departure ATIS information before proceeding.
+
+!!! example
+    **Pilot**: "Hamad Clearance Delivery, QTR6M, Boeing 777-300ER, information X, stand B3, requesting FL310, to Melbourne."
+
+    **Controller**: "QTR6M, Hamad Clearance Delivery, information X correct, cleared to Melbourne via the BUNDU2E departure, climb via the SID to altitude 4000ft, squawk 2613."
+
+    **Pilot**: "Cleared to Melbourne via the BUNDU2E departure, climb via the SID to altitude 4000ft, squawk 2613, QTR6M."
+
+    **Controller**: "QTR6M, readback correct, QNH 1016, report ready for pushback."
+
+!!! warning
+    Clearance delivery will not provide push and start clearance. However, remain on the clearance delivery frequency; do not switch to the ground frequency on your own. You must report fully ready on the delivery frequency—this includes having the jetway disconnected, tug connected, and chocks removed. Delivery will advise when to switch to the appropriate ground frequency, based on the current airport departure rate.
+
+#### Airport Collaborative Decision Making (A-CDM)
+Doha-Hamad has implemented **A**irport **C**ollaborative **D**ecision **M**aking (**A-CDM**) procedures to ensure efficient operations and reduce time spent at the holding point. Pilots are required to adhere to assigned A-CDM times. When A-CDM procedures are in effect, this will be announced in the ATIS. Pilots should set their **T**arget **O**ff **B**lock **T**ime (**TOBT**) and update it whenever their estimate changes by more than 5 minutes using the [VATMENA vACDM Pilot Interface](https://vacdm.vatsim.me), aiding controllers in departure planning.
+
+If you are unfamiliar with A-CDM procedures, please refer to the [A-CDM pilot guide](https://vacdm.net/docs/pilot/use-vacdm).
+
+### Push & Start
+Once clearance delivery releases you to the designated ground frequency, pilots may request push and start clearance. Upon initial contact, the ground controller may provide various types of pushback instructions. Pilots must ensure they can comply with these instructions; if unable, they must inform the ground controller.
+
+Pushback clearances will specify a direction to face, such as West or East, and a particular taxiway to push onto.
+
+!!! example
+    **Controller**: "QTR6M, push and start is approved face south onto taxiway E1."
+
+!!! warning
+    If pilots are unable to commence pushback within 2-3 minutes, the pushback clearance may be revoked, and slot times will be recalculated.
+
+### Taxi
+#### Standard Intersection Departures
+For the purposes of takeoff performance planning the standard departure taxiways are:
+
+* 16L - A10
+* 16R - L10, M11, M12
+* 34L - L2, M3, M4
+* 34R - A2
+
+Crews should base their performance calculations on departure from standard departure points from the notified runway in use if there is no restriction to payload.
+
+ATC may tactically use a different departure point nearer the runway end based on the traffic situation.
+
+#### Runway 16s Configuration
+##### Departures, Runway 16L
+<figure markdown>
+![OTHH - 16L Departure Configuration](img/othh/othh_dep_16L.png)
+</figure>
+
+##### Departures, Runway 16R
+<figure markdown>
+![OTHH - 16R Departure Configuration](img/othh/othh_dep_16R.png)
+</figure>
+
+##### Arrivals, Runway 16L
+<figure markdown>
+![OTHH - 16L Arrival Configuration](img/othh/othh_arr_16L.png)
+</figure>
+
+##### Arrivals, Runway 16R
+<figure markdown>
+![OTHH - 16R Arrival Configuration](img/othh/othh_arr_16R.png)
+</figure>
+
+#### Runway 34s Configuration
+##### Departures, Runway 34L
+<figure markdown>
+![OTHH - 34L Departure Configuration](img/othh/othh_dep_34L.png)
+</figure>
+
+##### Departures, Runway 34R
+<figure markdown>
+![OTHH - 34R Departure Configuration](img/othh/othh_dep_34R.png)
+</figure>
+
+##### Arrivals, Runway 34L
+<figure markdown>
+![OTHH - 34L Arrival Configuration](img/othh/othh_arr_34L.png)
+</figure>
+
+##### Arrivals, Runway 34R
+<figure markdown>
+![OTHH - 34R Arrival Configuration](img/othh/othh_arr_34R.png)
+</figure>
+
+### Take-off
+#### Minimum Runway Occupancy
+On receipt of a line-up clearance pilots shall ensure, complying with safety and standard operating procedures, that they are able to line-up on the runway as soon as the preceding aircraft has commenced take-off roll.
+
+Wherever possible, pilots are encouraged to conduct a rolling takeoff to minimise runway occupancy time.
+
+#### Reduced Runway Separation Minima (RRSM)
+Reduced runway separation may be implemented at any time, day or night, under the following scenarios:
+
+- A departing aircraft followed by another aircraft departing from the same runway.
+- Two consecutive landing aircraft.
+- Two consecutive departing aircraft.
+
+##### Conditions for Application:
+
+- The tailwind component does not exceed **5 knots** at the landing threshold, and there are no pilot reports of **wind shear**.
+- Meteorological visibility is at least **5000 metres**, and the cloud ceiling is not below **1000 feet**. The AIR controller must be confident that the following aircraft can **continuously and completely observe** the relevant traffic.
+- Traffic information is provided to the crew of the **succeeding aircraft**.
+- The runway is **dry**, with no indications that braking action will be adversely affected.
+- The AIR controller must be able to assess separation **visually** or using **radar-derived information**.
+- Suitable **landmarks and surface surveillance markers** must be available to assist in assessing aircraft separation.
+- **Wake turbulence separation minima** must be maintained.
+- **Minimum separation** must still exist between two departing aircraft **immediately after** the second aircraft takes off.
+- The pilot of an arriving aircraft must be informed of the **expected exit point** for runway vacating.
