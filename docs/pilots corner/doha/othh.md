@@ -294,6 +294,12 @@ ATC may tactically use a different departure point nearer the runway end based o
 </figure>
 
 ### Take-off
+#### Auto-Handoff
+Pilots will receive their next frequency with their takeoff clearance and are expected to contact the assigned frequency once airborne. If unsure of the assigned frequency, pilots should refer to their SID chart for the appropriate station or confirm with the controller.
+
+!!! example
+    **Controller**: "QTR6M, airborne contact Doha Approach on 124.775, wind 350 degrees at 8 knots, runway 34R, cleared for take-off."
+
 #### Minimum Runway Occupancy
 On receipt of a line-up clearance pilots shall ensure, complying with safety and standard operating procedures, that they are able to line-up on the runway as soon as the preceding aircraft has commenced take-off roll.
 
