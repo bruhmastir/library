@@ -87,106 +87,106 @@ Controllers will assign a Standard Instrument Departure (SID) based on the first
 
 <table><thead>
   <tr>
-    <th></th>
+    <th>FIX</th>
     <th colspan="4">RUNWAY</th>
   </tr></thead>
 <tbody>
   <tr>
-    <td>FIX</td>
+    <td>-</td>
     <td>16L</td>
     <td>16R</td>
     <td>34L</td>
     <td>34R</td>
   </tr>
   <tr>
-    <td>ALSEM</td>
+    <td>**ALSEM**</td>
     <td>2M</td>
-    <td></td>
-    <td></td>
+    <td>-</td>
+    <td>-</td>
     <td>2E</td>
   </tr>
   <tr>
-    <td>ALVEN</td>
+    <td>**ALVEN**</td>
     <td>2M</td>
-    <td></td>
-    <td></td>
+    <td>-</td>
+    <td>-</td>
     <td>3E</td>
   </tr>
   <tr>
-    <td>BUNDU</td>
-    <td></td>
+    <td>**BUNDU**</td>
+    <td>-</td>
     <td>2C</td>
-    <td></td>
+    <td>-</td>
     <td>2E</td>
   </tr>
   <tr>
-    <td>DATRI</td>
-    <td></td>
+    <td>**DATRI**</td>
+    <td>-</td>
     <td>1C</td>
     <td>1W</td>
-    <td></td>
+    <td>-</td>
   </tr>
   <tr>
-    <td>DEMBO</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>**DEMBO**</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>IVENA</td>
-    <td></td>
+    <td>**IVENA**</td>
+    <td>-</td>
     <td>2</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>**KASIS**</td>
+    <td>2</td>
+    <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>KASIS</td>
-    <td>2</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>KUPRO</td>
+    <td>**KUPRO**</td>
     <td>1M</td>
-    <td></td>
-    <td></td>
+    <td>-</td>
+    <td>-</td>
     <td>1E</td>
   </tr>
   <tr>
-    <td>LUBET</td>
+    <td>**LUBET**</td>
     <td>1M/1Y</td>
     <td>1C</td>
     <td>1A/1W</td>
     <td>2Z</td>
   </tr>
   <tr>
-    <td>PARES</td>
-    <td></td>
-    <td></td>
+    <td>**PARES**</td>
+    <td>-</td>
+    <td>-</td>
     <td>2</td>
-    <td></td>
+    <td>-</td>
   </tr>
   <tr>
-    <td>TULUB</td>
+    <td>**TULUB**</td>
     <td>1M</td>
-    <td></td>
+    <td>-</td>
     <td>1A/1W</td>
     <td>2E</td>
   </tr>
   <tr>
-    <td>ULIKA</td>
-    <td></td>
+    <td>**ULIKA**</td>
+    <td>-</td>
     <td>1C</td>
     <td>1A/1W</td>
-    <td></td>
+    <td>-</td>
   </tr>
   <tr>
-    <td>VAXIN</td>
+    <td>**VAXIN**</td>
     <td>2M</td>
-    <td></td>
-    <td></td>
+    <td>-</td>
+    <td>-</td>
     <td>2E</td>
   </tr>
 </tbody></table>
@@ -351,7 +351,7 @@ STAR assignments are based on the waypoint at which you enter the Doha Terminal 
 |  VEDED1V  | Direct to Downwind |  Short |   East   |
 
 !!! warning
-    All STARs into Doha-Hamad include altitude and speed restrictions, which must be adhered to unless explicitly canceled by ATC. Pilots should verify clearance levels through instructions such as "DESCEND VIA STAR," "DESCEND UNRESTRICTED," or "CANCEL STAR SPEEDS."
+    All STARs into Doha-Hamad include altitude and speed restrictions, which must be adhered to unless explicitly canceled by ATC. Pilots should verify clearance levels through instructions such as "**DESCEND VIA STAR**," "**DESCEND UNRESTRICTED**," or "**CANCEL STAR SPEEDS**."
 
 ### Runway Assignment
 Runway assignments are issued by Doha Radar or Doha Approach and may be given with short notice during high-traffic periods. Pilots should be prepared for all arrival runways listed in the ATIS.
@@ -372,7 +372,7 @@ The speed limits and recommended speeds within different segments of the Doha te
 |    160 kts    |                Until 4 DME                |
 
 !!! note
-    Aircraft subject to speed restrictions on final with DME constraints may be instructed by ATC to comply with "`STANDARD SPEEDS`" meaning pilots are expected to maintain these speeds until final approach.  
+    Aircraft subject to speed restrictions on final with DME constraints may be instructed by ATC to comply with "**STANDARD SPEEDS**" meaning pilots are expected to maintain these speeds until final approach.  
 
     For the A380, the speed sequence is as follows: 180 until 10 DME and 160 kts until 5 DME.
 
@@ -380,7 +380,7 @@ All speed restrictions must be adhered to as accurately as possible. Aircraft un
 
 To ensure accurate spacing, pilots are requested to comply with speed adjustments as promptly as practicable, considering their operational constraints.  
 
-If traffic sequencing does not require speed limitations, ATC will advise, “NO ATC SPEED RESTRICTION.”  
+If traffic sequencing does not require speed limitations, ATC will advise, “**NO ATC SPEED RESTRICTION**.”  
 
 ### Landing
 #### High Intensity Runway Operations (HIRO)
@@ -388,7 +388,7 @@ During peak traffic periods, rapid runway vacating is essential to prevent go-ar
 
 All rapid exit taxiways are equipped with rapid taxiway indicator lights. Pilots are encouraged to maintain the designated exit taxi speed of 50 knots.
 
-| Runway |     Standard rapid exit   |
+| Runway |     Standard Rapid Exit   |
 |:------:|:-------------------------:|
 |   16L  |            A7             |
 |   16R  |            M7             |
