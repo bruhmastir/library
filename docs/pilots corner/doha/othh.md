@@ -92,98 +92,98 @@ Controllers will assign a Standard Instrument Departure (SID) based on the first
   </tr></thead>
 <tbody>
   <tr>
-    <td>-</td>
+    <td></td>
     <td>16L</td>
     <td>16R</td>
     <td>34L</td>
     <td>34R</td>
   </tr>
   <tr>
-    <td>**ALSEM**</td>
+    <td><b>ALSEM</b></td>
     <td>2M</td>
     <td>-</td>
     <td>-</td>
     <td>2E</td>
   </tr>
   <tr>
-    <td>**ALVEN**</td>
+    <td><b>ALVEN</b></td>
     <td>2M</td>
     <td>-</td>
     <td>-</td>
     <td>3E</td>
   </tr>
   <tr>
-    <td>**BUNDU**</td>
+    <td><b>BUNDU</b></td>
     <td>-</td>
     <td>2C</td>
     <td>-</td>
     <td>2E</td>
   </tr>
   <tr>
-    <td>**DATRI**</td>
+    <td><b>DATRI</b></td>
     <td>-</td>
     <td>1C</td>
     <td>1W</td>
     <td>-</td>
   </tr>
   <tr>
-    <td>**DEMBO**</td>
+    <td><b>DEMBO</b></td>
     <td>-</td>
     <td>-</td>
     <td>-</td>
     <td>3</td>
   </tr>
   <tr>
-    <td>**IVENA**</td>
+    <td><b>IVENA</b></td>
     <td>-</td>
     <td>2</td>
     <td>-</td>
     <td>-</td>
   </tr>
   <tr>
-    <td>**KASIS**</td>
+    <td><b>KASIS</b></td>
     <td>2</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
   </tr>
   <tr>
-    <td>**KUPRO**</td>
+    <td><b>KUPRO</b></td>
     <td>1M</td>
     <td>-</td>
     <td>-</td>
     <td>1E</td>
   </tr>
   <tr>
-    <td>**LUBET**</td>
+    <td><b>LUBET</b></td>
     <td>1M/1Y</td>
     <td>1C</td>
     <td>1A/1W</td>
     <td>2Z</td>
   </tr>
   <tr>
-    <td>**PARES**</td>
+    <td><b>PARES</b></td>
     <td>-</td>
     <td>-</td>
     <td>2</td>
     <td>-</td>
   </tr>
   <tr>
-    <td>**TULUB**</td>
+    <td><b>TULUB</b></td>
     <td>1M</td>
     <td>-</td>
     <td>1A/1W</td>
     <td>2E</td>
   </tr>
   <tr>
-    <td>**ULIKA**</td>
+    <td><b>ULIKA</b></td>
     <td>-</td>
     <td>1C</td>
     <td>1A/1W</td>
     <td>-</td>
   </tr>
   <tr>
-    <td>**VAXIN**</td>
+    <td><b>VAXIN</b></td>
     <td>2M</td>
     <td>-</td>
     <td>-</td>
@@ -242,10 +242,10 @@ Pushback clearances will specify a direction to face, such as West or East, and 
 #### Standard Intersection Departures
 For the purposes of takeoff performance planning the standard departure taxiways are:
 
-* 16L - A10
-* 16R - L10, M11, M12
-* 34L - L2, M3, M4
-* 34R - A2
+- **Runway 16L:** A10
+- **Runway 16R:** L10, M11, M12
+- **Runway 34L:** L2, M3, M4
+- **Runway 34R:** A2
 
 Crews should base their performance calculations on departure from standard departure points from the notified runway in use if there is no restriction to payload.
 
