@@ -1,57 +1,121 @@
 ---
-  title: Transfer & Visiting
+title: Transfer & Visiting
+---
+
+# Transfer & Visiting
+
+## Introduction
+
+!!! warning
+    **Visiting Controller Applications are Currently Closed**
+
+    Due to high training demand within the Arabian vACC and limited training capacity, we are **not accepting new visiting controller applications at this time**.
+
+    We apologize for the inconvenience and appreciate your understanding.
+
+    Please check this page regularly for updates, as the status may change in the future.
+
+
+This policy outlines the process for handling **transfer** and **visiting controllers** in the **Arabian vACC**, whether you're transferring from within VATMENA or visiting from another division. It is designed in full alignment with the:
+
+- **VATSIM Transfer and Visiting Controller Policy**, and
+- **VATMENA Transfer Policy**
+
+This ensures compliance with both global and regional procedures.
+
+The **Arabian vACC** is part of the **Middle East & North Africa Division (VATMENA)** and includes the following **three FIRs**:
+
+- **Doha FIR**
+- **Muscat FIR**
+- **U.A.E FIR**
+
+Each FIR has its own **local regulations** and **training procedures**. All visiting controllers must be familiar with the specific expectations for the FIR(s) they wish to operate in.
 
 ---
-# Join Us
-## Introduction
-Welcome to this small policy on Joining the Arabian vACC!
 
-In this section, you will learn about the differences between a vACC, a Division, and a Region, as well as how to join us with the appropriate Division and Region to become a resident controller. If you are interested in joining us as a visiting controller, please refer to the visiting controller section of this policy.
+## Visiting within the Arabian vACC
 
-The VATSIM Network is divided into vACCs, Divisions, and Regions. An example is provided below:
+Controllers who want to control within the Arabian vACC FIRs will be designated as **Visiting Controllers**.
 
-- **The Arabian vACC (ACCARB)** is a vACC of the Middle East & North Africa Division (VATMENA).
-- **The Middle East & North Africa Division (VATMENA)** is a Division of the Europe, Middle East, and Africa Region.
-- **Europe, Middle East, and Africa Region (VATEMEA)** is a Region of VATSIM.
+To apply for visiting rights, open a **support ticket** on the **Arabian vACC Discord server** and include the following:
 
-## Current vACC/Division/Region Assigment
-To proceed with the next sections of this policy, you must first determine your current assignment in terms of vACC, Division, and Region. You can find this information by checking your [myVATSIM profile](https://my.vatsim.net/profile) and looking at the **"Region - Division - Subdivision"** field.
+- A short **letter of motivation** explaining your interest in visiting the Arabian vACC.
+- Your **Home vACC or ARTCC**.
+- **Contact information** (email or Discord) for your **Home vACC Director** and/or **Training Director**.
 
-<figure markdown>
-![myVATSIM Profile](img/myVATSIM_example.png)
-</figure>
+!!! info
+    This information is needed to verify your standing and facilitate coordination with your home vACC.
 
-!!! Warning
-    Please ensure you are completely certain about your desired assignment on the VATSIM Network for your Air Traffic Controller training! Random transfers will incur a 90-day cooldown in accordance with the VATSIM Transfer & Visiting Controller policy that the vACC and Division adhere to. All transfers are managed by volunteers who respond on a daily basis. Repeatedly contacting membership staff for updates on your transfer will not speed up the process!
+---
 
-### Region Assignment
-After checking your myVATSIM profile and you are not within the Europe, Middle East, and Africa Region please follow the following steps:
+## Visiting Controller Requirements
 
-1. Head over to the [myVATSIM Region transfer page](https://my.vatsim.net/user/region)</li>
-2. Select "Europe, Middle East, and Africa" as your new Region</li>
-3. Select "Middle East & North Africa" as your new Division</li>
+### Controllers from **within VATMENA**
 
-!!! Info
-    Regional transfers are not managed by the vACC or Division Membership Departments and are outside of our control. Please refrain from messaging us about the status of your transfer, as we are not responsible for these processes. Remember that the VATSIM Transfer & Visiting Controller policy applies, and any approved transfers will be subject to a 90-day cooldown period before you can submit another transfer request.
+You must meet **all** of the following:
 
-### Division Assignment
-If you are currently in the Europe, Middle East, and Africa Region but not within the Middle East & North Africa Division, please follow these steps:
+- Hold an **S2 rating** or higher.
+- Be an **active controller**.
+- Have at least **50 hours** of controlling experience in your **home FIR**.
+- Have controlled for **at least 5 hours** in the **last 6 months**.
+- Have **no disciplinary history** within the **past year**.
 
-1. Join the Middle East & North Africa Discord server via [community.vatsim.net](https://community.vatsim.net/). Make sure your VATSIM account is linked to ensure your Discord roles are correctly assigned!
-2. Send a private message to the MENA Support Bot, which can be found on the Middle East & North Africa Discord server.
-3. In your message, include your VATSIM CID, name, and a request to join the Middle East & North Africa Division with assignment to the Arabian vACC. 
+---
 
-<center>![MENA Support Bot](img/mena_support.png)</center>
+### Controllers from **outside VATMENA**
 
-!!! Info
-    The MENA Support Bot is managed by the Middle East & North Africa Membership team, who are dedicated volunteers. It is not automated or powered by artificial intelligence; a real person is behind each response. Please avoid spamming the bot, as this will not result in a faster reply.
+You must meet **all** of the following:
 
-### vACC Assignment
-If you are currently in the Middle East & North Africa Division but not within the Arabian vACC, please follow these steps:
+- Hold an **S3 rating** or higher.
+- Be an **active controller**.
+- Have at least **50 hours** of controlling experience in your **home FIR**.
+- Have controlled for **at least 5 hours** in the **last 6 months**.
+- Have **no disciplinary history** within the **past year**.
 
-1. Join the Middle East & North Africa Discord server via [community.vatsim.net](https://community.vatsim.net/). Make sure your VATSIM account is linked to ensure your Discord roles are correctly assigned!
-2. Send a private message to the MENA Support Bot, which can be found on the Middle East & North Africa Discord server.
-3. In your message, include your VATSIM CID, name, and a request to join the Arabian vACC. 
+---
 
-!!! Info
-    The MENA Support Bot is managed by the Middle East & North Africa Membership team, who are dedicated volunteers. It is not automated or powered by artificial intelligence; a real person is behind each response. Please avoid spamming the bot, as this will not result in a faster reply. Transfers within the Division may take up to 7 days pending both vACC Director approvals.
+If all criteria are met, you will be eligible for **familiarization training** in any FIR within the Arabian vACC, **except Dubai (OMDB)**.  
+> Controlling at OMDB requires a separate **Tier 1 endorsement**.
+
+Once approved, you will be added to the **training queue** under the **same terms** as local (resident) controllers for the FIR you’re visiting.
+
+---
+
+## Familiarization & Training Process
+
+Before receiving full visiting rights, all visiting controllers must complete:
+
+- **FIR and airport familiarization training**  
+  - Usually delivered through a **theory module** on our **Moodle** learning platform.
+  
+- **Sweatbox training session**  
+  - A practical simulation to assess your readiness and understanding of the FIR’s procedures.
+
+> The **Arabian vACC ATC Training Department** is responsible for ensuring all visiting controllers are fully prepared before approval.
+
+---
+
+## Ongoing Requirements for Visiting Controllers
+
+To continue holding visiting privileges in the Arabian vACC, controllers must:
+
+- Log at least **50%** of their total controlling hours in their **home vACC**.
+- Complete a minimum of **3 hours of controlling** in the **Arabian vACC** every **3 months**.
+- Maintain **high performance standards** and **avoid any disruptive behavior** toward other controllers or pilots.
+
+---
+
+### If requirements are not met:
+
+1. The **Membership Department** will issue a **formal warning** and recommend corrective steps.
+2. The controller must **act immediately** on the suggested corrections.
+3. If no progress is seen within **14 days**, a **final decision** will be made regarding the visiting status.
+4. Continued non-compliance may lead to **removal of visiting privileges**.
+
+
+## Transfer Process
+To apply for a **transfer** to the **Arabian vACC**, please follow the step-by-step instructions provided in the official guide:
+
+👉 [**Joining the Arabian vACC**](https://library.arabian-vacc.com/vacc_documents/getting_started/joining_arabian/#introduction)
+
+This guide will walk you through the entire process, from checking your current assignment to submitting a formal transfer request. Be sure to read it carefully to ensure a smooth transition.
