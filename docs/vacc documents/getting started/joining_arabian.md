@@ -1,8 +1,8 @@
 ---
-  title: Join Us
+  title: Joining Arabian
 
 ---
-# Join Us
+# Joining Arabian
 ## Introduction
 Welcome to this small policy on Joining the Arabian vACC!
 
