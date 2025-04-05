@@ -2,8 +2,9 @@
   title: Membership Policy
 
 ---
-# Policy Information
-## Policy Control Details
+# Membership Policy
+## Policy Information
+### Control Details
 |                     |                            |
 |---------------------|----------------------------|
 |         Type        |           Policy           |
@@ -14,7 +15,7 @@
 |   Next review date  |         11 APR 2026        |
 | Cancelled documents |       POL CMA R10/2021     |
 
-## Record of Revisions
+### Record of Revisions
 <table><thead>
   <tr>
     <th>Revision Number</th>
@@ -60,9 +61,34 @@
 </tbody></table>
 
 
-# Organization
+## Organization
 The Arabian Virtual Area Control Center (referred to as the Arabian vACC or ARBvACC) is a subdivision within the Middle East & North Africa Division (VATMENA) and the Europe, Middle East, and Africa Region (VATEMEA) under the VATSIM Network. Its primary objective is to provide and facilitate air traffic control services on the VATSIM network within the airspaces of Oman, Qatar, and the United Arab Emirates, striving for excellence in realism with the guiding principles of #ClearVision and #ClearMission.
 
 The Arabian vACC is responsible for the training and staffing of air traffic controllers, ensuring the safe and efficient operation of airspaces in Doha (OTDF), Muscat (OOMM), and the U.A.E (OMAE).
 
 All VATSIM members are required to adhere to the rules and regulations outlined in the VATSIM Code of Conduct and Code of Regulations, which govern the operations of the network.
+
+## Controller Membership
+### Transferring Controller
+
+
+
+### Visting Controller
+
+
+
+### VATMENA Transferring & Visiting Controller Policy
+
+
+
+## Controller Activity
+The Arabian vACC is committed to maintaining high-quality control over its airspace, guided by the principles of #ClearVision and #ClearMission. This is achieved by ensuring that all controllers meet the standards set by the vACC and remain up to date with all procedures. As part of this commitment, all controllers within the Arabian vACC are required to log a minimum of **6 hours** of controlling on their **highest approved position** each quarter (**every 3 months**).
+
+### Failure to Achieve the Required Hours
+If a controller fails to meet the above requirements, they will be removed from the Arabian vACC roster, and their endorsements will be revoked. A roster cleanup is conducted on the last day of the following months: March, June, September, and December (once per quarter). At least 1-2 weeks before the roster cleanup, a general warning will be issued on the Arabian vACC Discord server, and, when available, via a mass email.
+
+### Regaining the Status
+#### Resident Controllers
+
+
+#### Visiting Controllers
