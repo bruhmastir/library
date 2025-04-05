@@ -24,8 +24,6 @@ theme:
         icon: material/weather-night
         name: Shine some light on this!
   features:
-    - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
     - navigation.instant
