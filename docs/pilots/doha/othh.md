@@ -424,6 +424,7 @@ After landing, aircraft must not stop on the rapid exit taxiways and shall conti
 ![OTHH - 16R Arrival Configuration](img/othh/othh_arr_16R.png)
 </figure>
 
+#### Runway 34s Configuration
 ##### Arrivals, Runway 34L
 <figure markdown>
 ![OTHH - 34L Arrival Configuration](img/othh/othh_arr_34L.png)
