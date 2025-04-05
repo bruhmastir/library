@@ -35,7 +35,6 @@ theme:
     - search.highlight
     - search.share
     - content.code.copy
-    - toc.integrate
   favicon: assets/images/favicon.ico
   icon:
     repo: fontawesome/brands/github
