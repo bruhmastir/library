@@ -1,5 +1,5 @@
 ---
-  title: Join Us
+  title: Transfer & Visiting
 
 ---
 # Join Us
