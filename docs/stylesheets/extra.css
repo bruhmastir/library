@@ -117,7 +117,6 @@ h4 {
   font-weight: bold;
   background-color: #faac02;
   color: var(--md-default-table-header-text);
-  width: 100%;
 }
 
 .md-typeset table:not([class]) td {
