@@ -158,13 +158,13 @@ Controllers may only book positions they are authorized for or have received per
 ### ATC Booking Rules
 
 Controllers must adhere to the following rules:
+
 - An ATC booking does not grant the member control of the position.
 - Controllers must comply with [VATSIM Code of Conduct: Section C5](https://vatsim.net/docs/policy/code-of-conduct).
 - All members must respect each other's bookings.
 - Only controllers rated Student 1 (S1) or higher may submit a booking.
 - Event bookings follow a different procedure and must not be made through this system.
 - Controllers should avoid repeatedly booking the same positions.
-- 
 
 ### Controllers Not Showing Up for a Booked Position
 
