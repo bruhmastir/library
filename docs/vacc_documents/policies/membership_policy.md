@@ -78,10 +78,20 @@ A transfer controller is someone who wishes to permanently move to another vACC.
 - The controller must wait at least 90 days after any rating upgrade or a previous region/division transfer.
 - All transfers are subject to the VATSIM Transferring and Visiting Policy.
 
+To apply for a **transfer** to the **Arabian vACC**, please follow the step-by-step instructions provided in the official guide:
+
+👉 [**Joining the Arabian vACC**](https://library.arabian-vacc.com/vacc_documents/getting_started/joining_arabian/#introduction)
+
+This guide will walk you through the entire process, from checking your current assignment to submitting a formal transfer request. Be sure to read it carefully to ensure a smooth transition.
+
 ### Visting Controller
 A visiting controller is someone who wishes to occasionally control in another vACC while keeping their permanent home vACC.
 
-Controllers interested in visiting the Arabian vACC must follow the Transfer & Visiting Policy, available at: [Applying as a Visitor Controller](https://library.arabian-vacc.com/vacc_documents/getting_started/transfer_and_visiting/#visiting-within-the-arabian-vacc)
+To apply as a **visiting controller** to the **Arabian vACC**, please follow the step-by-step instructions provided in the official guide:
+
+👉 [**Applying as a Visiting Controller**](https://library.arabian-vacc.com/vacc_documents/getting_started/transfer_and_visiting/#visiting-within-the-arabian-vacc)
+
+This guide will walk you through the entire process, from checking your current assignment to submitting a formal transfer request. Be sure to read it carefully to ensure a smooth transition.
 
 ### VATMENA Transferring & Visiting Controller Policy
 The Arabian vACC follows section 7, 8, and 9 of the VATMENA membership policy in to inbound member transfer requests as well as visiting controller requests. Transfer controllers do not become full division members and visitiors will not be assigned to the ATC roster until the specific criteria has been accomplished. The following details the process transfer and visiting controllers shall take when requesting to transfer or visiting the Arabian vACC.
