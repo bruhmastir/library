@@ -9,10 +9,10 @@
 |---------------------|----------------------------|
 |         Type        |           Policy           |
 |       Revision      |           01/2025          |
-|    Effective Date   |         11 APR 2025        |
+|    Effective Date   |         06 APR 2025        |
 |     Prepared by     | Chriss Klosowski - ACCARB2 |
 |     Approved by     |  Chris Marriott - ACCARB1  |
-|   Next review date  |         11 APR 2026        |
+|   Next review date  |         06 APR 2026        |
 | Cancelled documents |       POL CMA R10/2021     |
 
 ### Record of Revisions
