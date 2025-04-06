@@ -87,8 +87,24 @@ The Arabian vACC is committed to maintaining high-quality control over its airsp
 ### Failure to Achieve the Required Hours
 If a controller fails to meet the above requirements, they will be removed from the Arabian vACC roster, and their endorsements will be revoked. A roster cleanup is conducted on the last day of the following months: March, June, September, and December (once per quarter). At least 1-2 weeks before the roster cleanup, a general warning will be issued on the Arabian vACC Discord server, and, when available, via a mass email.
 
+### Leave of Absence
+Members of the Arabian vACC may request a Leave of Absence (LoA) if they need a break from controlling. The following process applies:
+
+- Submit a support ticket through the Arabian vACC training system with the subject "Leave of Absence Request."
+- A valid reason must be provided. All LoA requests are subject to staff approval.
+- LoAs are granted for up to 90 days.
+- Controllers on LoA are exempt from the quarterly activity requirement and will be marked as "Not Approved" on the roster.
+- If a controller is found actively controlling during their LoA, the leave will be canceled and standard activity rules will apply immediately.
+- An LoA can only be renewed once, unless approved in writing by the Membership Director, Deputy Membership Director, or their designee.
+- Controllers may update or cancel their LoA by notifying staff.
+- After the LoA ends, controllers will return to active status with their previous approvals.
+- If the LoA was extended, a mentoring session may be required before resuming normal controlling duties.
+
 ### Regaining the Status
 #### Resident Controllers
-
+Resident controllers who have been marked as inactive and wish to regain their active status may do so once they are able to commit to the minimum requirements outlined in this policy. To begin this process, the controller must open a support ticket on the Arabian vACC Discord requesting reinstatement. Depending on the length of the inactivity period, a recurrency session may be required before active status is restored.
 
 #### Visiting Controllers
+Visiting controllers who have been removed from the Arabian vACC roster may only reapply after a minimum of 30 days has passed since their removal. Upon submitting a new application, and subject to acceptance, the controller must complete at least one recurrency session with a mentor or instructor on the position(s) they were last approved for at the time of removal. Additional mentoring sessions may be required if the mentor or instructor determines that the controller's performance does not meet the expected standards.
+
+New visiting controllers who are actively requesting training sessions are not subject to the activity requirement outlined in this policy. Additionally, visiting controllers who have received their approvals within the current quarter are exempt from these requirements.
