@@ -232,18 +232,16 @@ Controllers working top-down or handling excessive traffic may use this role to 
 
 For example, a controller managing Dubai Arrivals while also handling traffic on the ground at multiple airports (e.g., Al-Maktoum, Dubai, and Sharjah) may use this role to request support from aerodrome controllers.
 
-An example message utilizing this role is as follows:
-
-@ATC Support Requests, Currently on OMDB_APP covering OMDB, OMDW, and OMSJ top-down with traffic on the ground. Would appreciate any aerodrome controllers.
+!!! example
+    @ATC Support Requests, Currently on OMDB_APP covering OMDB, OMDW, and OMSJ top-down with traffic on the ground. Would appreciate any aerodrome controllers.
 
 #### ATC Relief Requests
 Controllers planning to leave their position but whose departure would cause significant disruption should use this role. This includes situations where closing the position would increase the workload of a higher-level position within the top-down hierarchy.
 
 For example, if you are on tower handling 12 departures and closing the position would significantly impact the approach or center controller's workload, this role should be used.
 
-An example message utilizing this role is as follows:
-
-@ATC Relief Requests, About to leave OTHH_1_TWR in 10 minutes, 10 aircraft on the ground with no DEL/GND with a busy OTDF_1_CTR above. Aerodrome relief would be appreciated.
+!!! example
+    @ATC Relief Requests, About to leave OTHH_1_TWR in 10 minutes, 10 aircraft on the ground with no DEL/GND with a busy OTDF_1_CTR above. Aerodrome relief would be appreciated.
 
 ---
 
