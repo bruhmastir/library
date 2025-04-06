@@ -123,8 +123,8 @@ Non-compliance may result in disciplinary action or restricted training and cont
 
 - **Consent and Notification**  
   Controllers intending to stream must:  
-  - Notify fellow controllers in the **Discord coordination channel**  
-  - Obtain consent from them before streaming in shared voice channels.
+    - Notify fellow controllers in the **Discord coordination channel**  
+    - Obtain consent from them before streaming in shared voice channels.
 
 If consent is denied, the streaming controller must move to a separate Discord channel to avoid disrupting coordination.
 
