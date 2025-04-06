@@ -164,6 +164,7 @@ Controllers must adhere to the following rules:
 - Only controllers rated Student 1 (S1) or higher may submit a booking.
 - Event bookings follow a different procedure and must not be made through this system.
 - Controllers should avoid repeatedly booking the same positions.
+- 
 
 ### Controllers Not Showing Up for a Booked Position
 
