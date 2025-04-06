@@ -79,15 +79,15 @@ The Arabian vACC maintains a high standard of realism and excellence in ATC oper
 
 - **Adherence to Official Procedures**  
   Controllers must follow the procedures outlined in:  
-  - Arabian vMATS  
-  - Published SOPs  
-  - Operational Changes  
-  - Letters of Agreement (LoAs)
+    - Arabian vMATS  
+    - Published SOPs  
+    - Operational Changes  
+    - Letters of Agreement (LoAs)
 
 - **Training Policy Compliance**  
   Controllers must adhere to:  
-  - The Arabian vACC Training Process for Home and Visiting Controllers  
-  - The Arabian vACC Activity Requirements Policy
+    - The Arabian vACC Training Process for Home and Visiting Controllers  
+    - The Arabian vACC Activity Requirements Policy
 
 Non-compliance may result in disciplinary action or restricted training and controlling privileges.
 
