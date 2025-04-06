@@ -60,11 +60,11 @@ Controllers in the Arabian vACC must uphold professionalism and adhere to the fo
 
 - **Compliance with Policies and Procedures**  
   Controllers must comply with all applicable Arabian vACC standards, policies, and procedures, including:  
-  - The Arabian vACC Training System  
-  - SOPs (Standard Operating Procedures)  
-  - vMATS (Virtual Manual of Air Traffic Services)  
-  - Operational Changes  
-  - Letters of Agreement (LoAs)
+    - The Arabian vACC Training System  
+    - SOPs (Standard Operating Procedures)  
+    - vMATS (Virtual Manual of Air Traffic Services)  
+    - Operational Changes  
+    - Letters of Agreement (LoAs)
 
 - **Zero Tolerance for Misconduct**  
   Hate speech, violence, derogatory remarks, or personal attacks directed at pilots or fellow controllers will result in **immediate and permanent removal** from the Arabian vACC, with further reporting to the VATSIM network.
