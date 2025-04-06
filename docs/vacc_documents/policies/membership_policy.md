@@ -70,16 +70,21 @@ All VATSIM members are required to adhere to the rules and regulations outlined 
 
 ## Controller Membership
 ### Transferring Controller
+A transfer controller is someone who wishes to permanently move to another vACC. The following rules apply to all transfer requests:
 
-
+- The controller may hold any ATC rating.
+- The controller must follow the Arabian vACC ATC Training Policy.
+- Before transferring, the controller must complete at least 50 hours of controlling in their current vACC to consolidate their rating.
+- The controller must wait at least 90 days after any rating upgrade or a previous region/division transfer.
+- All transfers are subject to the VATSIM Transferring and Visiting Policy.
 
 ### Visting Controller
+A visiting controller is someone who wishes to occasionally control in another vACC while keeping their permanent home vACC.
 
-
+Controllers interested in visiting the Arabian vACC must follow the Transfer & Visiting Policy, available at: [Applying as a Visitor Controller](https://library.arabian-vacc.com/vacc_documents/getting_started/transfer_and_visiting/#visiting-within-the-arabian-vacc)
 
 ### VATMENA Transferring & Visiting Controller Policy
-
-
+The Arabian vACC follows section 7, 8, and 9 of the VATMENA membership policy in to inbound member transfer requests as well as visiting controller requests. Transfer controllers do not become full division members and visitiors will not be assigned to the ATC roster until the specific criteria has been accomplished. The following details the process transfer and visiting controllers shall take when requesting to transfer or visiting the Arabian vACC.
 
 ## Controller Activity
 The Arabian vACC is committed to maintaining high-quality control over its airspace, guided by the principles of #ClearVision and #ClearMission. This is achieved by ensuring that all controllers meet the standards set by the vACC and remain up to date with all procedures. As part of this commitment, all controllers within the Arabian vACC are required to log a minimum of **6 hours** of controlling on their **highest approved position** each quarter (**every 3 months**).
@@ -88,9 +93,9 @@ The Arabian vACC is committed to maintaining high-quality control over its airsp
 If a controller fails to meet the above requirements, they will be removed from the Arabian vACC roster, and their endorsements will be revoked. A roster cleanup is conducted on the last day of the following months: March, June, September, and December (once per quarter). At least 1-2 weeks before the roster cleanup, a general warning will be issued on the Arabian vACC Discord server, and, when available, via a mass email.
 
 ### Leave of Absence
-Members of the Arabian vACC may request a Leave of Absence (LoA) if they need a break from controlling. The following process applies:
+Controllers of the Arabian vACC may request a Leave of Absence (LoA) if they need a break from controlling. The following process applies:
 
-- Submit a support ticket through the Arabian vACC training system with the subject "Leave of Absence Request."
+- Submit a support ticket through the Arabian vACC Discord with the subject "Leave of Absence Request."
 - A valid reason must be provided. All LoA requests are subject to staff approval.
 - LoAs are granted for up to 90 days.
 - Controllers on LoA are exempt from the quarterly activity requirement and will be marked as "Not Approved" on the roster.
