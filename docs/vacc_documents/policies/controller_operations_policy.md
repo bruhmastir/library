@@ -178,20 +178,18 @@ Controllers must fulfill their bookings. If unable to attend, they must cancel t
 
 The Arabian vACC uses the VATSIM ATC booking system for event bookings. This system ensures uninterrupted ATC services for participating pilots.
 
-### Expression of Interest and Confirmation Process
+### Expression of Interest
 
-Controllers express interest in events via the Arabian vACC Discord forum. The event marketing team publishes the roster 3-12 hours before the event.
+Controllers express interest in events via the Arabian vACC Discord forum.
 
-### Event Roster
-
-The roster is posted in the "rostering" channel on Discord at least 3 hours before the event starts. Controllers will be confirmed in the VATSIM ATC system.
-
-### Event Booking Rules
-
+#### Expression of Interest Rules
 * Controllers may only express interest for positions they are authorized to control.
 * Expressions of interest must be made exclusively through Discord.
 * Positions may be re-assigned based on event needs.
 * Controllers will be prioritized for events they have not participated in recently.
+
+### Event Roster
+The roster is posted in the "rostering" channel on Discord at least 3 hours before the event starts. Controllers will be confirmed in the VATSIM ATC system.
 
 ### Controllers Unable to Attend Their Rostered Slot
 
@@ -220,6 +218,32 @@ flowchart LR
 ### Use of Relief Callsigns
 
 Controllers relieving others during peak hours must use a relief callsign (e.g., `OMDB_R1_TWR`) to ensure proper transition and avoid disruption.
+
+---
+
+### Discord Support Roles
+Controllers may "subscribe" to specific roles on the Arabian vACC Discord server to receive notifications whenever those roles are used for the following purposes outlined below.
+
+#### ATC Event Requests
+The following role is used by the Arabian vACC Marketing Department to request controllers to express their interest in specific positions for upcoming events.
+
+#### ATC Support Requests
+Controllers working top-down or handling excessive traffic may use this role to request support from lower-level controllers. This role is intended for situations where a controller is managing high-level traffic and requires assistance from a lower controller at a specific location.
+
+For example, a controller managing Dubai Arrivals while also handling traffic on the ground at multiple airports (e.g., Al-Maktoum, Dubai, and Sharjah) may use this role to request support from aerodrome controllers.
+
+An example message utilizing this role is as follows:
+
+@ATC Support Requests, Currently on OMDB_APP covering OMDB, OMDW, and OMSJ top-down with traffic on the ground. Would appreciate any aerodrome controllers.
+
+#### ATC Relief Requests
+Controllers planning to leave their position but whose departure would cause significant disruption should use this role. This includes situations where closing the position would increase the workload of a higher-level position within the top-down hierarchy.
+
+For example, if you are on tower handling 12 departures and closing the position would significantly impact the approach or center controller's workload, this role should be used.
+
+An example message utilizing this role is as follows:
+
+@ATC Relief Requests, About to leave OTHH_1_TWR in 10 minutes, 10 aircraft on the ground with no DEL/GND with a busy OTDF_1_CTR above. Aerodrome relief would be appreciated.
 
 ---
 
