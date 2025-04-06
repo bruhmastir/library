@@ -80,7 +80,7 @@ A transfer controller is someone who wishes to permanently move to another vACC.
 
 To apply for a **transfer** to the **Arabian vACC**, please follow the step-by-step instructions provided in the official guide:
 
-👉 [**Joining the Arabian vACC**](https://library.arabian-vacc.com/vacc_documents/getting_started/joining_arabian/#introduction)
+👉 [**Joining the Arabian vACC**](https://library.arabian-vacc.com/vacc_documents/getting_started/joining_arabian/)
 
 This guide will walk you through the entire process, from checking your current assignment to submitting a formal transfer request. Be sure to read it carefully to ensure a smooth transition.
 
@@ -89,7 +89,7 @@ A visiting controller is someone who wishes to occasionally control in another v
 
 To apply as a **visiting controller** to the **Arabian vACC**, please follow the step-by-step instructions provided in the official guide:
 
-👉 [**Applying as a Visiting Controller**](https://library.arabian-vacc.com/vacc_documents/getting_started/transfer_and_visiting/#visiting-within-the-arabian-vacc)
+👉 [**Applying as a Visiting Controller**](https://library.arabian-vacc.com/vacc_documents/getting_started/transfer_and_visiting/)
 
 This guide will walk you through the entire process, from checking your current assignment to submitting a formal transfer request. Be sure to read it carefully to ensure a smooth transition.
 
