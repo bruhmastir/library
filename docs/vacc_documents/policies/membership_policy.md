@@ -62,64 +62,85 @@
 
 
 ## Organization
-The Arabian Virtual Area Control Center (referred to as the Arabian vACC or ARBvACC) is a subdivision within the Middle East & North Africa Division (VATMENA) and the Europe, Middle East, and Africa Region (VATEMEA) under the VATSIM Network. Its primary objective is to provide and facilitate air traffic control services on the VATSIM network within the airspaces of Oman, Qatar, and the United Arab Emirates, striving for excellence in realism with the guiding principles of #ClearVision and #ClearMission.
+The **Arabian Virtual Area Control Center** (hereinafter referred to as **Arabian vACC** or **ARBvACC**) is a recognized subdivision within the **Middle East & North Africa Division (VATMENA)**, operating under the **Europe, Middle East, and Africa Region (VATEMEA)** of the **VATSIM Network**.
 
-The Arabian vACC is responsible for the training and staffing of air traffic controllers, ensuring the safe and efficient operation of airspaces in Doha (OTDF), Muscat (OOMM), and the U.A.E (OMAE).
+The Arabian vACC is responsible for the provision, management, and facilitation of Air Traffic Control (ATC) services on the VATSIM network across the airspaces of **Oman**, **Qatar**, and the **United Arab Emirates**. These services are delivered in accordance with the vACC's guiding values of **#ClearVision** and **#ClearMission**, aiming to uphold a high standard of realism and operational excellence.
 
-All VATSIM members are required to adhere to the rules and regulations outlined in the VATSIM Code of Conduct and Code of Regulations, which govern the operations of the network.
+As part of its core responsibilities, the Arabian vACC oversees the training and certification of controllers operating within the **Muscat FIR (OOMM)**, **Doha FIR (OTDF)**, and **U.A.E FIR (OMAE)**.
+
+All members of VATSIM are expected to comply with the **VATSIM Code of Conduct** and **Code of Regulations**, which serve as the foundational rules governing behavior and operations across the network.
 
 ## Controller Membership
-### Transferring Controller
-A transfer controller is someone who wishes to permanently move to another vACC. The following rules apply to all transfer requests:
+### Transferring Controllers
+A **transferring controller** is defined as a VATSIM member seeking a permanent reassignment from their current vACC to the Arabian vACC. The following conditions apply:
 
-- The controller may hold any ATC rating.
-- The controller must follow the Arabian vACC ATC Training Policy.
-- Before transferring, the controller must complete at least 50 hours of controlling in their current vACC to consolidate their rating.
-- The controller must wait at least 90 days after any rating upgrade or a previous region/division transfer.
-- All transfers are subject to the VATSIM Transferring and Visiting Policy.
+- The controller may hold **any ATC rating**.
+- A **minimum of 50 hours of controlling** must be logged at the current vACC before applying.
+- The controller must have completed any **rating upgrade or previous transfer at least 90 days prior** to the new transfer request.
+- The controller must agree to and comply with the **Arabian vACC ATC Training Policy** upon acceptance.
+- All transfers must conform to the **VATSIM Transfer and Visiting Controller Policy (TVCP)** and the **VATMENA Membership Policy**.
 
-To apply for a **transfer** to the **Arabian vACC**, please follow the step-by-step instructions provided in the official guide:
+To initiate a transfer request, please refer to the official guide:
 
 👉 [**Joining the Arabian vACC**](https://library.arabian-vacc.com/vacc_documents/getting_started/joining_arabian/)
 
-This guide will walk you through the entire process, from checking your current assignment to submitting a formal transfer request. Be sure to read it carefully to ensure a smooth transition.
+This guide outlines the required steps and documentation for a successful transfer application.
 
-### Visting Controller
-A visiting controller is someone who wishes to occasionally control in another vACC while keeping their permanent home vACC.
+### Visting Controllers
+A **visiting controller** is a VATSIM member who retains their primary home vACC but wishes to control within the Arabian vACC on an occasional basis. Visiting controllers must meet the following criteria:
 
-To apply as a **visiting controller** to the **Arabian vACC**, please follow the step-by-step instructions provided in the official guide:
+- Applicants must possess an **S2 ATC rating for VATMENA residents** or an **S3 ATC rating for non-VATMENA residents**, in compliance with the **VATSIM Global Controller Administration Policy (GCAP)** and **VATSIM Transfer Visiting Controller Policy (TVCP)**.
+- Must comply with the **Arabian vACC Training Policy** and **operational procedures**.
+- Acceptance is subject to staff discretion and space availability.
+
+To apply as a visitor, please consult the official visiting controller guide:
 
 👉 [**Applying as a Visiting Controller**](https://library.arabian-vacc.com/vacc_documents/getting_started/transfer_and_visiting/)
 
-This guide will walk you through the entire process, from checking your current assignment to submitting a formal transfer request. Be sure to read it carefully to ensure a smooth transition.
+This guide provides step-by-step instructions for submitting your application and preparing for operations within the Arabian vACC.
 
-### VATMENA Transferring & Visiting Controller Policy
-The Arabian vACC follows section 7, 8, and 9 of the VATMENA membership policy in to inbound member transfer requests as well as visiting controller requests. Transfer controllers do not become full division members and visitiors will not be assigned to the ATC roster until the specific criteria has been accomplished. The following details the process transfer and visiting controllers shall take when requesting to transfer or visiting the Arabian vACC.
+### VATMENA Transfer and Visiting Policy Alignment
+The Arabian vACC abides by Sections **7, 8, and 9** of the **VATMENA Membership Policy** regarding all inbound transfer and visiting controller requests. Please note:
 
-## Controller Activity
-The Arabian vACC is committed to maintaining high-quality control over its airspace, guided by the principles of #ClearVision and #ClearMission. This is achieved by ensuring that all controllers meet the standards set by the vACC and remain up to date with all procedures. As part of this commitment, all controllers within the Arabian vACC are required to log a minimum of **6 hours** of controlling on their **highest approved position** each quarter (**every 3 months**).
+- **Transfer controllers** are not considered full division members until all onboarding and training requirements have been met.
+- **Visiting controllers** will not be added to the Arabian vACC ATC roster until all initial approvals and training prerequisites are fulfilled.
 
-### Failure to Achieve the Required Hours
-If a controller fails to meet the above requirements, they will be removed from the Arabian vACC roster, and their endorsements will be revoked. A roster cleanup is conducted on the last day of the following months: March, June, September, and December (once per quarter). At least 1-2 weeks before the roster cleanup, a general warning will be issued on the Arabian vACC Discord server, and, when available, via a mass email.
+## Controller Activity Requirements
+To maintain a high level of operational readiness and service, all controllers assigned to the Arabian vACC are required to meet the following **minimum quarterly activity** threshold:
 
-### Leave of Absence
-Controllers of the Arabian vACC may request a Leave of Absence (LoA) if they need a break from controlling. The following process applies:
+- **6 hours of controlling** must be logged every **three months (quarter)** on the controller’s **highest approved position**.
 
-- Submit a support ticket through the Arabian vACC Discord with the subject "Leave of Absence Request."
-- A valid reason must be provided. All LoA requests are subject to staff approval.
-- LoAs are granted for up to 90 days.
-- Controllers on LoA are exempt from the quarterly activity requirement and will be marked as "Not Approved" on the roster.
-- If a controller is found actively controlling during their LoA, the leave will be canceled and standard activity rules will apply immediately.
-- An LoA can only be renewed once, unless approved in writing by the Membership Director, Deputy Membership Director, or their designee.
-- Controllers may update or cancel their LoA by notifying staff.
-- After the LoA ends, controllers will return to active status with their previous approvals.
-- If the LoA was extended, a mentoring session may be required before resuming normal controlling duties.
+This activity requirement supports the Arabian vACC's core values of **#ClearVision** and **#ClearMission**, ensuring service consistency and procedural compliance.
 
-### Regaining the Status
+### Non-Compliance and Roster Removals
+Controllers who fail to meet the quarterly activity requirement will be:
+
+- Removed from the Arabian vACC roster;
+- Have all **endorsements and position approvals revoked**.
+
+**Roster cleanups** are conducted on the final day of March, June, September, and December. A general notice will be issued on the Arabian vACC Discord server and, where possible, by mass email **1–2 weeks in advance**.
+
+### Leave of Absence (LoA)
+Controllers may request a **Leave of Absence (LoA)** if unable to meet activity requirements. The following conditions apply:
+
+- Submit a **support ticket** via the Arabian vACC Discord, titled **"Leave of Absence Request"**.
+- Provide a **valid reason** for the request. Approval is subject to staff discretion.
+- LoA duration: **up to 90 days**, with **one renewal allowed** unless extended by written approval from the Membership Director or designee.
+- Controllers on LoA are exempt from the activity requirement and will be marked as **“Not Approved”** on the roster.
+- If a controller is found actively controlling on the network during their LoA, the leave will be **immediately revoked**.
+
+Controllers may **cancel or modify** their LoA by notifying the Membership Department. Upon completion, the controller will return to their previously approved status. A **recurrency session** may be required if the LoA was extended.
+
+### Regaining Active Status
 #### Resident Controllers
-Resident controllers who have been marked as inactive and wish to regain their active status may do so once they are able to commit to the minimum requirements outlined in this policy. To begin this process, the controller must open a support ticket on the Arabian vACC Discord requesting reinstatement. Depending on the length of the inactivity period, a recurrency session may be required before active status is restored.
+Controllers removed due to inactivity may request reinstatement once able to meet the required standards. This is done by submitting a **support ticket via Discord**. Depending on the duration of inactivity, a **recurrency session** may be required before active status is restored.
 
 #### Visiting Controllers
-Visiting controllers who have been removed from the Arabian vACC roster may only reapply after a minimum of 30 days has passed since their removal. Upon submitting a new application, and subject to acceptance, the controller must complete at least one recurrency session with a mentor or instructor on the position(s) they were last approved for at the time of removal. Additional mentoring sessions may be required if the mentor or instructor determines that the controller's performance does not meet the expected standards.
+Visiting controllers removed for inactivity or other reasons may **reapply after a minimum of 30 days**. Upon re-acceptance:
 
-New visiting controllers who are actively requesting training sessions are not subject to the activity requirement outlined in this policy. Additionally, visiting controllers who have received their approvals within the current quarter are exempt from these requirements.
+- At least **one recurrency session** must be completed on the position(s) held at the time of removal.
+- Further training may be required if the controller does not meet performance standards.
+
+**Exemptions**:
+- New visiting controllers actively engaged in training are exempt from the quarterly activity requirement.
+- Visiting controllers approved **within the current quarter** are also exempt.
