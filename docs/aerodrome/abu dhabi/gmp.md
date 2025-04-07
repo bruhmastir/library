@@ -176,7 +176,7 @@ A radar departure clearance shall contain the following information:
       Aircraft on radar departure shall have the text **RDR** inserted to the scratchpad section of their entry on the departure list.
 
 ## 2.4 Rerouting aircraft and standard routes
-An aircraft shall be issued a reroute by GMC if the pilot’s route doesn’t comply with the standard routes laid out in Table 2-5. 
+An aircraft shall be issued a reroute by GMP if the pilot’s route doesn’t comply with the standard routes laid out in Table 2-5. 
 
 Several routing restrictions exist within UAE airspace and must be complied with when issuing a departure clearance. 
 

@@ -1,5 +1,5 @@
 ---
-  title: Join Us
+  title: Starting ATC Training
 
 ---
 # Join Us

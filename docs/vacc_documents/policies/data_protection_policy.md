@@ -1,7 +1,36 @@
 ---
-  title: Data Protection
+  title: Data Protection Policy
 
 ---
+# Data Protection Policy
+## Policy Information
+### Control Details
+|                     |                                                 |
+|---------------------|-------------------------------------------------|
+|         Type        |                      Policy                     |
+|       Revision      |                      01/2025                    |
+|    Effective Date   |                    07 APR 2025                  |
+|     Prepared by     |             Chriss Klosowski - ACCARB2          |
+|     Approved by     |              Chris Marriott - ACCARB1           |
+|   Next review date  |                    07 APR 2026                  |
+| Cancelled documents |                                                 |
+
+### Record of Revisions
+<table><thead>
+  <tr>
+    <th>Revision Number</th>
+    <th>Notes</th>
+    <th>Effective Date</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>01/2025</td>
+    <td>Initial Issue</td>
+    <td>07 APR 2025</td>
+  </tr>
+  </tr>
+</tbody></table>
+
 # Data Protection
 ## Limitation of Liability
 This document has been prepared for use on the VATSIM network only. It should never be used for real world aviation operations. The authors cannot be held liable for any personal injury and/or
