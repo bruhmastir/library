@@ -93,6 +93,7 @@ Students can find a comprehensive installation guide at the following links:
 - [Audio Clients](https://library.arabian-vacc.com/foundations/controller%20software/audio/)
 - [vATIS](https://library.arabian-vacc.com/foundations/controller%20software/vatis/)
 
+
 ##### Discord
 Discord is the communication platform used by the vACC for members to meet and interact. It features dedicated channels for pilots, controller coordination, training, examinations, and other relevant announcements from the vACC staff. 
 
