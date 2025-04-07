@@ -144,4 +144,3 @@ Visiting controllers removed for inactivity or other reasons may **reapply after
 **Exemptions**:
 - New visiting controllers actively engaged in training are exempt from the quarterly activity requirement.
 - Visiting controllers approved **within the current quarter** are also exempt.
-- 
