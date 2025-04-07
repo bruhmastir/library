@@ -97,4 +97,3 @@ Students can find a comprehensive installation guide at the following links:
 Discord is the communication platform used by the vACC for members to meet and interact. It features dedicated channels for pilots, controller coordination, training, examinations, and other relevant announcements from the vACC staff. 
 
 Due to U.A.E. laws, VOIP services are currently blocked, meaning members residing in the U.A.E. will not be able to access voice channels. The only way to use these channels is through a VPN (use at your own risk).
-
