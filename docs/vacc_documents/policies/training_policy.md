@@ -54,8 +54,8 @@ Our approach balances theory and practice, with a progression system designed to
 
 ### The Waiting List
 #### Maintaining Your Spot on the Waiting List
-##### Losing Your Spot on the Waiting List
-##### Controller Activity
+#### Losing Your Spot on the Waiting List
+#### Controller Activity
 
 ### Training Plan
 #### Training Availability Across Arabian vACC FIRs
