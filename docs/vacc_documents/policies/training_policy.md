@@ -62,3 +62,39 @@ flowchart TD
     C --> F1[Instructors]
     C --> G1[Mentors]
 ```
+
+### Job Descriptions
+#### Department Directors
+##### Department Director
+
+##### Department Deputy Director
+
+#### Instructors
+##### Senior Instructor (I3)
+
+##### Instructor (I1)
+
+#### Mentors
+
+## ATC Training Program
+The following section outlines the procedures students must follow to progress through the various VATSIM ratings and how to obtain them.
+
+If a student transfers out of the Arabian vACC—whether on the waiting list or in active ATC training—they must notify the vACC by submitting a support ticket via the Arabian vACC Discord. Students occupying a training slot or place on the waiting list will be removed from both upon transferring to another vACC or Division.
+
+Training resources are limited. Students are advised to carefully consider where they wish to train before committing, to ensure efficient use of available resources and time.
+
+### Generalities
+#### Software
+##### Euroscope, Audio for VATSIM, vATIS
+All controlling within the Arabian vACC is conducted using the Euroscope controlling client. The Arabian vACC Operations Department manages the sector files for the Doha FIR (OTDF), Muscat FIR (OOMM), and U.A.E FIR (OMAE) on the AeroNav GNG platform, which is accessible through the Euroscope client. These files contain all necessary data for airspace, frequencies, navigation, and other relevant information.
+
+Students can find a comprehensive installation guide at the following links:
+- [Euroscope](https://library.arabian-vacc.com/foundations/controller%20software/euroscope/)
+- [Audio Clients](https://library.arabian-vacc.com/foundations/controller%20software/audio/)
+- [vATIS](https://library.arabian-vacc.com/foundations/controller%20software/vatis/)
+
+##### Discord
+Discord is the communication platform used by the vACC for members to meet and interact. It features dedicated channels for pilots, controller coordination, training, examinations, and other relevant announcements from the vACC staff. 
+
+Due to U.A.E. laws, VOIP services are currently blocked, meaning members residing in the U.A.E. will not be able to access voice channels. The only way to use these channels is through a VPN (use at your own risk).
+
