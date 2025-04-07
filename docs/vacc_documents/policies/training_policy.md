@@ -40,7 +40,7 @@ The **Arabian Virtual Area Control Center** (hereinafter referred to as **Arabia
 
 The Arabian vACC is responsible for the provision, management, and facilitation of Air Traffic Control (ATC) services across the VATSIM network within the airspaces of **Oman**, **Qatar**, and the **United Arab Emirates**. These services are delivered in alignment with the vACC’s core values of **#ClearVision** and **#ClearMission**, reflecting a commitment to realism and operational excellence.
 
-This policy defines the ATC training process for both resident and visiting controllers within the Arabian vACC. It outlines the stages required to progress through the VATSIM rating system and details the procedures followed by training staff, mentors, instructors, examiners, and students.
+This policy defines the ATC training procedures for both resident and visiting controllers within the Arabian vACC. It outlines the stages required to progress through the VATSIM rating system and details the procedures followed by training staff, mentors, instructors, examiners, and students.
 
 It supersedes all previous resident and visitor training policies published within the Arabian vACC Library. In case of uncertainty, this document shall be considered the authoritative reference.
 
@@ -48,3 +48,17 @@ It supersedes all previous resident and visitor training policies published with
 !!! warning
     This policy is intended for use on the VATSIM network only and must not be used for real-world aviation operations. The authors accept no liability for any injury or death resulting from its misuse.
 
+## ATC Training Department
+### Department Chart
+``` mermaid
+flowchart TD
+    A[Middle East & North Africa Division] --> B(Arabian vACC)
+    B --> C(ATC Training)
+    B --> D(ATC Operations)
+    B --> E(Marketing)
+    B --> F(Membership)
+    B --> G(Tech)
+    C --> D1[Department Directors]
+    C --> F1[Instructors]
+    C --> G1[Mentors]
+```
