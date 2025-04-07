@@ -85,16 +85,17 @@ Training resources are limited. Students are advised to carefully consider where
 
 ### Generalities
 #### Software
-##### Euroscope, Audio for VATSIM, vATIS
+##### Controlling Software
 All controlling within the Arabian vACC is conducted using the Euroscope controlling client. The Arabian vACC Operations Department manages the sector files for the Doha FIR (OTDF), Muscat FIR (OOMM), and U.A.E FIR (OMAE) on the AeroNav GNG platform, which is accessible through the Euroscope client. These files contain all necessary data for airspace, frequencies, navigation, and other relevant information.
 
 Students can find a comprehensive installation guide at the following links:
-- [Euroscope](https://library.arabian-vacc.com/foundations/controller%20software/euroscope/)
+- [Euroscope Controlling Client](https://library.arabian-vacc.com/foundations/controller%20software/euroscope/)
 - [Audio Clients](https://library.arabian-vacc.com/foundations/controller%20software/audio/)
-- [vATIS](https://library.arabian-vacc.com/foundations/controller%20software/vatis/)
+- [vATIS Client](https://library.arabian-vacc.com/foundations/controller%20software/vatis/)
 
 
 ##### Discord
 Discord is the communication platform used by the vACC for members to meet and interact. It features dedicated channels for pilots, controller coordination, training, examinations, and other relevant announcements from the vACC staff. 
 
-Due to U.A.E. laws, VOIP services are currently blocked, meaning members residing in the U.A.E. will not be able to access voice channels. The only way to use these channels is through a VPN (use at your own risk).
+!!! info
+    Due to U.A.E. laws, VOIP services are currently blocked, meaning members residing in the U.A.E. will not be able to access voice channels. The only way to use these channels is through a VPN (use at your own risk).
