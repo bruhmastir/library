@@ -42,11 +42,67 @@ Our training spans three key FIRs across the Middle East: Doha (OTDF), Muscat (O
 
 Our approach balances theory and practice, with a progression system designed to build your skills one rating at a time. This handbook will guide you through that journey — from initial onboarding to rating advancement, endorsement acquisition, and beyond.
 
-### Limitation of Liability
 !!! warning
-    This policy is intended for use on the VATSIM network only and must not be used for real-world aviation operations. The authors accept no liability for any injury or death resulting from its misuse.
+    All documentation in this section is intended solely for use on the VATSIM network and must not be used for real-world aviation operations. The authors disclaim any liability for personal injury or death resulting from misuse of this material.
 
+## Building Blocks for ATC Students
+### Software
+#### Controller Client
+#### Audio Client(s)
+#### vATIS Client
+#### Discord
 
+### The Waiting List
+#### Maintaining Your Spot on the Waiting List
+##### Losing Your Spot on the Waiting List
+##### Controller Activity
+
+### Training Plan
+#### Training Availability Across Arabian vACC FIRs
+Training may be conducted within any of the Arabian vACC's three FIRs, with the exception of Tier-1 positions. The available training facilities are as follows:
+
+#### Aerodrome (S1/S2)
+- Doha-Hamad International Airport (OTHH)
+- Muscat International Airport (OOMS)
+- Sharjah International Airport (OMSJ)
+- Sheikh Zayed International Airport (OMAA)
+
+#### Terminal (S3)
+- Abu Dhabi TMA (OMAA/OMAD/OMAL)
+- Doha TMA (OTHH/OTBD)
+- Muscat TMA (OOMS)
+
+#### Enroute (C1)
+- Doha FIR (OTDF)
+- Muscat FIR (OOMS)
+- United Arab Emirates FIR (OMAE)  
+  - *Note: Controllers seeking Enroute training within the U.A.E FIR must possess all Tier-1 endorsements. In the absence of these endorsements, training will be limited to the U.A.E South Sector, which excludes the Dubai TMA.*
+
+##### Maintaining Your Training Spot
+##### Losing Your Training Spot
+
+### Self-Study
+
+### Solo Validations
+
+### Examinations
+
+### Fast-Track Program
+
+### IVAO Rating Transfer
+
+### Grading Criteria
+
+## ATC Training Syllabus
+### S1 Training
+### S2 Training
+### S3 Training
+### C1 Training
+### C3
+### Additional Endorsements
+#### Dubai
+#### AFIS
+#### Military
 
 
 
