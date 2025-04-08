@@ -250,6 +250,47 @@ Suprojit Paul required to write this ection.
 ### C3
 ### Additional Endorsements
 #### Dubai
+All positions within Dubai are designated as Tier 1 under the GCAP policy. As such, controllers of all ratings must obtain a Tier 1 endorsement before they are authorized to control any Dubai positions.
+
+It is important to note that the airports of Al-Maktoum (OMDW) and Sharjah (OMSJ) are not classified as Tier 1 and do not require a Tier 1 endorsement to control.
+
+The following Dubai-specific endorsements are available:
+
+- **Dubai DEL/GND** – For controllers holding an S1 rating  
+- **Dubai TWR** – For controllers holding an S2 rating  
+- **Dubai TMA** – For controllers holding an S3 rating  
+
+Please note: The **Dubai TMA** endorsement is also required to conduct training or operations on the U.A.E Radar position when using the bandbox sector in a top-down capacity.
+
+##### Eligibility
+Before a controller is eligible to complete a Tier 1 Dubai endorsement, they must meet the following requirements:
+
+- Be **active on the Arabian vACC Controller Roster**  
+- Have **no significant negative feedback** on record
+
+Additional requirements based on the endorsement being pursued:
+
+- **Dubai DEL/GND** – Minimum of 25 hours on the S1 rating  
+- **Dubai TWR** – Minimum of 25 hours on the S2 rating  
+- **Dubai TMA** – Minimum of 35 hours on the S3 rating  
+
+Controllers who meet all the requirements above must submit a support ticket to the Arabian vACC ATC Training Department to express their interest in obtaining the Tier 1 Dubai endorsement. 
+
+If a controller applies for a DEL/GND endorsement and later obtains their S2 rating, they will need to go through the same process again to obtain the next Tier 1 Dubai endorsement for TWR. Similarly, controllers holding an S3 rating and seeking the Tier 1 Dubai endorsement for TMA will need to follow the same process.
+
+##### Theoretical Course & Examination
+The theoretical course for the specific Tier 1 Dubai endorsement is available through the [Arabian vACC Moodle](https://moodle.arabian-vacc.com) platform. This course includes all relevant resources required to understand and operate the Dubai positions effectively.
+
+Access to the theoretical examination will only be granted once the controller has met all eligibility criteria outlined above and has formally requested access.
+
+Upon successful completion of the theoretical examination, the controller must submit a support ticket to the Arabian vACC ATC Training Department confirming they have passed and completed the theoretical examination. Once the department has verified the result, the controller will be eligible to proceed to the practical phase. 
+
+##### Practical Training
+Controllers who have passed the specific Tier 1 Dubai theoretical examination will then be able to proceed to the practical phase and undergo sessions with a mentor or instructor. These sessions will cover the practical aspects of the training, applying all theoretical knowledge to ensure the controller understands the procedures and operations of the position.
+
+After completing the practical phase and once a mentor or instructor is satisfied with the controller's performance, the endorsement will be added to the controller's profile on Hayya.
+
+Controllers are not permitted to connect on any Dubai positions until the endorsement is visible on the controller roster on Hayya.
 
 #### AFIS
 All Aerodrome Flight Information Service (AFIS) positions within the Arabian vACC, located in the Doha (OTDF), Muscat (OOMM), and U.A.E (OMAE) FIRs, are classified as Tier 2 positions under the GCAP policy.
