@@ -250,7 +250,30 @@ Suprojit Paul required to write this ection.
 ### C3
 ### Additional Endorsements
 #### Dubai
+
 #### AFIS
+All Aerodrome Flight Information Service (AFIS) positions within the Arabian vACC, located in the Doha (OTDF), Muscat (OOMM), and U.A.E (OMAE) FIRs, are classified as Tier 2 positions under the GCAP policy.
+
+As a result, controllers must obtain a specific Tier 2 endorsement before being authorized to control any AFIS position within these FIRs. This endorsement ensures that the controller has demonstrated the required knowledge and competence to operate safely and effectively in an AFIS environment.
+
+##### Eligibility
+Before a controller is eligible to complete a Tier 2 endorsement, they must meet the following requirements:
+
+- Be **active on the Arabian vACC Controller Roster**.
+- Have accumulated a **minimum of 50 hours** controlling under their S2 rating.
+- Have **no significant negative feedback** on record.
+
+If controllers have met all the requirements listed above, they must submit a support ticket to the Arabian vACC ATC Training Department to express their interest in obtaining the AFIS endorsement. 
+
+##### Theoretical Course & Examination
+The theoretical course for AFIS operations is available through the (Arabian vACC Moodle)[https://moodle.arabian-vacc.com] platform. This course includes all relevant resources required to understand and operate AFIS positions effectively.
+
+Access to the theoretical examination will only be granted once the controller has met all eligibility criteria outlined above and has formally requested access.
+
+Upon successful completion of the theoretical examination, the controller must submit a support ticket to the Arabian vACC ATC Training Department confirming they have passed and completed the theoretical examination. Once the department has verified the result, the AFIS endorsement will be added to the controller's profile.
+
+Controllers are not permitted to connect on any AFIS positions until the endorsement is visible on the controller roster on Hayya.
+
 #### Military
 
 
