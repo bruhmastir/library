@@ -195,6 +195,13 @@ The roster is posted in the "rostering" channel on Discord at least 3 hours befo
 
 Controllers must notify the Arabian vACC Marketing Director or Deputy Director if they cannot attend their rostered slot. Failure to do so repeatedly may result in exclusion from future events.
 
+### Controllers Not Showing Up for a rostered position
+
+Controllers are required to fulfill all assigned rostered positions. In the event of an unavoidable absence, timely notification is mandatory. Repeated unexcused absences may lead to removal from future event rosters.
+
+!!! warning
+    Participants who fail to attend CPTs without a valid reason will be subject to an immediate suspension from participating in the next three events.
+
 ### Event Briefings
 
 Controllers must attend the event briefing 15 minutes before the event, which will cover hot topics, weather, and special procedures.
