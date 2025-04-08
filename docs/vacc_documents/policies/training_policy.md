@@ -320,14 +320,27 @@ All military positions within the Arabian vACC, located in the Doha (OTDF), Musc
 
 As such, controllers must obtain a dedicated Tier 2 military endorsement before they are authorized to control any military position within these FIRs. This endorsement confirms that the controller has demonstrated the necessary knowledge and operational competence to manage military traffic in accordance with established procedures and standards.
 
+The following military-specific endorsements are available:
+
+- **Military TWR** – For controllers holding an S2 rating  
+- **Military APP** – For controllers holding an S3 rating  
+- **Military CTR** – For controllers holding a C1 rating  
+
 ##### Eligibility
 Before a controller is eligible to complete a Tier 2 military endorsement, they must meet the following requirements:
 
-- Be **active on the Arabian vACC Controller Roster**.
-- Have accumulated a **minimum of 50 hours** controlling under their S2 rating.
-- Have **no significant negative feedback** on record.
+- Be **active on the Arabian vACC Controller Roster**  
+- Have **no significant negative feedback** on record
+
+Additional requirements based on the endorsement being pursued:
+
+- **Military TWR** – Minimum of 50 hours on the S2 rating  
+- **Military APP** – Minimum of 50 hours on the S2 rating  
+- **Military CTR** – Minimum of 50 hours on the C1 rating  
 
 If controllers have met all the requirements listed above, they must submit a support ticket to the Arabian vACC ATC Training Department to express their interest in obtaining the military endorsement. 
+
+If a controller applies for a TWR endorsement and later obtains their S2 rating, they will need to go through the same process again to obtain the next Tier 2 military endorsement for APP. Similarly, controllers holding a C1 rating and seeking the Tier 2 military endorsement for CTR will need to follow the same process.
 
 ##### Theoretical Course & Examination
 The theoretical course for military operations is available through the [Arabian vACC Moodle](https://moodle.arabian-vacc.com) platform. This course contains all essential materials required to understand and operate military positions effectively within the Arabian vACC.
@@ -337,5 +350,3 @@ Access to the theoretical examination will only be granted once the controller h
 Upon successful completion of the theoretical examination, the controller must submit a support ticket to the Arabian vACC ATC Training Department confirming they have passed the assessment. Once the department has verified the result, the military endorsement will be added to the controller's profile.
 
 Controllers are not permitted to connect on any military positions until the endorsement is visible on their controller roster in Hayya.
-
-It is important to note that the Tier 2 military endorsement is only valid up to the controller’s current rating. Controllers must not operate military positions that exceed the scope of their rating, even if they hold the endorsement.
