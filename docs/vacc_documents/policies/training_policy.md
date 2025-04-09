@@ -53,9 +53,22 @@ Our approach balances theory and practice, with a progression system designed to
 #### Discord
 
 ### The Waiting List
+
 #### Maintaining Your Spot on the Waiting List
+
 #### Losing Your Spot on the Waiting List
+
 #### Controller Activity
+According to the Arabian vACC Membership Policy, controllers must log a minimum of **6 hours of ATC activity per calendar quarter** to remain active on the controller roster. 
+
+Failure to meet this requirement will result in **automatic removal** from the roster and **any associated training plan or waiting list**.
+
+The calendar quarters are defined as follows:
+
+- **1st January – 31st March**
+- **1st April – 30th June**
+- **1st July – 30th September**
+- **1st October – 31st December**
 
 ### Training Plan
 To be eligible for enrollment in a training plan on Hayya, students must meet the following criteria:
