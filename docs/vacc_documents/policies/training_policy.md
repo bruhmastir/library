@@ -134,7 +134,6 @@ The ATC Training Department Director reserves the right to remove a member from 
 
 All forfeiture decisions will be made in alignment with the broader goals of maintaining fairness, efficiency, and high standards across the training program.
 
-
 ### Self-Study
 Students are expected to engage with the theoretical content provided in the (Arabian vACC Library)[https://library.arabian-vacc.com] outside of their scheduled mentoring sessions. This includes, but is not limited to, reviewing assigned readings, practicing relevant skills, and deepening their understanding of core concepts. Mentors and instructors may also suggest additional resources or encourage observation of experienced controllers.
 
@@ -242,12 +241,91 @@ All members participating in the fast-track program are still required to comple
 ### Grading Criteria
 Suprojit Paul required to write this ection.
 
-## ATC Training Syllabus
+## ATC Training
 ### S1 Training
+
 ### S2 Training
+Controllers within the Arabian vACC who hold an S1 rating are eligible to request the commencement of their S2 training.
+
+##### Eligibility
+Before a controller is eligible to progress towards their S2 rating, they must meet the following requirements:
+
+- Be **active on the Arabian vACC Controller Roster**.
+- Have accumulated a **minimum of 50 hours** controlling under their S1 rating.
+- Have **no significant negative feedback** on record.
+
+Controllers who meet all of the above requirements must submit a support ticket to the Arabian vACC ATC Training Department to express their interest in progressing to the S2 rating. They will then be added to the waiting list.
+
+Once the controller has completed the prerequisites outlined in the Training Plan section—such as the relevant course module and theoretical examination—they will be offered a place in the S2 training plan at a designated aerodrome.
+
+##### Syllabus & Training Program
+The syllabus and training content for the S2 rating, as delivered by mentors and instructors, is available through the Arabian vACC Library.
+
 ### S3 Training
+Controllers within the Arabian vACC who hold an S2 rating are eligible to request the commencement of their S3 training.
+
+##### Eligibility
+Before a controller is eligible to progress towards their S3 rating, they must meet the following requirements:
+
+- Be **active on the Arabian vACC Controller Roster**.
+- Have accumulated a **minimum of 50 hours** controlling under their S2 rating.
+- Have **no significant negative feedback** on record.
+
+Controllers who meet all of the above requirements must submit a support ticket to the Arabian vACC ATC Training Department to express their interest in progressing to the S3 rating. They will then be added to the waiting list.
+
+Once the controller has completed the prerequisites outlined in the Training Plan section—such as the relevant course module and theoretical examination—they will be offered a place in the S3 training plan at a designated terminal facility.
+
+##### Syllabus & Training Program
+The syllabus and training content for the S3 rating, as delivered by mentors and instructors, is available through the Arabian vACC Library.
+
 ### C1 Training
+Controllers within the Arabian vACC who hold an S3 rating are eligible to request the commencement of their C1 training.
+
+##### Eligibility
+Before a controller is eligible to progress towards their C1 rating, they must meet the following requirements:
+
+- Be **active on the Arabian vACC Controller Roster**.
+- Have accumulated a **minimum of 50 hours** controlling under their S3 rating.
+- Have **no significant negative feedback** on record.
+
+Controllers who meet all of the above requirements must submit a support ticket to the Arabian vACC ATC Training Department to express their interest in progressing to the C1 rating. Upon submission, they will be added to the C1 waiting list.
+
+Once the controller has fulfilled the prerequisites outlined in the Training Plan section—including completion of the relevant course module and theoretical examination—they will be offered a position within the C1 training plan at an assigned enroute facility.
+
+**Note:** A valid **Dubai TMA** endorsement is required to undertake training or operations on the U.A.E Radar position when using the bandbox sector in a top-down configuration.
+
+##### Syllabus & Training Program
+The syllabus and training content for the C1 rating, as delivered by mentors and instructors, is available through the Arabian vACC Library.
+
 ### C3
+The Senior Controller (C3) rating may be awarded to a controller already certified to provide the six (6) standard VATSIM controller services (DEL, GND, TWR, APP, DEP, CTR) and who also provides services beyond those roles. The C3 rating is intended to recognize seniority, performance, or involvement in roles beyond standard control duties, as determined by the local Region or Division.
+
+The following requirements are set by VATMENA for the C3 rating:
+
+- Must have held a C1 rating for at least one year.
+- Must have completed 500 hours as a C1 or with any instructor ratings held on any ATC position.
+- Must have served at least 50 hours as active ATC within the last 6 months.
+- Must be in good standing within the VATMENA Division.
+- Must pass the VATMENA Senior Controller Practical Test (CPT).
+- Must demonstrate a strong understanding of ATC procedures and solid practical controlling skills.
+- Must demonstrate proficiency in written and spoken English.
+- Must be recommended by either:
+  - Their vACC Director and ATC Training Director, or
+  - The VATMENA Divisional ATC Training Director.
+
+The Controller Practical Test (CPT) for the C3 rating will assess:
+
+- Ability to service multiple airports or positions.
+- Ability to handle IFR and VFR traffic sharing the same airspace.
+- Ability to respond to abnormal situations.
+- Maintaining a steady and organized traffic flow.
+- Strong traffic awareness.
+- Maintaining situational awareness (“The Big Picture”).
+- Coordination with adjacent controllers.
+- Use of correct and professional English phraseology.
+
+Further information is available in the VATMENA Controller Practical Examination Policy.
+
 ### Additional Endorsements
 #### Dubai
 All positions within Dubai are designated as Tier 1 under the GCAP policy. As such, controllers of all ratings must obtain a Tier 1 endorsement before they are authorized to control any Dubai positions.
