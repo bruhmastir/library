@@ -1,5 +1,5 @@
 ---
-  title: Dubai Tier-1 Terminal Syllabus
+  title: Dubai Terminal Syllabus
 
 ---
 # ATC Training Policy

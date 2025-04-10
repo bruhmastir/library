@@ -1,5 +1,5 @@
 ---
-  title: Dubai Tier-1 Tower Syllabus
+  title: Dubai Tower Syllabus
 
 ---
 # ATC Training Policy

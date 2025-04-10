@@ -1,5 +1,5 @@
 ---
-  title: Dubai Tier-1 Delivery & Ground Syllabus
+  title: Dubai Delivery & Ground Syllabus
 
 ---
 # ATC Training Policy
