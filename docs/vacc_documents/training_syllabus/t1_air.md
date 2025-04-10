@@ -1,5 +1,5 @@
 ---
-  title: ATC Training Policy
+  title: Dubai Tier-1 Tower Syllabus
 
 ---
 # ATC Training Policy
@@ -7,13 +7,13 @@
 ### Control Details
 |                     |                                                    |
 |---------------------|----------------------------------------------------|
-|         Type        |                      Policy                        |
+|         Type        |                      Syllabus                      |
 |       Revision      |                      01/2025                       |
-|    Effective Date   |                    XX APR 2025                     |
+|    Effective Date   |                        TBA                         |
 |     Prepared by     |             Chriss Klosowski - ACCARB2             |
 |     Approved by     | Chris Marriott - ACCARB1 & Suprojit Paul - ACCARB3 |
-|   Next review date  |                    XX APR 2026                     |
-| Cancelled documents |                   Arabian ATC TRP                  |
+|   Next review date  |                        TBA                         |
+| Cancelled documents |                         -                          |
 
 ### Record of Revisions
 <table><thead>
@@ -24,14 +24,9 @@
   </tr></thead>
 <tbody>
   <tr>
-    <td>01/2024</td>
-    <td>Initial Issue</td>
-    <td>25 MAR 2024</td>
-  </tr>
-  <tr>
     <td>01/2025</td>
-    <td>TBD</td>
-    <td>13 APR 2025</td>
+    <td>Initial Issue</td>
+    <td>TBA</td>
   </tr>
 </tbody></table>
 
