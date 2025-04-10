@@ -47,10 +47,38 @@ Our approach balances theory and practice, with a progression system designed to
 
 ## Foundations for ATC Students
 ### Software
+The following software is essential for beginning your ATC training. Each of these tools will be required not only during your initial training but also throughout your entire ATC journey once you obtain your first rating.
+
 #### Controller Client
+Euroscope is the primary radar client used for controlling within the Arabian vACC. It can be downloaded from the [Euroscope website](https://www.euroscope.hu/wp/). All Arabian vACC sector files are specifically designed to work with Euroscope only.
+
+The ATC Operations Department releases updated sector files every AIRAC cycle to ensure controllers have the latest navigation data and any changes relevant to the FIRs. These files are built to closely replicate real-world ATM systems and operational layouts.
+
+Sector files for each FIR can be downloaded from the [AeroNav GNG website](https://files.aero-nav.com/), with direct links to each FIR below:
+
+- [Doha FIR (OTDF)](https://files.aero-nav.com/OTDF)
+- [Muscat FIR (OOMM)](https://files.aero-nav.com/OOMM)
+- [U.A.E FIR (OMAE)](https://files.aero-nav.com/OMAE)
+
+A detailed setup guide for installing Euroscope and the Arabian vACC sector files is available under the "Controller Software Setup" section of the [Arabian vACC Library](https://library.arabian-vacc.com/foundations/).
+
 #### Audio Client(s)
+To communicate with pilots while controlling on the network, you must install an approved Audio for VATSIM client. Supported options include [Audio for VATSIM](https://audio.vatsim.net/docs/atc/euroscope) and [TrackAudio](https://github.com/pierr3/TrackAudio/releases/tag/1.3.1).
+
+A step-by-step setup guide for these audio clients can be found in the "Controller Software Setup" section of the [Arabian vACC Library](https://library.arabian-vacc.com/foundations/).
+
 #### vATIS Client
+To provide pilots with up-to-date aerodrome operational information, you will need the [vATIS Client](https://vatis.app/).
+
+A detailed setup guide for vATIS is available in the "Controller Software Setup" section of the [Arabian vACC Library](https://library.arabian-vacc.com/foundations/).
+
 #### Discord
+Discord serves as the primary communication platform for the Arabian vACC and is used for a range of purposes, including:
+
+- Announcements to the entire vACC  
+- Event marketing and rostering  
+- Coordination between ATC controllers  
+- Communication and collaboration between students, mentors, and instructors within the ATC Training Program
 
 ### The Waiting List
 Before a controller can be offered a place in a training plan, they must first express their interest and be added to the waiting list.
