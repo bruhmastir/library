@@ -137,21 +137,21 @@ This policy ensures fair and efficient use of training resources and minimizes d
 Training may be conducted within any of the Arabian vACC's three FIRs, with the exception of Tier-1 positions. The available training facilities are as follows:
 
 - **Aerodrome (S1/S2)**
-  - Doha-Hamad International Airport (OTHH)
-  - Muscat International Airport (OOMS)
-  - Sharjah International Airport (OMSJ)
-  - Sheikh Zayed International Airport (OMAA)
+    - Doha-Hamad International Airport (OTHH)
+    - Muscat International Airport (OOMS)
+    - Sharjah International Airport (OMSJ)
+    - Sheikh Zayed International Airport (OMAA)
 
 - **Terminal (S3)**
-  - Abu Dhabi TMA (OMAA/OMAD/OMAL)
-  - Doha TMA (OTHH/OTBD)
-  - Muscat TMA (OOMS)
+    - Abu Dhabi TMA (OMAA/OMAD/OMAL)
+    - Doha TMA (OTHH/OTBD)
+    - Muscat TMA (OOMS)
 
 - **Enroute (C1)**
-  - Doha FIR (OTDF)
-  - Muscat FIR (OOMS)
-  - U.A.E FIR (OMAE)  
-    - *Note: Controllers seeking Enroute training within the U.A.E FIR must possess all Tier-1 endorsements. In the absence of these endorsements, training will be limited to the U.A.E South Sector, which excludes the Dubai TMA.*
+    - Doha FIR (OTDF)
+    - Muscat FIR (OOMS)
+    - U.A.E FIR (OMAE)  
+      - *Note: Controllers seeking Enroute training within the U.A.E FIR must possess all Tier-1 endorsements. In the absence of these endorsements, training will be limited to the U.A.E South Sector, which excludes the Dubai TMA.*
 
 #### Training Engagement and Availability Expectations
 ATC training within the Arabian vACC is a rigorous process. Given the high number of students and the limited number of available mentors and instructors, training resources must be used efficiently. To support this, members enrolled in a training plan are expected to demonstrate consistent engagement and flexibility.
@@ -205,23 +205,24 @@ In aviation, there are no "stupid" questions—it's always better to ask than to
 ### Attending a Mentoring Session
 Mentoring sessions will be conducted via the [Arabian vACC Discord Server](https://community.vatsim.net/), which offers the ability to use screen-sharing when necessary. Students should join the waiting room promptly, fully prepared with their controlling software configured and any necessary resources at hand, ready to begin the session as soon as their mentor or instructor moves them into the training room.
 
-Due to local regulations in the U.A.E, where VOIP services like Discord are blocked, students residing in the U.A.E will not be able to conduct their sessions through Discord. In such cases, an alternative communication platform may be used, subject to agreement between the student and their mentor or instructor. While it is possible to use a VPN to bypass these restrictions, the Arabian vACC does not support or endorse the use of VPNs.
+!!! info
+    Due to local regulations in the U.A.E, where VOIP services like Discord are blocked, students residing in the U.A.E will not be able to conduct their sessions through Discord. In such cases, an alternative communication platform may be used, subject to agreement between the student and their mentor or instructor. While it is possible to use a VPN to bypass these restrictions, the Arabian vACC does not support or endorse the use of VPNs.
 
 ### Solo Validations
 In accordance with the Middle East & North Africa Division ATC Training Policy, the Arabian vACC is responsible for issuing solo validations for students working toward their tower, approach, and center ratings. The responsibility for these validations lies with the assigned mentor or instructor. The following solo validations may be granted:
 
 - **Tower:**
-  - Available to Arabian vACC residents training for S2.
-  - Granted for the position where the student's training has taken place.
-  - Valid for up to 90 days.
+    - Available to Arabian vACC residents training for S2.
+    - Granted for the position where the student's training has taken place.
+    - Valid for up to 90 days.
 - **Approach:**
-  - Available to Arabian vACC residents training for S3.
-  - Granted for the position where the student's training has taken place.
-  - Valid for up to 90 days.
+    - Available to Arabian vACC residents training for S3.
+    - Granted for the position where the student's training has taken place.
+    - Valid for up to 90 days.
 - **Center:**
-  - Available to Arabian vACC residents training for C1.
-  - Granted for the position where the student's training has taken place.
-  - Valid for up to 90 days.
+    - Available to Arabian vACC residents training for C1.
+    - Granted for the position where the student's training has taken place.
+    - Valid for up to 90 days.
 
 Solo validations will only be granted for a maximum of 30 days at a time before a practical exam is required. If a student does not pass the exam, they may continue to operate under a solo validation after receiving additional mentoring sessions. Students holding a solo validation are authorized to control at any time on their assigned training position, including during events, without the presence of a mentor.
 
@@ -385,7 +386,8 @@ Controllers who meet all of the above requirements must submit a support ticket 
 
 Once the controller has fulfilled the prerequisites outlined in the Training Plan section—including completion of the relevant course module and theoretical examination—they will be offered a position within the C1 training plan at an assigned enroute facility.
 
-**Note:** A valid **Dubai TMA** endorsement is required to undertake training or operations on the U.A.E Radar position when using the bandbox sector in a top-down configuration.
+!!! info
+    **Note:** A valid **Dubai TMA** endorsement is required to undertake training or operations on the U.A.E Radar position when using the bandbox sector in a top-down configuration.
 
 ##### Syllabus & Training Program
 The syllabus and training content for the C1 rating, as delivered by mentors and instructors, is available through the Arabian vACC Library.
