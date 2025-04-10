@@ -193,7 +193,7 @@ The ATC Training Department Director reserves the right to remove a member from 
 All forfeiture decisions will be made in alignment with the broader goals of maintaining fairness, efficiency, and high standards across the training program.
 
 ### Self-Study
-Students are expected to engage with the theoretical content provided in the (Arabian vACC Library)[https://library.arabian-vacc.com] outside of their scheduled mentoring sessions. This includes, but is not limited to, reviewing assigned readings, practicing relevant skills, and deepening their understanding of core concepts. Mentors and instructors may also suggest additional resources or encourage observation of experienced controllers.
+Students are expected to engage with the theoretical content provided in the [Arabian vACC Library](https://library.arabian-vacc.com) outside of their scheduled mentoring sessions. This includes, but is not limited to, reviewing assigned readings, practicing relevant skills, and deepening their understanding of core concepts. Mentors and instructors may also suggest additional resources or encourage observation of experienced controllers.
 
 After each mentoring session, mentors and instructors will provide comprehensive feedback. It is the student's responsibility to carefully review these reports and address any areas highlighted by the mentor for improvement. This may involve independent study on certain topics or revisiting specific techniques. Research consistently shows that students who actively engage with feedback and make necessary adjustments tend to progress more rapidly through training and perform better on exams.
 
@@ -203,7 +203,7 @@ Arriving unprepared for a session—whether through a lack of review of session 
 In aviation, there are no "stupid" questions—it's always better to ask than to remain silent. The ATC Training Department staff, instructors, and mentors are always available and happy to assist students with any questions related to their training. Students are encouraged to direct their questions to the #training-text channel on the Arabian vACC Discord.
 
 ### Attending a Mentoring Session
-Mentoring sessions will be conducted via the (Arabian vACC Discord Server)[https://community.vatsim.net/], which offers the ability to use screen-sharing when necessary. Students should join the waiting room promptly, fully prepared with their controlling software configured and any necessary resources at hand, ready to begin the session as soon as their mentor or instructor moves them into the training room.
+Mentoring sessions will be conducted via the [Arabian vACC Discord Server](https://community.vatsim.net/), which offers the ability to use screen-sharing when necessary. Students should join the waiting room promptly, fully prepared with their controlling software configured and any necessary resources at hand, ready to begin the session as soon as their mentor or instructor moves them into the training room.
 
 Due to local regulations in the U.A.E, where VOIP services like Discord are blocked, students residing in the U.A.E will not be able to conduct their sessions through Discord. In such cases, an alternative communication platform may be used, subject to agreement between the student and their mentor or instructor. While it is possible to use a VPN to bypass these restrictions, the Arabian vACC does not support or endorse the use of VPNs.
 
@@ -227,7 +227,7 @@ Solo validations will only be granted for a maximum of 30 days at a time before 
 
 ### Examinations
 #### Theoretical
-All theoretical modules and exams for the S1, S2, S3, and C1 ratings are available through the (Middle East & North Africa Academy)[https://academy.vatsim.me]. Completion of these modules and exams is required to be eligible for enrollment in a training plan.
+All theoretical modules and exams for the S1, S2, S3, and C1 ratings are available through the [Middle East & North Africa Academy](https://academy.vatsim.me). Completion of these modules and exams is required to be eligible for enrollment in a training plan.
 
 #### Practical
 When a student, in agreement with their mentor or instructor, feels ready, they can submit a request for an examination through the ATC Training Department. Before being forwarded for a practical exam, students will be consulted to ensure they are fully prepared, and additional training can be arranged if requested by the student. 
@@ -450,7 +450,7 @@ Controllers who meet all the requirements above must submit a support ticket to 
 If a controller applies for a DEL/GND endorsement and later obtains their S2 rating, they will need to go through the same process again to obtain the next Tier 1 Dubai endorsement for TWR. Similarly, controllers holding an S3 rating and seeking the Tier 1 Dubai endorsement for TMA will need to follow the same process.
 
 ##### Theoretical Course & Examination
-The theoretical course for the specific Tier 1 Dubai endorsement is available through the [Arabian vACC Moodle](https://moodle.arabian-vacc.com) platform. This course includes all relevant resources required to understand and operate the Dubai positions effectively.
+The theoretical course for the specific Tier 1 Dubai endorsement is available through the [Arabian vACC Moodle](https://moodle.arabian-vacc.com/) platform. This course includes all relevant resources required to understand and operate the Dubai positions effectively.
 
 Access to the theoretical examination will only be granted once the controller has met all eligibility criteria outlined above and has formally requested access.
 
@@ -478,7 +478,7 @@ Before a controller is eligible to complete a Tier 2 AFIS endorsement, they must
 If controllers have met all the requirements listed above, they must submit a support ticket to the Arabian vACC ATC Training Department to express their interest in obtaining the AFIS endorsement. 
 
 ##### Theoretical Course & Examination
-The theoretical course for AFIS operations is available through the (Arabian vACC Moodle)[https://moodle.arabian-vacc.com] platform. This course includes all relevant resources required to understand and operate AFIS positions effectively.
+The theoretical course for AFIS operations is available through the [Arabian vACC Moodle](https://moodle.arabian-vacc.com/) platform. This course includes all relevant resources required to understand and operate AFIS positions effectively.
 
 Access to the theoretical examination will only be granted once the controller has met all eligibility criteria outlined above and has formally requested access.
 
