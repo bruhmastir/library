@@ -297,7 +297,28 @@ All members participating in the fast-track program are still required to comple
 </table>
 
 ### Grading Criteria
-Suprojit Paul required to write this ection.
+Controllers will be graded during each session with a mentor or instructor based on the relevant syllabus for their current rating or endorsement. These evaluations are designed using Competency-Based Training and Assessment (CBTA) principles to ensure that controllers are progressing in both skills and knowledge.
+
+#### Performance Levels
+Controllers will be assessed according to their **competency** and **performance** in each session. The following performance levels exist:
+
+- **Below:** The controller's performance is below the expected standard for their current rating or endorsement.
+- **At:** The controller meets the expected standard for their rating or endorsement.
+- **Above:** The controller exceeds the expected standard for their rating or endorsement.
+
+Controllers should aim to be **"At"** the expected performance level as they progress through their training. If a controller is rated **"Below,"** additional sessions will be required to address and correct the issues identified during training.
+
+#### Input Required from the Mentor or Instructor
+In addition to performance evaluation, controllers will be assessed based on the level of input required from the mentor or instructor during the session. This helps identify the controller's ability to operate independently and effectively. The following input levels are used:
+
+- **Constant:** The controller requires frequent reminders throughout the session, indicating a need for further development.
+- **Intermittent:** The controller needs occasional reminders, showing progress but still requiring guidance.
+- **Minor:** The controller requires very few reminders, indicating good progress and near independence.
+- **N/A:** The controller requires no reminders, demonstrating full autonomy in their role.
+
+Controllers should strive for **"N/A"** where no input is required from the mentor or instructor. If a controller is rated as **"Constant,"** additional sessions will be necessary to address gaps in their knowledge or performance.
+
+This grading system helps ensure that controllers receive the support and training they need to meet the required standards for their ratings and endorsements. Continuous feedback and targeted training sessions are crucial for controllers to advance to higher levels of proficiency.
 
 ## ATC Training
 ### S1 Training
