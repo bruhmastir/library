@@ -6,7 +6,7 @@
 </figure>
 
 ## Scope
-This section of our Library contains all the essential policies related to the vACC, including those for ATC training, program syllabi, and other key documents.
+The following briefings provide an overview of the general operating procedures for our airports, designed for pilots flying in or out. These briefings complement the relevant aerodrome charts and should be used alongside them. If any discrepancies arise between the procedures in these briefings and the aerodrome charts, the procedures in these briefings take precedence.
 
 ## Limitation of Liability
 !!! warning
