@@ -45,7 +45,7 @@ Our approach balances theory and practice, with a progression system designed to
 !!! warning
     All documentation in this section is intended solely for use on the VATSIM network and must not be used for real-world aviation operations. The authors disclaim any liability for personal injury or death resulting from misuse of this material.
 
-## Building Blocks for ATC Students
+## Foundations for ATC Students
 ### Software
 #### Controller Client
 #### Audio Client(s)
@@ -53,10 +53,27 @@ Our approach balances theory and practice, with a progression system designed to
 #### Discord
 
 ### The Waiting List
+Before a controller can be offered a place in a training plan, they must first express their interest and be added to the waiting list.
+
+After completing all prerequisites outlined in the Training Plan section, the controller must submit a support ticket through the Arabian vACC Discord to confirm their eligibility.
+
+Controllers will only be enrolled into a training plan once all requirements have been fully met. 
+
+Please note: Observers should refer to the S1 Training section of this policy for specific guidance.
 
 #### Maintaining Your Spot on the Waiting List
+To remain on the waiting list, controllers must:
+
+- Stay active on the Arabian vACC ATC roster
+- Maintain residency within the Arabian vACC
+
+Controllers who do not meet these conditions will be removed from the waiting list.
 
 #### Losing Your Spot on the Waiting List
+The Arabian vACC ATC Training Department reserves the right to remove a controller from the waiting list without prior notice in circumstances including, but not limited to:
+
+- Disciplinary action taken against the controller  
+- Repeated negative feedback received while controlling positions associated with their current rating
 
 #### Controller Activity
 According to the Arabian vACC Membership Policy, controllers must log a minimum of **6 hours of ATC activity per calendar quarter** to remain active on the controller roster. 
@@ -256,6 +273,20 @@ Suprojit Paul required to write this ection.
 
 ## ATC Training
 ### S1 Training
+Observers within the Arabian vACC who hold an S1 rating are eligible to request the commencement of their S1 training.
+
+##### Eligibility
+Before an observer is eligible to progress towards their S1 rating, they must meet the following requirements:
+
+- Be **an Arabian vACC Resident**.
+- Have accumulated a **minimum of 25 hours** observing in the Arabian vACC.
+
+Observers who meet all of the above requirements must submit a support ticket to the Arabian vACC ATC Training Department to express their interest in progressing to the S1 rating. They will then be added to the waiting list.
+
+Once the controller has completed the prerequisites outlined in the Training Plan section—such as the relevant course module and theoretical examination—they will be offered a place in the S1 training plan at a designated aerodrome.
+
+##### Syllabus & Training Program
+The syllabus and training content for the S1 rating, as delivered by mentors and instructors, is available through the Arabian vACC Library.
 
 ### S2 Training
 Controllers within the Arabian vACC who hold an S1 rating are eligible to request the commencement of their S2 training.
