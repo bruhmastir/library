@@ -222,6 +222,16 @@ flowchart LR
 
 ---
 
+### Discord presence
+
+For coordination purposes, at times when two or more adjacent controllers are online within Arabian vACC, controllers **should** remain present on Discord, to allow for smoother coordination.
+During events, controllers **shall** remain present on Discord in relevant coordination channels, to allow for smoother coordination among adjacent controllers. 
+
+!!! info
+    A future solution is in the works by the Operations Department, to allow a more optimised technical coordination solution. 
+
+---
+
 ### Use of Relief Callsigns
 
 Controllers relieving others during peak hours must use a relief callsign (e.g., `OMDB_R1_TWR`) to ensure proper transition and avoid disruption.
