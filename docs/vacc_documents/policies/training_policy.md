@@ -451,18 +451,6 @@ Controllers who meet all the requirements above must submit a support ticket to 
 
 If a controller applies for a DEL/GND endorsement and later obtains their S2 rating, they will need to go through the same process again to obtain the next Tier 1 Dubai endorsement for TWR. Similarly, controllers holding an S3 rating and seeking the Tier 1 Dubai endorsement for TMA will need to follow the same process.
 
-<figure markdown>
-![Dubai Tier-1 DEL/GND Endorsement Flow](img/tier1_dubai_delgnd_flow.png)
-</figure>
-
-<figure markdown>
-![Dubai Tier-1 TWR Endorsement Flow](img/tier1_dubai_twr_flow.png)
-</figure>
-
-<figure markdown>
-![Dubai Tier-1 TMA Endorsement Flow](img/tier1_dubai_tma_flow.png)
-</figure>
-
 ##### Theoretical Course & Examination
 The theoretical course for the specific Tier 1 Dubai endorsement is available through the [Arabian vACC Moodle](https://moodle.arabian-vacc.com/) platform. This course includes all relevant resources required to understand and operate the Dubai positions effectively.
 
@@ -476,6 +464,19 @@ Controllers who have passed the specific Tier 1 Dubai theoretical examination wi
 After completing the practical phase and once a mentor or instructor is satisfied with the controller's performance, the endorsement will be added to the controller's profile on Hayya.
 
 Controllers are not permitted to connect on any Dubai positions until the endorsement is visible on the controller roster on Hayya.
+
+##### Endorsement Flow Chart
+<figure markdown>
+![Dubai Tier-1 DEL/GND Endorsement Flow](img/tier1_dubai_delgnd_flow.png)
+</figure>
+
+<figure markdown>
+![Dubai Tier-1 TWR Endorsement Flow](img/tier1_dubai_twr_flow.png)
+</figure>
+
+<figure markdown>
+![Dubai Tier-1 TMA Endorsement Flow](img/tier1_dubai_tma_flow.png)
+</figure>
 
 #### AFIS
 All Aerodrome Flight Information Service (AFIS) positions within the Arabian vACC, located in the Doha (OTDF), Muscat (OOMM), and U.A.E (OMAE) FIRs, are classified as Tier 2 positions under the GCAP policy.
