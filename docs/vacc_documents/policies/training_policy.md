@@ -454,7 +454,7 @@ If a controller applies for a DEL/GND endorsement and later obtains their S2 rat
 ##### Theoretical Course & Examination
 The theoretical course for the specific Tier 1 Dubai endorsement is available through the [Arabian vACC Moodle](https://moodle.arabian-vacc.com/) platform. This course includes all relevant resources required to understand and operate the Dubai positions effectively.
 
-Access to the theoretical examination will only be granted once the controller has met all eligibility criteria outlined above and has formally requested access.
+Access to the theoretical course will only be granted once the controller has met all eligibility criteria outlined above and has formally requested access. Access to the theoretical exam will be granted a week after being enrolled on the relevant Dubai Moodle course.
 
 Upon successful completion of the theoretical examination, the controller must submit a support ticket to the Arabian vACC ATC Training Department confirming they have passed and completed the theoretical examination. Once the department has verified the result, the controller will be eligible to proceed to the practical phase. 
 
