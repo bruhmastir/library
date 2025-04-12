@@ -451,6 +451,18 @@ Controllers who meet all the requirements above must submit a support ticket to 
 
 If a controller applies for a DEL/GND endorsement and later obtains their S2 rating, they will need to go through the same process again to obtain the next Tier 1 Dubai endorsement for TWR. Similarly, controllers holding an S3 rating and seeking the Tier 1 Dubai endorsement for TMA will need to follow the same process.
 
+<figure markdown>
+![Dubai Tier-1 DEL/GND Endorsement Flow](img/tier1_dubai_delgnd_flow.png)
+</figure>
+
+<figure markdown>
+![Dubai Tier-1 TWR Endorsement Flow](img/tier1_dubai_twr_flow.png)
+</figure>
+
+<figure markdown>
+![Dubai Tier-1 TMA Endorsement Flow](img/tier1_dubai_tma_flow.png)
+</figure>
+
 ##### Theoretical Course & Examination
 The theoretical course for the specific Tier 1 Dubai endorsement is available through the [Arabian vACC Moodle](https://moodle.arabian-vacc.com/) platform. This course includes all relevant resources required to understand and operate the Dubai positions effectively.
 
