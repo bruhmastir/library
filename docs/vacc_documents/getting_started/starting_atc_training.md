@@ -69,6 +69,7 @@ After your ticket is submitted:
 4. Pass the **VATMENA S1 Theory Exam**: [VATMENA Division Academy](https://academy.vatsim.me)
 
 Once complete:
+
 - Submit another ticket to notify us that you've met all prerequisites.
 
 ---
