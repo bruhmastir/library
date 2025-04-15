@@ -2,56 +2,102 @@
   title: Starting ATC Training
 
 ---
-# Join Us
-## Introduction
-Welcome to this small policy on Joining the Arabian vACC!
+# Getting Started as an ATC in the Arabian vACC
 
-In this section, you will learn about the differences between a vACC, a Division, and a Region, as well as how to join us with the appropriate Division and Region to become a resident controller. If you are interested in joining us as a visiting controller, please refer to the visiting controller section of this policy.
+Looking to become an Air Traffic Controller on the VATSIM Network, controlling one of the Middle East's busiest airspaces? Here's everything you need to know to get started.
 
-The VATSIM Network is divided into vACCs, Divisions, and Regions. An example is provided below:
+## 📌 Requirements & Expectations
 
-- **The Arabian vACC (ACCARB)** is a vACC of the Middle East & North Africa Division (VATMENA).
-- **The Middle East & North Africa Division (VATMENA)** is a Division of the Europe, Middle East, and Africa Region.
-- **Europe, Middle East, and Africa Region (VATEMEA)** is a Region of VATSIM.
+Becoming a controller requires:
+- Commitment
+- Self-study
+- A willingness to continuously learn
 
-## Current vACC/Division/Region Assigment
-To proceed with the next sections of this policy, you must first determine your current assignment in terms of vACC, Division, and Region. You can find this information by checking your [myVATSIM profile](https://my.vatsim.net/profile) and looking at the **"Region - Division - Subdivision"** field.
+VATSIM follows a system of graduated ratings that determine the positions you can control, similar to real-world ATC training.
 
-<figure markdown>
-![myVATSIM Profile](img/myVATSIM_example.png)
-</figure>
+> **Important:** You must be a **resident of the Arabian vACC** before beginning ATC training.
 
-!!! Warning
-    Please ensure you are completely certain about your desired assignment on the VATSIM Network for your Air Traffic Controller training! Random transfers will incur a 90-day cooldown in accordance with the VATSIM Transfer & Visiting Controller policy that the vACC and Division adhere to. All transfers are managed by volunteers who respond on a daily basis. Repeatedly contacting membership staff for updates on your transfer will not speed up the process!
+Check your status and how to join here: [Joining Arabian](https://library.arabian-vacc.com/vacc_documents/getting_started/joining_arabian/)
 
-### Region Assignment
-After checking your myVATSIM profile and you are not within the Europe, Middle East, and Africa Region please follow the following steps:
+> Joining may take up to 72 hours. Transferring out will remove you from our waiting list and cancel your training eligibility.
 
-1. Head over to the [myVATSIM Region transfer page](https://my.vatsim.net/user/region)</li>
-2. Select "Europe, Middle East, and Africa" as your new Region</li>
-3. Select "Middle East & North Africa" as your new Division</li>
+---
 
-!!! Info
-    Regional transfers are not managed by the vACC or Division Membership Departments and are outside of our control. Please refrain from messaging us about the status of your transfer, as we are not responsible for these processes. Remember that the VATSIM Transfer & Visiting Controller policy applies, and any approved transfers will be subject to a 90-day cooldown period before you can submit another transfer request.
+## 🧰 Required Software
 
-### Division Assignment
-If you are currently in the Europe, Middle East, and Africa Region but not within the Middle East & North Africa Division, please follow these steps:
+Before you can observe or train, install the following:
 
-1. Join the Middle East & North Africa Discord server via [community.vatsim.net](https://community.vatsim.net/). Make sure your VATSIM account is linked to ensure your Discord roles are correctly assigned!
-2. Send a private message to the MENA Support Bot, which can be found on the Middle East & North Africa Discord server.
-3. In your message, include your VATSIM CID, name, and a request to join the Middle East & North Africa Division with assignment to the Arabian vACC. 
+- [Euroscope & Sector Files](https://library.arabian-vacc.com/foundations/controller%20software/euroscope/)
+- [An Audio for VATSIM Client](https://library.arabian-vacc.com/foundations/controller%20software/audio/)
+- [vATIS](https://library.arabian-vacc.com/foundations/controller%20software/vatis/)
 
-<center>![MENA Support Bot](img/mena_support.png)</center>
+🎥 **Watch this video guide** on how to observe on the network:  
+[Arabian vACC - Controller Software & Observation Guide](https://www.youtube.com/watch?v=ycCieiy0ufc)
 
-!!! Info
-    The MENA Support Bot is managed by the Middle East & North Africa Membership team, who are dedicated volunteers. It is not automated or powered by artificial intelligence; a real person is behind each response. Please avoid spamming the bot, as this will not result in a faster reply.
+---
 
-### vACC Assignment
-If you are currently in the Middle East & North Africa Division but not within the Arabian vACC, please follow these steps:
+## 🔭 Observation Phase
 
-1. Join the Middle East & North Africa Discord server via [community.vatsim.net](https://community.vatsim.net/). Make sure your VATSIM account is linked to ensure your Discord roles are correctly assigned!
-2. Send a private message to the MENA Support Bot, which can be found on the Middle East & North Africa Discord server.
-3. In your message, include your VATSIM CID, name, and a request to join the Arabian vACC. 
+Before training begins, you must:
+- Accumulate **25 hours of observation**
+- Join our [Arabian vACC Discord](https://discord.com/invite/Fk9Wspw) — all training coordination and community support happens here.
 
-!!! Info
-    The MENA Support Bot is managed by the Middle East & North Africa Membership team, who are dedicated volunteers. It is not automated or powered by artificial intelligence; a real person is behind each response. Please avoid spamming the bot, as this will not result in a faster reply. Transfers within the Division may take up to 7 days pending both vACC Director approvals.
+Once you're in the Discord and meet the above:
+- Submit a support ticket expressing your interest in starting ATC training.
+
+> ✅ **Reminder:** Make sure you are a confirmed Arabian vACC resident before submitting a ticket.
+
+---
+
+## 📘 Read the ATC Training Policy
+
+We highly recommend reviewing the full policy:  
+[Arabian vACC ATC Training Policy](https://library.arabian-vacc.com/vacc_documents/policies/training_policy/)
+
+---
+
+## 🎓 Enrolling in S1 Training
+
+After your ticket is submitted:
+1. You will be added to the **S1 Rating Waiting List**.
+2. Self-enroll in the **S1 Moodle Course**: [Arabian vACC Moodle](https://moodle.arabian-vacc.com)
+3. Complete all course content and progress tests.
+4. Pass the **VATMENA S1 Theory Exam**: [VATMENA Division Academy](https://academy.vatsim.me)
+
+Once complete:
+- Submit another ticket to notify us that you've met all prerequisites.
+
+---
+
+## 🛫 Practical Training
+
+After verification, you will:
+1. Be assigned a **training aerodrome** (e.g., OTHH, OMAA, OMSJ, OOMS).
+2. Request enrollment in the **S1 Training Plan** via [Hayya](https://hayya.vatsim.me/).
+3. Be able to **schedule 1-on-1 sessions** with a mentor or instructor once approved in the **S1 Training Plan**.
+
+📖 Prepare using the documentation for your aerodrome at the [Arabian vACC Library](https://library.arabian-vacc.com/).  
+Failure to come prepared may result in your session being cancelled.
+
+---
+
+## 🧪 Final Exam & S1 Rating
+
+Once all sessions in the [S1 Training Syllabus](https://library.arabian-vacc.com/vacc_documents/training_syllabus/s1/) are complete, you will:
+- Take a final **practical exam** on the Sweatbox simulator server.
+
+✅ If passed, your **S1 Rating** will be issued on your VATSIM account.
+
+---
+
+## 🌐 Future Endorsements
+
+After your S1 rating, you may work toward:
+- **Tier-1 Dubai DEL/GND Endorsement**
+- **Tier-2 AFIS Endorsement**
+
+Requirements are outlined in the [ATC Training Policy](https://library.arabian-vacc.com/vacc_documents/policies/training_policy/).
+
+---
+
+Happy Controlling! 🎧✈️
