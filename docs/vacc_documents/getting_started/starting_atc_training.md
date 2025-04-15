@@ -63,8 +63,8 @@ We highly recommend reviewing the full policy:
 
 After your ticket is submitted:
 
-1. You will be added to the **S1 Rating Waiting List**.
-2. Self-enroll in the **S1 Moodle Course**: [Arabian vACC Moodle](https://moodle.arabian-vacc.com)
+1. You will be added to the **S1 Rating Waiting List** along with a designated **Training Aerodrome**.
+2. Self-enroll in the aerodrome specific **S1 Moodle Course**: [Arabian vACC Moodle](https://moodle.arabian-vacc.com)
 3. Complete all course content and progress tests.
 4. Pass the **VATMENA S1 Theory Exam**: [VATMENA Division Academy](https://academy.vatsim.me)
 
@@ -78,9 +78,8 @@ Once complete:
 
 After verification, you will:
 
-1. Be assigned a **training aerodrome** (e.g., OTHH, OMAA, OMSJ, OOMS).
-2. Request enrollment in the **S1 Training Plan** via [Hayya](https://hayya.vatsim.me/).
-3. Be able to **schedule 1-on-1 sessions** with a mentor or instructor once approved in the **S1 Training Plan**.
+1. Able to request enrollment in the **S1 Training Plan** via [Hayya](https://hayya.vatsim.me/).
+2. Be able to **schedule 1-on-1 sessions** with a mentor or instructor once approved in the **S1 Training Plan**.
 
 📖 Prepare using the documentation for your aerodrome at the [Arabian vACC Library](https://library.arabian-vacc.com/).  
 Failure to come prepared may result in your session being cancelled.
