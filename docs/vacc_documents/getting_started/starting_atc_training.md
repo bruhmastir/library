@@ -9,6 +9,7 @@ Looking to become an Air Traffic Controller on the VATSIM Network, controlling o
 ## 📌 Requirements & Expectations
 
 Becoming a controller requires:
+
 - Commitment
 - Self-study
 - A willingness to continuously learn
@@ -39,10 +40,12 @@ Before you can observe or train, install the following:
 ## 🔭 Observation Phase
 
 Before training begins, you must:
+
 - Accumulate **25 hours of observation**
 - Join our [Arabian vACC Discord](https://discord.com/invite/Fk9Wspw) — all training coordination and community support happens here.
 
 Once you're in the Discord and meet the above:
+
 - Submit a support ticket expressing your interest in starting ATC training.
 
 > ✅ **Reminder:** Make sure you are a confirmed Arabian vACC resident before submitting a ticket.
@@ -59,6 +62,7 @@ We highly recommend reviewing the full policy:
 ## 🎓 Enrolling in S1 Training
 
 After your ticket is submitted:
+
 1. You will be added to the **S1 Rating Waiting List**.
 2. Self-enroll in the **S1 Moodle Course**: [Arabian vACC Moodle](https://moodle.arabian-vacc.com)
 3. Complete all course content and progress tests.
@@ -72,6 +76,7 @@ Once complete:
 ## 🛫 Practical Training
 
 After verification, you will:
+
 1. Be assigned a **training aerodrome** (e.g., OTHH, OMAA, OMSJ, OOMS).
 2. Request enrollment in the **S1 Training Plan** via [Hayya](https://hayya.vatsim.me/).
 3. Be able to **schedule 1-on-1 sessions** with a mentor or instructor once approved in the **S1 Training Plan**.
@@ -84,6 +89,7 @@ Failure to come prepared may result in your session being cancelled.
 ## 🧪 Final Exam & S1 Rating
 
 Once all sessions in the [S1 Training Syllabus](https://library.arabian-vacc.com/vacc_documents/training_syllabus/s1/) are complete, you will:
+
 - Take a final **practical exam** on the Sweatbox simulator server.
 
 ✅ If passed, your **S1 Rating** will be issued on your VATSIM account.
@@ -93,6 +99,7 @@ Once all sessions in the [S1 Training Syllabus](https://library.arabian-vacc.com
 ## 🌐 Future Endorsements
 
 After your S1 rating, you may work toward:
+
 - **Tier-1 Dubai DEL/GND Endorsement**
 - **Tier-2 AFIS Endorsement**
 
