@@ -8,8 +8,7 @@ vATIS is a software tool that enables controllers to create and broadcast multip
 
 ## Setting Up vATIS
 ### Locate the vACC Profiles
-- The pre-configured profiles for Oman, Qatar, and the U.A.E are available in the following directory of the sector file:  
-    `FIR CODE/Plugins/vATIS`.
+- Controllers can download the latest vATIS profile supporting automatic updates from: [this link](https://github.com/Arabian-vACC/vATIS-Profiles/releases)
 
 !!! warning
     Controllers are responsible for updating their vATIS profiles as directed by the ATC Operations Department. Be sure to update your profiles following each announcement from the ATC Operations team!  
