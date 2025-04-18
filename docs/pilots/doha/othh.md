@@ -227,6 +227,18 @@ Doha-Hamad has implemented **A**irport **C**ollaborative **D**ecision **M**aking
 
 If you are unfamiliar with A-CDM procedures, please refer to the [A-CDM pilot guide](https://vacdm.net/docs/pilot/use-vacdm).
 
+##### A-CDM Regulations
+Please follow the procedures below in accordance with the airport briefing charts and VACDM policy:
+
+- 🖥️ **TOBT must be submitted via [vacdm.vatsim.me](https://vacdm.vatsim.me)**
+- ⏳ **Clearance must be requested no later than 25 minutes before EOBT**
+- 🔊 **TSAT updates will be communicated by voice only via ATC frequency**
+- 🕒 **Pushback must occur within ±2 minutes of the assigned TSAT**
+- ⚠️ **If unable to push back within +5 minutes after TSAT:**
+  - 📞 Inform ATC
+  - 🔄 Submit a new TOBT via VACDM for a new TSAT
+- 🚫 **Do not contact ATC or report ready for start-up prior to your TSAT**
+
 ### Push & Start
 Once clearance delivery releases you to the designated ground frequency, pilots may request push and start clearance. Upon initial contact, the ground controller may provide various types of pushback instructions. Pilots must ensure they can comply with these instructions; if unable, they must inform the ground controller.
 
