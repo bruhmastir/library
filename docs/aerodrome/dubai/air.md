@@ -191,7 +191,7 @@ On initial contact, aircraft shall be instructed to vacate at a designated taxiw
 | Landing Runway | Preferred Exit POint |
 |:--------------:|:--------------------:|
 |       30L      |          K8          |
-|       30R      |        M6, N5        |
+|       30R      |       M3A, N3A       |
 |       12L      |          M9          |
 |       12R      |          K13         |
 <figure markdown>
