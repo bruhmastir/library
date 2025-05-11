@@ -10,12 +10,12 @@ The preferred calm wind configuration is using runway 25, which may be utilized 
 Conditional line up instructions shall include the traffic that the aircraft is to follow, as well as the word “behind” at the beginning and end of the transmission. It is recommended to only have a maximum of two conditional line up clearances active at one i.e., one aircraft lining up behind a departure, and another aircraft lining up behind them.
 
 !!! example
-    **Controller**: "TCM4TM, behind the departing Qatari Airbus A320, via D8, line up and wait runway 25 behind."
+    **Controller**: "ADY268, behind the departing Qatari Airbus A320, via D8, line up and wait runway 25 behind."
 
 If aircraft have not yet reached the holding point where they are expected to line up at, ATC shall reiterate the cleared holding point.
 
 !!! example
-    **Controller**: "QQE550, via D8, line up and wait runway 25."
+    **Controller**: "ADY268, via D8, line up and wait runway 25."
 
 ### 3.3.2 Take-off clearances
 Aircraft shall be cleared for take-off once adequate separation exists as provided in 3.3.3.1. 
