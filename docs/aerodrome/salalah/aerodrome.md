@@ -1,47 +1,46 @@
 # 1. Aerodrome Information
 ## 1.1 Aerodrome Details
-| ICAO Code                          |                      |
-|------------------------------------|----------------------|
-| Aerodrome Reference Point (ARP)    |                      |
-| Elevation                          |                      |
-| Magnetic Variation / Annual Change |                      |
-| Transition Altitude / Level        | 13,000 ft / FL150    |
+| ICAO Code                          |             OOSA              |
+|------------------------------------|:-----------------------------:|
+| Aerodrome Reference Point (ARP)    | N017.02.19.420 E054.05.28.670 |
+| Elevation                          |             90 ft             |
+| Magnetic Variation / Annual Change |  1°E (2020)/0.04° increasing  |
+| Transition Altitude / Level        |       13,000 ft / FL150       |
 
 ## 1.2 Air traffic services
 ### 1.2.1 List of ATS callsigns
-| Radio Callsign              | Logon Callsign   | Abbreviation   | Frequency   |
-|:---------------------------:|:----------------:|:--------------:|:-----------:|
-|                             |                  |                |             |
-|                             |                  |                |             |
-|                             |                  |                |             |
-|                             |                  |                |             |
-|                             |                  |                |             |
-|                             |                  |                |             |
-|                             |                  |                |             |
-|                             |                  |                |             |
+| Radio Callsign | Logon Callsign | Abbreviation | Frequency |
+|:--------------:|:--------------:|:------------:|:---------:|
+| Salalah Ground |    OOSA_GND    |      GMC     |  124.025  |
+|  Salalah Tower |    OOSA_TWR    |      AIR     |  118.200  |
+|  Salalah Radar |    OOSA_APP    |      RDR     |  119.100  |
+| Muscat Control |   OOMM_5_CTR   |     ACC S    |  123.950  |
+| Muscat Control |   OOMM_1_CTR   |     ACC N    |  128.150  |
 
 ### 1.2.2 ATS airspace
-| Airspace                    | Classification   | Vertical Limits    | Transition Altitude   | Transition Level   |
-|:---------------------------:|:----------------:|:------------------:|:---------------------:|:------------------:|
-| CTA (Terminal Area)         |                  |                    | 13 000 ft             | FL 150             |
-| CTR (Control Zone)          |                  |                    | 13 000 ft             | FL 150             |
+|   Airspace  | Classification |   Vertical Limits   | Transition Altitude | Transition Level |
+|:-----------:|:--------------:|:-------------------:|:-------------------:|:----------------:|
+| Salalah ATZ |        D       |  SFC - 2000 ft AGL  |      13,000 ft      |       FL150      |
+| Salalah CTR |        C       |  SFC - 2000 ft AGL  |      13,000 ft      |       FL150      |
+| Salalah TMA |        C       | 1000 ft AGL - FL150 |      13,000 ft      |       FL150      |
 
 ## 1.3 Radio navigation aids
-| Type            | Identifier   | Frequency   |
-|:---------------:|:------------:|:-----------:|
-|                 |              |             |
-|                 |              |             |
-|                 |              |             |
-|                 |              |             |
+|     Type     | Identifier |  Frequency |
+|:------------:|:----------:|:----------:|
+|   DVOR/DME   |     SLL    |  112.8 Mhz |
+| LOC 07 CAT I |     ISW    |  108.7 Mhz |
+|     GP 07    |      -     | 330.50 Mhz |
+|      DME     |     ISW    |   CH 24X   |
+| LOC 25 CAT I |     ISE    |  110.9 Mhz |
+|     GP 25    |      -     | 330.80 Mhz |
+|      DME     |     ISE    |   CH 46X   |
 
 ## 1.4 Runways
 ### 1.4.1 Runway physical characteristics
-| Runway Designation   | True/Magnetic Bearing     | Dimensions (m)   |
-|:--------------------:|:-------------------------:|:----------------:|
-|                      |                           |                  |
-|                      |                           |                  |
-|                      |                           |                  |
-|                      |                           |                  |
+| Runway Designation |  True/Magnetic Bearing  | Dimensions (m) |
+|:------------------:|:-----------------------:|:--------------:|
+|         07         |       071° / 070°       |    3397 x 60   |
+|         25         |       251° / 250°       |    3997 x 60   |
 
 ### 1.4.2 Declared distances (take-off)
 <table><thead>
@@ -53,22 +52,32 @@
   </tr></thead>
 <tbody>
   <tr>
-    <td rowspan="5">12R</td>
+    <td rowspan="2">07</td>
     <td>FULL LENGTH</td>
-    <td>4315 m</td>
-    <td>4504 m</td>
+    <td>3997 m</td>
+    <td>3997 m</td>
   </tr>
   <tr>
-    <td>K2/M5B</td>
-    <td>4125 m</td>
-    <td>4314 m</td>
+    <td>D2</td>
+    <td>3343 m</td>
+    <td>3343 m</td>
   </tr>
-</tbody></table>
+  <tr>
+    <td rowspan="2">25</td>
+    <td>FULL LENGTH</td>
+    <td>3997 m</td>
+    <td>3997 m</td>
+  </tr>
+  <tr>
+    <td>D7</td>
+    <td>3274 m</td>
+    <td>3274 m</td>
+  </tr>
+</tbody>
+</table>
 
 ### 1.4.3 Declared distances (landing)
 | Runway | Landing Distance Available (at Threshold) |
 |:------:|:-----------------------------------------:|
-|        |                                           |
-|        |                                           |
-|        |                                           |
-|        |                                           |
+|   07   |                   3397 m                  |
+|   25   |                   3397 m                  |
