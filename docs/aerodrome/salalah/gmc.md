@@ -234,7 +234,7 @@ Aircraft shall be taxied via Taxiway C to the assigned stand. Aircraft destined 
 |             Cargo Apron             |    Cargo Air Traffic   |
 |            Southern Apron           |           Any          |
 <figure markdown> 
-  <figcaption>Table 2-3: Stand allocation procedure</figcaption>
+  <figcaption>Table 2-4: Stand allocation procedure</figcaption>
 </figure>
 
 ### 2.10.5 Stand restrictions
