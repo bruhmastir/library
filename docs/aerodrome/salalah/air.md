@@ -122,3 +122,11 @@ Inbound VFR aircraft shall be instructed to contact AIR with enough time such th
 
 !!! example
       **Controller:** A4O-OAD, Salalah Tower, join right hand downwind runway 07, 1,100 ft VFR, QNH 1015.
+
+## 3.6 Designated areas of responsibility
+### 3.6.1 AIR positions
+AIR is responsible for runway 07/25 and all associated taxiways.
+
+### 3.6.2 Handoff procedure
+Where transfer of control is to be made between aerodrome controllers, aircraft shall not be cleared to a point beyond the current controller’s designated zone of responsibility unless there has been
+prior coordination with the next controller. Hold short instructions may be used to satisfy this requirement.
