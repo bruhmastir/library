@@ -108,9 +108,10 @@ Aircraft may request either a touch and go (where the aircraft lands and immedia
 
 Once AIR is aware of the aircraft’s request, they may be sequenced to the runway, with due consideration given to runway occupancy time. 
 
-Aircraft on the downwind should be passed the following information: 
+Aircraft on the downwind should be passed the following information:
+
 - Expected runway;
-- Sequence; 
+- Sequence;
 - Traffic information if applicable
 
 !!! example
