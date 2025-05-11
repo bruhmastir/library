@@ -5,9 +5,6 @@ Air Control (AIR) is responsible for all aerodrome movements on runways and thei
 ## 3.2 Preferential runways
 The preferred calm wind configuration is using runway 25, which may be utilized with a tailwind of up to 5 knots. If this configuration is not feasible due to wind conditions or other factors, runway 07 shall be used instead.
 
-### 3.2.1 Independent parallel operations (IPO)
-Due to the close proximity of OTHH runways, pilots should be aware that Independent Parallel Approaches are conducted at OTHH. As a result, arriving aircraft at either OTBD or OTHH may receive instructions such as break-out maneuvers or missed approach procedures if they are considered to be entering the Non-Transgression Zone (NTZ) established between the runways of both airports.
-
 ## 3.3 Departure procedures
 ### 3.3.1 Line up clearances
 Conditional line up instructions shall include the traffic that the aircraft is to follow, as well as the word “behind” at the beginning and end of the transmission. It is recommended to only have a maximum of two conditional line up clearances active at one i.e., one aircraft lining up behind a departure, and another aircraft lining up behind them.
