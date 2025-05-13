@@ -18,11 +18,11 @@
 | Muscat Control |   OOMM_1_CTR   |     ACC N    |  128.150  |
 
 ### 1.2.2 ATS airspace
-|   Airspace  | Classification |   Vertical Limits   | Transition Altitude | Transition Level |
-|:-----------:|:--------------:|:-------------------:|:-------------------:|:----------------:|
-| Salalah ATZ |        D       |  SFC - 2000 ft AGL  |      13,000 ft      |       FL150      |
-| Salalah CTR |        C       |  SFC - 2000 ft AGL  |      13,000 ft      |       FL150      |
-| Salalah TMA |        C       | 1000 ft AGL - FL150 |      13,000 ft      |       FL150      |
+|   Airspace  | Classification |   Vertical Limits   | Transition Altitude |  Transition Level |
+|:-----------:|:--------------:|:-------------------:|:-------------------:|:-----------------:|
+| Salalah ATZ |        D       |  SFC - 2000 ft AGL  |      13,000 ft      |       FL 150      |
+| Salalah CTR |        C       |  SFC - 2000 ft AGL  |      13,000 ft      |       FL 150      |
+| Salalah TMA |        C       | 1000 ft AGL - FL150 |      13,000 ft      |       FL 150      |
 
 ## 1.3 Radio navigation aids
 |     Type     | Identifier |  Frequency |
