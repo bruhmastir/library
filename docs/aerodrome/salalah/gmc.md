@@ -131,7 +131,7 @@ All VFR departures shall initially be assigned a squawk code of 7000. Salalah Ra
       **Controller:** A4O-OAD, readback correct. QNH 1004, Report ready for start-up.
 
 ### 2.7.2 VFR Traffic Remaining in Circuit
-All VFR aircraft shall be instructed to conduct circuits to the south of the aerodrome (left-hand circuits for 25 and left-hand circuits for 07) at an altitude of 1,100 ft.
+All VFR aircraft shall be instructed to conduct circuits to the south of the aerodrome (left-hand circuits for 25 and right-hand circuits for 07) at an altitude of 1,100 ft.
 
 All VFR departures shall initially be assigned a squawk code of 7000. Salalah Tower may issue a discrete squawk code for identification purposes if necessary.
 
