@@ -30,10 +30,10 @@
 |   DVOR/DME   |     SLL    |  112.8 Mhz |
 | LOC 07 CAT I |     ISW    |  108.7 Mhz |
 |     GP 07    |      -     | 330.50 Mhz |
-|      DME     |     ISW    |   CH 24X   |
+|     DME 07   |     ISW    |   CH 24X   |
 | LOC 25 CAT I |     ISE    |  110.9 Mhz |
 |     GP 25    |      -     | 330.80 Mhz |
-|      DME     |     ISE    |   CH 46X   |
+|     DME 25   |     ISE    |   CH 46X   |
 
 ## 1.4 Runways
 ### 1.4.1 Runway Physical Characteristics
