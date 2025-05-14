@@ -4,16 +4,24 @@ Blue lines indicate departure taxi routes. Yellow lines indicate arrival taxi ro
 
 Commonly used intermediate holding points are shown in white. Runway holding points are shown in red.
 
-Pink indicates areas not available in some sceneries and shall not be used unless requested.
-
-Taxiways with a red background are not code F (A380/B747-8) compatible.
-
 ## 6.2 Runway 07
+### 6.2.1 Departures
 <figure markdown>
-![Runway 07 Taxi Flow](img/taxi07.png)
+![Runway 07 - Departure Flow](img/sll_dep_07.png)
+</figure>
+
+### 6.2.2 Arrivals
+<figure markdown>
+![Runway 07 - Arrival Flow](img/sll_arr_07.png)
 </figure>
 
 ## 6.3 Runway 25
+### 6.3.1 Departures
 <figure markdown>
-![Runway 25 Taxi Flow](img/taxi25.png)
+![Runway 25 - Departure Flow](img/sll_dep_25.png)
+</figure>
+
+### 6.3.2 Arrivals
+<figure markdown>
+![Runway 25 - Arrival Flow](img/sll_arr_25.png)
 </figure>
