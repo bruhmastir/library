@@ -82,7 +82,7 @@ The Arabian vACC Operations Department maintains an up-to-date route database on
   <tr>
     <th>Destination</th>
     <th>Level Restriction</th>
-    <th>Routing</th>
+    <th>Airway/Exit Point</th>
   </tr></thead>
 <tbody>
   <tr>

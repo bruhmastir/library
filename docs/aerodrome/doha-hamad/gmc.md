@@ -270,7 +270,7 @@ Once the aircraft is handed off to GMC, they can be directed to their assigned s
   <figcaption>Table 3-1: Stand allocation procedure</figcaption>
 </figure>
 
-### 3.4.10 Stand restrictions
+### 3.4.7 Stand restrictions
 | **Location**                                                                  | **Aircraft Code Handling**                                                                                                                                                      |
 |-------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Concourse A to E (including Central Concourse and Remote Transfer Aprons)** | All stands can handle aircraft up to code E. Stands with designators of L or R are limited to code C.                                                                           |
