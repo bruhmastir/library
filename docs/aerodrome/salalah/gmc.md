@@ -145,7 +145,7 @@ Pushback direction is based primarily on aircraft location.
 
 Aircraft parked at the Cargo Apron and Nothern Apron shall be instructed to push back *facing east* when Runway 25 is in use, and *facing west* when Runway 07 is in use.
 
-Aircraft at the southern apron shall be instructed to pushback *"facing North".*
+Aircraft parked at the southern apron are positioned on straight-out stands and therefore do not require pushback clearance. These aircraft shall request engine start-up clearance first, followed by taxi clearance when ready.
 
 !!! example
       **Controller:** ADY268, Salalah Ground, pushback approved, facing east.
