@@ -1,135 +1,200 @@
 # 2. Ground Movement Planner ("Muscat Delivery")
-## 2.1 General provisions
-Airway clearance delivery (CLD) is responsible for validation of routes and shall provide IFR clearance to departing aircraft. The controller shall assign the correct departure procedure depending on the runway configuration. 
-Where the flight plan contains an invalid route, level or procedure, CLD must ensure that the error is corrected before the aircraft is given its clearance..
-CLD is also responsible for minimising taxiway delays and congestion for departing aircraft. During time of increased departure activity, aircraft are held at the gate to save fuel and lessen taxiway congestion.
-Muscat airport does not operate datalink clearance (DCL).
+## 2.1 General Provisions
+Airways clearance/Ground Movement Planner (GMP) is responsible for validating routes and shall provide IFR clearance to departing aircraft. The controller shall assign the correct departure procedure to the aircraft based on the first point that is filed on the flight plan.
 
-## 2.2 Departure procedures
-Muscat has many published instrument departures, including RNAV and conventional navigation SIDs. However, at the time of writing (January 2025), these are currently not in use due to aerodrome and airspace restructuring. Only two temporary SIDs are currently in use and therefore, only these shall be assigned.
+Where the flight plan contains an invalid route, level, or departure procedure, GMP must ensure that the error is corrected before the aircraft is given its clearance.
 
-| Runway | SID     |
-|:------:|:-------:|
-| 08L    | MURMA1N |
-| 26R    | ITLAK1N |
+GMP is also responsible for minimizing taxiway delays and taxiway congestion for departing aircraft. During times of increased departure activity, aircraft are held at the gate to save fuel and lessen taxiway congestion.
 
-The initial climb is 3000ft in all cases. When a radar controller is online, aircraft will receive radar vectors enroute after MURMA or ITLAK respectively. Thus, it is wise to know that if aircraft are departing on UNICOM, they will be responsible for self-vectoring themselves to join their cleared airway. 
-
-## 2.3 Departure clearance
+## 2.2 Departure clearance
 ### 2.2.1 General
-CLD is responsible for issuing clearances for departing aircraft. Pilots may be expected to report the following information on first contact:
+GMP is responsible for issuing clearances for departing aircraft. Pilots may be expected to report the following information on first contact: 
+
 - Callsign;
 - Aircraft type;
+- D-ATIS letter;
 - Parking stand;
 - Destination;
 - Requested flight level;
 
 ### 2.2.2 Information contained in a departure clearance
 An IFR clearance shall be in the following format:
+
 - Callsign;
-- Airway and Muscat FIR exit point;
+- Destination;
+- Airways and Muscat FIR exit point;
 - Departure procedure;
 - Initially cleared altitude;
 - Assigned SSR code
 
+GMP shall obtain a full readback of the clearance. If the pilot does not report the current ATIS letter on first contact, GMP shall pass the current ATIS letter and QNH.
+
+Departing aircraft shall be instructed to remain on the delivery frequency and report ready to push before being handed off to GMC. This is so aircraft may be held at the gate, as per the procedures laid down in 2.6.
+
 !!! example
-    **Pilot**: "Muscat Delivery, OMA478, Boeing 777-300ER, information X, stand 215, request clearance to Dubai."
+    **Pilot**: "Muscat Clearance Delivery, OMS735, Airbus A320 NEO, information R, stand 105, requesting FL310, to Hyderabad."
 
-    **Controller**: "OMA478, Muscat Delivery, information X correct, cleared to Dubai via T508 SOLUD, ITLAK1N departure, maintain altitude 3000ft, squawk 2613."
+    **Controller**: "OMS735, Muscat Clearance Delivery, information R correct, cleared to Hyderabad via N881 to RASKI, ITLAK1N departure, maintain altitude 3,000 ft, squawk 4701."
 
-    **Pilot**: "Cleared to Dubai via T508 SOLUD, ITLAK1N departure, maintain altitude 3000ft, squawk 2613, OMA478."
-    
-    **Controller**: "OMA478, readback correct, QNH 1016, report ready for pushback."
+    **Pilot**: "Cleared to Hyderabad via N881 to RASKI, ITLAK1N departure, maintain altitude 3,000 ft, squawk 4701, OMS735."
 
-## 2.4 Aircraft routing
-An aircraft shall be issued a reroute by GMP if the pilot’s route doesn’t comply with standard route, compliant with Oman AIP.
+    **Controller**: "OMS735, readback correct, QNH 1016, report ready for pushback."
 
-All aircraft must follow airway routes and fly on valid airways out of Omani airspace. The first waypoint of an aircraft's route out of Muscat must start at the Muscat VOR (MCT), followed by a valid airway route out of Omani airspace/to the flight's destination. 
+### 2.2.3 Datalink clearance (DCL)
+Muscat Aerodrome does not support the issuance of departure clearances via datalink (ACARS). All clearances shall be obtained through voice communication.
+
+### 2.2.4 Aircraft requiring a reroute
+Aircraft requiring a reroute shall be communicated through voice communication or via private message.
+
+### 2.2.5 Voice clearance
+Aircraft requesting clearance via voice shall be given a voice clearance as per the format in 2.2.2.
+
+## 2.3 Departure Procedures
+### 2.3.1 RNAV Standard instrument departures
+Muscat has published RNAV Standard Instrument Departures (SIDs), which are the preferred departure procedures for IFR aircraft. However, as of the current publication, these RNAV SIDs are suspended due to ongoing aerodrome and airspace restructuring.
+
+In the interim, only four temporary SIDs are in use. As such, only the following SIDs shall be assigned:
+
+| Runway |   SID   | Initial Climb |
+|:------:|:-------:|:-------------:|
+|   08L  | MURMA1N |    3,000 ft   |
+|   08R  |  S08R D |    3,000 ft   |
+|   26L  |  S26L D |    3,000 ft   |
+|   26R  | ITLAK1N |    3,000 ft   |
+
+These temporary SIDs require aircraft to maintain runway heading on departure climbing to 3,000 feet. Departing aircraft can expect to receive radar vectors from Muscat Approach to join their filed airways.
+
+In the absence of an online Approach controller, pilots are responsible for self-navigation and must vector themselves to join their respective filed airways.
+
+## 2.4 Rerouting aircraft
+An aircraft shall be issued a reroute by GMP if the pilot’s route doesn’t comply with the standard routes laid out in Table 2-2. 
+
+Several routing restrictions exist within Muscat airspace and are detailed in the Oman Route Manual which must be complied with when issuing a departure clearance. 
 
 If an aircraft requires a reroute, they shall be informed of such as soon as they have connected to the network by private message or on frequency. The use of “.rte" and “.rtef" aliases are encouraged.
 
 The Arabian vACC Operations Department maintains an up-to-date route database on SimBrief. These routes can be accessed by selecting the "User Submitted Routes" option, highlighted in purple, when planning a flight. These routes also appear as "blue" routes, that are Eurocontrol IFPS compliant. 
 
-
 !!! example
-    **Controller**: "FDB615, cleared to Dubai, via T508 SOLUD, P574, IMPED. ITLAK1N departure, maintain altitude 3000ft, squawk 2613,
+    **Controller**: "OMS735, cleared to Hyderabad via the ITLAK1N departure, SEVLA - Q250 - KIPOL - N881 - RASKI, flight planned route. maintain altitude 3,000 ft, squawk 4701."
 
 <table><thead>
   <tr>
     <th>Destination</th>
-    <th>Level Restrictions</th>
+    <th>Level Restriction</th>
     <th>Routing</th>
   </tr></thead>
 <tbody>
   <tr>
-    <td>Landing Dubai TMA Airports (OMDB,DW,SJ)</td>
-    <td>Max FL200</td>
-    <td>MCT T508 SOLUD P574 IMPED</td>
-  </tr>
-    <tr>
-    <td>Landing OTHH, OTBD</td>
+    <td>VAGO, VCBI, VOBL, VOCB, VOCI, VOCL, VOML, VOTR, VOTV</td>
     <td>-</td>
-    <td>MCT Q978 ITRAX P899 TOVOX</td>
+    <td>KITAL, LOTAV, REXOD, TOTOX</td>
+  </tr>
+  <tr>
+    <td>VAPO &amp; VOMM</td>
+    <td>-</td>
+    <td>PARAR, TOTOX</td>
+  </tr>
+  <tr>
+    <td>VOHS</td>
+    <td>-</td>
+    <td>RASKI</td>
+  </tr>
+  <tr>
+    <td>VABB</td>
+    <td>-</td>
+    <td>RASKI, PARAR</td>
+  </tr>
+  <tr>
+    <td>Transiting Tehran FIR</td>
+    <td>-</td>
+    <td>N718 ITRAX</td>
+  </tr>
+  <tr>
+    <td>OMRK, OMSJ</td>
+    <td>FL200</td>
+    <td>T508 DAPOK T509 PASOV B540 KUPMA</td>
+  </tr>
+  <tr>
+    <td>OMDB</td>
+    <td>FL200</td>
+    <td>T508 SOLUD GISMO</td>
+  </tr>
+  <tr>
+    <td>OMDM, OMDW</td>
+    <td>FL200</td>
+    <td>T508 DAPOK L559 TAPRA M762 VAXAS</td>
+  </tr>
+  <tr>
+    <td>Northern U.A.E Airports</td>
+    <td>FL200</td>
+    <td>T508 DAPOK L559/T509</td>
+  </tr>
+  <tr>
+    <td>OOKB</td>
+    <td>-</td>
+    <td>Z890 BUBAS</td>
   </tr>
 </tbody></table>
-<figure markdown>
-  <figcaption>Table 2-2: Mandatory routes</figcaption>
-</figure>
 
 ## 2.5 Requested cruising level
 ### 2.5.1 Level restrictions
-Aircraft routes out of the aerodrome must comply with all routing and level restrictions as described in section 3.1 of Arabian MATS P1. This is based on direction and type of flight.
+Aircraft routes out of the aerodrome must comply with all routing and level restrictions as described in section 3.1 of Arabian MATS P1, Arabian Route Manual and Table 2-2. This is based on direction and type of flight. 
 
 Should an aircraft file an invalid cruise level, GMP shall advise the aircraft of this when delivering the clearance. In all cases, the next lowest valid cruise level shall be assigned, and the aircraft advised.
-## 2.6 Delay mitigation
-### 2.6.1 Target off-block time (TOBT)
-When A-CDM procedures are active, pilots must report their confirmed TOBT on vacdm.vatsim.me, which is then displayed in the controller's client on the departure list. A fully green time indicates a confirmed TOBT. If a pilot has not confirmed their TOBT, the controller should request it on frequency and update the departure list accordingly.
 
-The TOBT system allows aircraft to push back, taxi to the runway holding point, and depart on schedule without extended delays in the departure queue. If an aircraft reports ready for pushback before its assigned TOBT, it will be instructed to hold position and will be given its place in the pushback sequence, unless aerodrome conditions permit and a slot is available. If an aircraft is cleared for push and start but does not begin pushing within 2-5 minutes, the pushback clearance is canceled, and a new TOBT is assigned.
-
-!!! example
-    **Controller**: "OMA102, hold position. Number 3 for startup, expect pushback at time 45."
-
-## 2.7 Runway change procedure
-AIR shall provide ample notice to GMP before changing runway configuration. The last departure using the old configuration shall be coordinated between AIR, GMP, GMC and approach/departure.
+## 2.6 Runway change procedure
+AIR shall provide ample notice to GMP before changing runway configuration. The last departure using the old configuration shall be coordinated between AIR, GMP, GMC and approach/departure. 
 
 Aircraft that have already been cleared to depart using the old configuration shall be re-cleared if they have not already requested pushback.
 
 ## 2.8 VFR aircraft
+VFR traffic clearances are managed by AIR at the holding point. When an aircraft first contacts the delivery frequency, it must provide the following information:
 
+- Callsign;
+- Aircraft type;
+- Current position;
+- Person(s) on board;
+- Current ATIS;
+- Intentions;
+
+After the initial call with all required information, GMP will issue a start-up clearance and relay the details to GMC & AIR for coordination.
+
+!!! example
+    **Pilot**: "Muscat Clearance Delivery, A4O-OAD, Diamond DA40, at the general aviation apron, 2 POB, with information C, for local flight to the north-west, request start-up."
+
+    **Controller**: "A4O-OAD, Muscat Clearance Delivery, information C is correct, start-up is approved, report ready for taxi."
+
+    **Pilot**: "Start-up is approved, wilco, A4O-OAD."
+
+    -
+
+    **Pilot**: "A4O-OAD, request taxi."
+
+    **Controller**: "A4O-OAD, contact Muscat Ground on 121.875."
+
+Upon handoff from the delivery controller, the Ground controller shall taxi the aircraft to the assigned departure runway, as previously coordinated.
+
+Once the aircraft reaches the designated holding point, it shall be transferred to the Tower frequency, where the pilot will receive their VFR departure clearance.
 
 ### 2.8.1 VFR departures into uncontrolled airspace
-VFR traffic shall be cleared via the most appropriate VFR route towards their destination. If
-necessary, the clearance may be amended by TWR prior to departure.
-All VFR departures shall be assigned a discrete SSR code so that they may be identified on the radar.
+VFR flight activity should be planned in accordance to published VFR charts, specifically the “**Muscat Visual Approach**” chart for VFR traffic navigating out of the Muscat CTR into neighbouring airspaces. GMP may use the appropriate charts as per the requirements of the pilot’s intentions in accordance with 2.7.1 and 2.7.2.
 
-!!! example 
-    **Pilot**: ”Muscat Delivery, A4O-DD, C172, requet clearance to Sohar, Information Charlie”
-    
-    **Controller**: ”A4O-DD, Muscat Delivery, Cleared to Sohar on the Northwest departure, altitude 1500 feet VFR, squawk 7025.”
+### 2.7.1 VFR Departures into Controlled Airspace
+VFR traffic shall be cleared via the most appropriate VFR route towards their destination. As Muscat Approach operates within the Muscat CTR (Class C), coordination with Muscat Approach is required when online for all VFR departures.
 
-    **Pilot**: “Cleared to Sohar on the Northwest departure, altitude 1500 feet VFR, squawk 7025, A-DD.”
-    
-    **Controller**: ”A-DD [Readback] Correct. Information Charlie correct, report ready for start-up.”
-    
-### 2.8.2 VFR departures into controlled airspace
-VFR aircraft requesting clearance to climb into approach airspace (above 5500ft) shall only be
-cleared after prior coordination with TMA control. Otherwise, they shall be instructed to remain
-outside controlled airspace after leaving the control zone.
-All VFR departures shall be assigned a discrete SSR code so that they may be identified on the radar.
+All VFR departures shall initially be assigned a squawk code of 7000. Muscat Approach may issue a discrete squawk code for identification purposes if necessary.
 
-!!! example 
-    **Pilot**: ”Muscat Delivery, A4O-DD, request departure to the south on track Salalah, altitude 10,000 feet.”
-    
-    **Controller**: ”A4O-DD, Muscat Delivery, Cleared on track Salalah, altitude 10,000 feet VFR, squawk 7025.”
+!!! example
+      **Pilot:** Muscat Tower, A4O-OAD, holding point Y6, runway 26R.
 
-    **Pilot**: “Cleared on track Salalah, altitude 10,000 feet VFR, squawk 7025, A-DD.”
-    
-    **Controller**: ”A-DD [Readback] Correct. Information Sierra correct, report ready for start-up.”
+      **Controller:** A4O-OAD, Muscat Tower, cleared to exit the Muscat CTR via the NW departure, altitude 4,500 ft VFR, squawk 7000.
 
+      **Pilot:** Cleared to exit the Muscat CTR via the NW departure, altitude 4,500 ft VFR, Squawk 7000, A4O-OAD.
 
+      **Controller:** A4O-OAD, readback correct. QNH 1004, Report ready for departure.
 
+### 2.7.2 VFR Traffic Remaining in Circuit
+All VFR aircraft shall be instructed to conduct circuits to the north of the aerodrome (left-hand circuits for 08L and right-hand circuits for 26R) at an altitude of 1,000 ft.
 
-
-
-
+All VFR departures shall initially be assigned a squawk code of 7000. Muscat Tower may issue a discrete squawk code for identification purposes if necessary.
