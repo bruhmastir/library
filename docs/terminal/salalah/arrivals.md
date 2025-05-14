@@ -1,6 +1,6 @@
 # 3. Arrivals
-## 3.1 STAR, Approach, and Runway assignment
-### 3.1.1 Initial contact
+## 3.1 STAR, Approach, and Runway Assignment
+### 3.1.1 Initial Contact
 On initial contact, arriving aircraft shall report the current ATIS information to confirm awareness of the active runway. If ATIS is not reported, controllers shall provide the current ATIS identifier along with the designated arrival runway. Additionally, the expected approach type (e.g., ILS, RNP, or VOR) shall be communicated.
 
 !!! example
@@ -15,7 +15,7 @@ If an aircraft has not confirmed receipt of the ATIS information, the current QN
 ### 3.1.2 STAR Assignment
 The Salalah Terminal Maneuvering Area (TMA) offers two types of arrival procedures: RNAV arrivals and conventional arrivals based on the Salalah VOR (SLL). RNAV arrivals shall be assigned by default. Aircraft unable to fly RNAV procedures due to equipment limitations shall be assigned a conventional arrival.
 
-#### 3.1.2.1 Salalah 07
+#### 3.1.2.1 Salalah - Runway 07
 | Procedure | Type | Trajectory     |  IAF  | IAF to ILS/VOR |         IAF to RNP         |
 |:---------:|:----:|----------------|:-----:|:--------------:|:--------------------------:|
 |  ASTUN1F  | RNAV | Point-to-Point | PAVEM | 21 DME ARC SLL | PAVEM - SA500 - SA14W (IF) |
@@ -33,7 +33,7 @@ The Salalah Terminal Maneuvering Area (TMA) offers two types of arrival procedur
 |  PUTRA1E  | CONV | 43 DME ARC SLL | LADAR |   Straight-in  |             N/A            |
 |  SILTA1E  | CONV | Point-to-Point | PAVEM | 21 DME ARC SLL |             N/A            |
 
-#### 3.1.2.2 Salalah 25
+#### 3.1.2.2 Salalah - Runway 25
 | Procedure | Type | Trajectory     |  IAF  | IAF to ILS/VOR |         IAF to RNP         |
 |:---------:|:----:|----------------|:-----:|:--------------:|:--------------------------:|
 |  ASTUN1H  | RNAV | Point-to-Point | DAXAM |   Straight-in  |         Straight-in        |
@@ -72,7 +72,7 @@ When clearing aircraft for a VOR approach, controllers shall ensure the aircraft
 
 A procedure base turn is available and shall be conducted as published, based on the Salalah (SLL) VOR.
 
-### 3.1.4 Visual approach
+### 3.1.4 Visual Approach
 Visual approaches may be initiated by Approach (APP) or requested by the pilot. When a pilot accepts a visual approach, they confirm their ability to visually maintain safe terrain clearance and take responsibility for ensuring a safe landing interval behind the preceding aircraft.  
 
 APP may initiate a visual approach under the following conditions:
@@ -83,7 +83,7 @@ APP may initiate a visual approach under the following conditions:
 
 If the minimum wake turbulence separation cannot be guaranteed, controllers may offer a visual approach, allowing the pilot to maintain visual and wake turbulence separation from preceding traffic.  
 
-### 3.1.5 Change of runway or approach type
+### 3.1.5 Change of Runway or Approach Type
 Controllers must not initiate a change to the approach type or runway within 30 NM of touchdown. However, pilots may request a change to the approach type or runway at any time.  
 
 ## 3.2 Speed control
@@ -92,7 +92,7 @@ Whenever possible, aircraft should be assigned speeds in accordance with Section
 
 When required for separation, speeds within the recommended range may be used, as long as they do not exceed the maximum or minimum limits for the respective segment.  
 
-### 3.2.2 Published and recommended speeds
+### 3.2.2 Published and Recommended Speeds
 The speed limits and recommended speeds within different segments of the Salalah terminal area is as follows:
 
 |  Speed Range  |              Arrival Segment              |
@@ -109,7 +109,7 @@ To ensure accurate spacing, pilots are requested to comply with speed adjustment
 
 If traffic sequencing does not require speed limitations, ATC will advise, “NO ATC SPEED RESTRICTION.”  
 
-### 3.2.3 Deviation from published and recommended speeds
+### 3.2.3 Deviation from Published and Recommended speeds
 Deviation from the recommended speeds from the downwind onwards is not advised, as it affects the turn radius and turn rate, potentially leading to a localizer overshoot. Additionally, maintaining these speeds provides controllers with more time to manage aircraft on the downwind leg.  
 
 For aircraft conducting a straight-in approach from the initial STAR fix, speed control is generally not required until the aircraft is established on the final approach course, unless necessary for separation.  
@@ -118,7 +118,7 @@ However, it is recommended that traffic be instructed to maintain a maximum spee
 
 High speeds may be allowed in the terminal area (TMA) as long as the aircraft is not expected to make turns exceeding 30 degrees of course change in any given arrival segment, and provided the traffic level and controller workload permit.
 
-## 3.3 Descent profile
+## 3.3 Descent Profile
 ### 3.3.1 General
 Descent clearances must be issued in accordance with published level restrictions and the procedures outlined in Sections 3.3.2 and 3.3.3.  
 
@@ -168,7 +168,7 @@ Intermediate levels may be assigned to ensure proper traffic separation between 
 ### 3.4.1 General
 The lateral profile of the STARs within the Salalah TMA is designed to keep arriving traffic separated from departures. However, when the traffic situation permits, aircraft may be given direct routings to shorten track miles. 
 
-### 3.4.2 Direct routings
+### 3.4.2 Direct Routings
 Direct routings within the Salalah TMA shall only be issued when traffic levels permit. When providing a direct routing, controllers must assess and ensure separation from any potential conflicting traffic. Directs shall only be issued to the Initial Approach Fix (IAF).
 
 ## 3.5 Final Approach Sequencing

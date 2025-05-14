@@ -7,8 +7,8 @@
 | Magnetic Variation / Annual Change |  1°E (2020)/0.04° increasing  |
 | Transition Altitude / Level        |       13,000 ft / FL150       |
 
-## 1.2 Air traffic services
-### 1.2.1 List of ATS callsigns
+## 1.2 Air Traffic Services
+### 1.2.1 List of ATS Callsigns
 | Radio Callsign | Logon Callsign | Abbreviation | Frequency |
 |:--------------:|:--------------:|:------------:|:---------:|
 | Salalah Ground |    OOSA_GND    |      GMC     |  124.025  |
@@ -17,14 +17,14 @@
 | Muscat Control |   OOMM_5_CTR   |     ACC S    |  123.950  |
 | Muscat Control |   OOMM_1_CTR   |     ACC N    |  128.150  |
 
-### 1.2.2 ATS airspace
+### 1.2.2 ATS Airspace
 |   Airspace  | Classification |   Vertical Limits   | Transition Altitude |  Transition Level |
 |:-----------:|:--------------:|:-------------------:|:-------------------:|:-----------------:|
 | Salalah ATZ |        D       |  SFC - 2000 ft AGL  |      13,000 ft      |       FL 150      |
 | Salalah CTR |        C       |  SFC - 2000 ft AGL  |      13,000 ft      |       FL 150      |
 | Salalah TMA |        C       | 1000 ft AGL - FL150 |      13,000 ft      |       FL 150      |
 
-## 1.3 Radio navigation aids
+## 1.3 Radio Navigation Aids
 |     Type     | Identifier |  Frequency |
 |:------------:|:----------:|:----------:|
 |   DVOR/DME   |     SLL    |  112.8 Mhz |
@@ -36,13 +36,13 @@
 |      DME     |     ISE    |   CH 46X   |
 
 ## 1.4 Runways
-### 1.4.1 Runway physical characteristics
+### 1.4.1 Runway Physical Characteristics
 | Runway Designation |  True/Magnetic Bearing  | Dimensions (m) |
 |:------------------:|:-----------------------:|:--------------:|
 |         07         |       071° / 070°       |    3397 x 60   |
 |         25         |       251° / 250°       |    3997 x 60   |
 
-### 1.4.2 Declared distances (take-off)
+### 1.4.2 Declared Distances (Take-Off)
 <table><thead>
   <tr>
     <th>Runway</th>
@@ -76,7 +76,7 @@
 </tbody>
 </table>
 
-### 1.4.3 Declared distances (landing)
+### 1.4.3 Declared Distances (Landing)
 | Runway | Landing Distance Available (at Threshold) |
 |:------:|:-----------------------------------------:|
 |   07   |                   3397 m                  |

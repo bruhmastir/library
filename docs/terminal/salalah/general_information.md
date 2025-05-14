@@ -1,5 +1,5 @@
 # 1. General Information
-## 1.1 Air traffic services
+## 1.1 Air Traffic Services
 ### 1.1.1 List of ATS callsigns
 | Radio Callsign | Logon Callsign | Abbreviation | Frequency |
 |:--------------:|:--------------:|:------------:|:---------:|
