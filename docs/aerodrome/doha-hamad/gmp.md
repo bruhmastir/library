@@ -232,7 +232,7 @@ Departures heading eastbound shall be handed over to Doha Approach (East), while
     **Controller**: "TCM1TM, readback correct, QNH 1014, report ready for pushback."
 
 ## 2.4 Rerouting aircraft
-An aircraft shall be issued a reroute by GMC if the pilot’s route doesn’t comply with the standard routes laid out in Table 2-2. 
+An aircraft shall be issued a reroute by GMP if the pilot’s route doesn’t comply with the standard routes laid out in Table 2-2. 
 
 Several routing restrictions exist within Qatari airspace and are detailed in the Qatari Route Manual which must be complied with when issuing a departure clearance. 
 
