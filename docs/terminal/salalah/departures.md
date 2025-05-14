@@ -3,7 +3,7 @@
 ### 4.1.1 Separation Requirements
 All aircraft departing the Salalah TMA via a common exit point shall be separated longitudinally by at least 8 NM constant or increasing. 
 
-If this is not possible, the trailing aircraft shall be handed to Muscat Control in climbing or level flight with a cleared altitude of 13,000 ft once separation is assured. 
+If this is not possible, the trailing aircraft shall be handed to Muscat Control in climbing or level flight with a cleared altitude of 10,000 ft minimum or as per SID constraints once separation is assured. 
 
 ### 4.1.2 Speed Control
 Aircraft may be instructed to maintain high speed below 10,000 ft to maximise the capacity of the departures segment and establish required longitudinal separation as soon as possible.

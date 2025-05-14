@@ -49,7 +49,7 @@ The Salalah Terminal Maneuvering Area (TMA) offers two types of arrival procedur
 |  PUTRA1G  | CONV | 21 DME ARC SLL | PAVEM | 21 DME ARC SLL |             N/A            |
 |  SILTA1G  | CONV | 21 DME ARC SLL | PAVEM | 21 DME ARC SLL |             N/A            |
 
-##### 3.1.2.3 Radar Vectoring
+#### 3.1.2.3 Radar Vectoring
 Controllers shall exercise caution when vectoring aircraft off published procedures, as responsibility for terrain clearance is transferred to the controller. All vectors shall remain within the limits of the published Minimum Radar Vectoring Altitudes (MRVA).
 
 ### 3.1.3 Instrument Approach
@@ -76,6 +76,7 @@ A procedure base turn is available and shall be conducted as published, based on
 Visual approaches may be initiated by Approach (APP) or requested by the pilot. When a pilot accepts a visual approach, they confirm their ability to visually maintain safe terrain clearance and take responsibility for ensuring a safe landing interval behind the preceding aircraft.  
 
 APP may initiate a visual approach under the following conditions:
+
 - The pilot agrees to the visual approach;  
 - The pilot reports having the preceding aircraft in sight and accepts responsibility for maintaining separation;  
 - A caution regarding potential wake turbulence has been issued, where applicable.  
@@ -129,7 +130,7 @@ Aircraft should not be cleared to descend below the current minimum radar altitu
 
 Intermediate levels may be assigned to ensure proper traffic separation between arrivals.
 
-### 3.3.2 Salalah 07
+### 3.3.2 Salalah - Runway 07
 |   STAR  | Type | Descent Procedure                                                                                                                                                                                                         |
 |:-------:|------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ASTUN1F | RNAV | **Muscat Control**: 13,000 ft or above at DAXAM<br>**Salalah Radar**: 13,000 ft or above from DAXAM to SA417.<br>11,000 ft or above at PAVEM.                                                                             |
@@ -147,7 +148,7 @@ Intermediate levels may be assigned to ensure proper traffic separation between 
 | PUTRA1E | CONV | **Muscat Control**: Subject to coordination with Radar.<br>**Salalah Radar**: PUTRA to D45 SLL 9,000 ft or above.<br>(DME ARC) R262 to R243 SLL 6,000 ft or above.                                                        |
 | SILTA1E | CONV | **Muscat Control**: Subject to coordination with Radar.<br>**Salalah Radar**: SILTA to PAVEM 11,000 ft or above.                                                                                                          |
 
-### 3.3.3 Salalah 25
+### 3.3.3 Salalah - Runway 25
 |   STAR  | Type | Descent Procedure                                                                                                                                                    |
 |:-------:|------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ASTUN1H | RNAV | **Muscat Control**: Subject to coordination with Radar.<br>**Salalah Radar**: FL140 at or below at SA420.<br>8,000 ft or above at DAXAM.                             |
@@ -179,18 +180,18 @@ Descent below the platform altitude is generally not recommended. However, it ma
 ## 3.5.2 Final Sequencing
 - **Radar separation** shall be maintained at all times in the **base-to-final segment**.  
 - When sequencing aircraft, controllers shall give due consideration to:
-  - **Wake turbulence categories**,  
-  - **Aircraft performance**, and  
-  - **Assigned landing runway**.
+    - **Wake turbulence categories**,  
+    - **Aircraft performance**, and  
+    - **Assigned landing runway**.
 
 - **Speed control** shall be applied in accordance with the procedures outlined in **Section 3.2.2**.
 
 - If standard separation cannot be maintained:
-  - Aircraft may be instructed to apply **visual separation for wake turbulence**, provided **meteorological conditions permit** and both aircraft are in visual contact.
-  - If visual separation is **not possible**, the affected aircraft shall be instructed to **go around** and shall be **re-sequenced** accordingly.
+    - Aircraft may be instructed to apply **visual separation for wake turbulence**, provided **meteorological conditions permit** and both aircraft are in visual contact.
+    - If visual separation is **not possible**, the affected aircraft shall be instructed to **go around** and shall be **re-sequenced** accordingly.
 
 - When vectoring from the downwind leg:
-  - A **standard 90-degree base leg** followed by a **30-degree intercept angle to final** shall be used.
+    - A **standard 90-degree base leg** followed by a **30-degree intercept angle to final** shall be used.
 
 ## 3.5.3 Longitudinal Separation Requirements
 A minimum longitudinal separation of 7 NM shall be applied between arriving aircraft, unless alternate separation has been specifically coordinated with the appropriate AIR controller.

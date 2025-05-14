@@ -26,10 +26,6 @@ Clearances for direct routing to waypoints, radar vectors before the downwind le
 
 Handoffs between controllers must be conducted early enough to allow the next sectors to facilitate continuous climb or descent, provided no conflicts exist with other traffic and separation is maintained.  
 
-<figure markdown>
-  <figcaption>Table 2-1: Salalah TMA areas of responsibility</figcaption>
-</figure>
-
 ### 2.4.4 Handoff procedure
 #### 2.4.4.1 General
 All departure and arrival traffic shall be handed off to the appropriate Muscat enroute sector upon exiting the lateral or vertical limits of the Salalah TMA. Handoffs must be initiated in a timely manner—ideally prior to the TMA boundary or when aircraft are 1,000 to 2,000 feet below their cleared altitude—to facilitate early coordination and allow for anticipated climb.
