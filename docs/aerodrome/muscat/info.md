@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td>01/2025</td>
-    <td>Standard operating procedures rewritten from the start</td>
+    <td>Full rewrite of Standard Operating Procedures (SOP) for improved clarity,<br>Introduction of Ground Movement Control (GMC) position split (GMC 1 & GMC 2),<br>Operational guidance added for Runway 08R/26L, including handling limitations,<br>Expanded procedural sections with more detailed and scenario-based instructions</td>
     <td>16 MAY 2025</td>
   </tr>
 </tbody></table>
