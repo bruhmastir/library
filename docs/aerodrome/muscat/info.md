@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td>01/2025</td>
-    <td>SOP rewrite from scratch</td>
+    <td>Standard operating procedures rewritten from the start</td>
     <td>16 MAY 2025</td>
   </tr>
 </tbody></table>
