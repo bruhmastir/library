@@ -66,6 +66,9 @@ These temporary SIDs require aircraft to maintain runway heading on departure cl
 
 In the absence of an online Approach controller, pilots are responsible for self-navigation and must vector themselves to join their respective filed airways.
 
+!!! warning
+    Runway 08R/26L is fully operational in the real world. However, in most simulator sceneries, this runway is either nonexistent or still under construction. Therefore, by default, this runway shall not be used and may only be assigned when requested by the pilot and confirmed to be available in their scenery.
+
 ## 2.4 Rerouting aircraft
 An aircraft shall be issued a reroute by GMP if the pilot’s route doesn’t comply with the standard routes laid out in Table 2-2. 
 
