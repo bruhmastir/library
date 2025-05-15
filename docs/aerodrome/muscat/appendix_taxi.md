@@ -23,7 +23,7 @@ Commonly used intermediate holding points are shown in white. Runway holding poi
 
 ### 6.3.2 Arrivals
 <figure markdown>
-![Runway 08R - Arrival Flow](img/mct_arr_08r.png)
+![Runway 08R - Arrival Flow](img/mct_arr_08r_correct.png)
 </figure>
 
 ## 6.4 Runway 26L
