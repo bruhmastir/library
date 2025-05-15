@@ -199,3 +199,8 @@ AIR 1 is responsible for runway 08L/26R and all associated taxiways. AIR 2 is re
 ### 4.7.2 Handoff Procedure
 Where transfer of control is to be made between aerodrome controllers, aircraft shall not be cleared to a point beyond the current controller’s designated zone of responsibility unless there has been
 prior coordination with the next controller. Hold short instructions may be used to satisfy this requirement.
+
+### 4.7.3 Splitting Procedure
+Where there is only one controller, they shall cover all runways and associated airspace from the AIR 1 position.
+
+Unless otherwise authorised by the Arabian vACC staff, GMP (Muscat Clearance Delivery) and at least one GMC (Muscat Ground) position must be online before two AIR (Muscat Tower) positions may be opened.
