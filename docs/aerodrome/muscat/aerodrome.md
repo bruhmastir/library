@@ -36,7 +36,7 @@
 
     For detailed airspace structure and operational procedures, refer to the Oman eAIP.
 
-## 1.3 Radio navigation aids
+## 1.3 Radio Navigation Aids
 |      Type     | Identifier |  Frequency  |
 |:-------------:|:----------:|:-----------:|
 |    DVOR/DME   |     MCT    | 114.500 Mhz |
@@ -54,7 +54,7 @@
 |    DME 26L    |     ISB    |    CH 40X   |
 
 ## 1.4 Runways
-### 1.4.1 Runway physical characteristics
+### 1.4.1 Runway Physical Characteristics
 | Runway Designation |   True/Magnetic Bearing | Dimensions (m) |
 |:------------------:|:-----------------------:|:--------------:|
 |         08L        |       085° / 083°       |    4000 X 60   |
@@ -62,7 +62,7 @@
 |         26L        |       265° / 263°       |    4000 X 60   |
 |         26R        |       265° / 263°       |    4080 X 45   |
 
-### 1.4.2 Declared distances (take-off)
+### 1.4.2 Declared Distances (Take-off)
 <table><thead>
   <tr>
     <th>Runway</th>
@@ -147,7 +147,7 @@
   </tr>
 </tbody></table>
 
-### 1.4.3 Declared distances (landing)
+### 1.4.3 Declared Distances (Landing)
 | Runway | Landing Distance Available (at Threshold) |
 |:------:|:-----------------------------------------:|
 |   08L  |                   4000 m                  |
