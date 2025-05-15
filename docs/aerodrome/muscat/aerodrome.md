@@ -7,8 +7,8 @@
 | Magnetic Variation / Annual Change |      2.0°E (2025)/ 0.05°E     |
 | Transition Altitude / Level        |       13,000 ft / FL150       |
 
-## 1.2 Air traffic services
-### 1.2.1 List of ATS callsigns
+## 1.2 Air Traffic Services
+### 1.2.1 List of ATS Callsigns
 |       Radio Callsign      | Logon Callsign | Abbreviation | Frequency |
 |:-------------------------:|:--------------:|:------------:|:---------:|
 | Muscat Clearance Delivery |    OOMS_DEL    |      GMP     |  125.575  |
@@ -23,7 +23,7 @@
 |       Muscat Control      |   OOMM_2_CTR   |     ACC A    |  135.600  |
 |       Muscat Control      |   OOMM_1_CTR   |     ACC N    |  128.150  |
 
-### 1.2.2 ATS airspace
+### 1.2.2 ATS Airspace
 |    Airspace    | Classification |  Vertical Limits | Transition Altitude | Transition Level |
 |:--------------:|:--------------:|:----------------:|:-------------------:|:----------------:|
 |   Muscat CTR   |        C       |  SFC - 5,500 ft  |      13,000 ft      |      FL 150      |
