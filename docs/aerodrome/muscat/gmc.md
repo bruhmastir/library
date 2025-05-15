@@ -6,7 +6,9 @@ The Ground Movement Controller (GMC) is responsible for managing aircraft moveme
 ### 3.2.1 General pushback procedures
 When aircraft have been handed off from GMP, they shall be fully ready for pushback. Assuming no obstructions, they shall be instructed to push back immediately. If an aircraft is cleared for push and start but does not begin pushing within 2-5 minutes, the pushback clearance is canceled.
 
-Aircraft requesting push that are not squawking their assigned transponder code shall be instructed to hold position and squawk the correct code. They must not be allowed to move until doing so. 
+- **Transponders** must remain **on standby** while on the apron, unless **explicitly approved by ATC**.
+- **Departing aircraft** shall keep transponders on **standby** until **take-off clearance** is issued.
+- **ADS-B** must be **activated prior to startup** for all departing aircraft from **Muscat International Airport (OOMS)**.
 
 Pushback direction is based primarily on aircraft location and runway configuration. 
 
@@ -55,20 +57,16 @@ A long pushback instruction shall require aircraft to complete the pushback oper
 ### 3.2.3 Simultaneous pushback operations
 Simultaneous pushbacks may be permitted from adjacent stands provided aircraft are instructed to manoeuver in accordance with 3.2.2 such that on completion of both aircraft’s pushback operation, they will be separated on the Taxiway by two aircraft stands.
 
-### 3.2.4 Pushback direction
-
-- **Departing Runway 08L:**  
-  - Aircraft parked on stands 3xx shall be instructed to *“FACE WEST”*.  
-  - Aircraft on stands 201–203 may be instructed to *“FACE NORTH”* or *“FACE SOUTH”*, at the controller’s discretion, considering prevailing traffic conditions.
-
-- **Departing Runway 26R:**  
-  Aircraft parked on the north side of the main terminal (stands 2xx and 3xx) shall be instructed to *“FACE EAST”* or *“FACE NORTH”*, as appropriate based on stand position and traffic flow.
-
-- **South Side Stands and Cargo Apron (Stands 4xx, 5xx, 6xx):**  
-  Aircraft parked on the south side of the main terminal and those on the cargo apron shall be instructed to *“FACE WEST”*, unless an alternate orientation is required for efficient ground movement.
-
-- **Southern Taxi-Out Stands (Below Runways 08R/26L):**  
-  A majority of stands located on the southern side of the aerodrome, beneath runways 08R and 26L, are configured as taxi-out stands. Aircraft on these stands do **not** require pushback clearance and shall only request start-up clearance prior to taxi.
+### 3.2.4 Pushback Operations
+| **Concourse/Apron**        | **Instruction Details**                                                                               |
+|----------------------------|-------------------------------------------------------------------------------------------------------|
+| North of the Main Terminal | Stands 101-106 & 151/152: Face North.<br>Stands 201-203: Face North.<br>Stands 301-313: Face West.    |
+| South of the Main Terminal | Stands: 401-416: Face West.<br>Stands: 501-504: Face South.<br>Stands: 601-606 & 651/652: Face South. |
+| Cargo Apron                | Face East or West depending on runway configuration.                                                  |
+| Police & Royal Apron       | Face North or Taxi-out stand.                                                                         |
+| RAFO Apron                 | Face North/East/West as appropriate or Taxi-out stand.                                                |
+| Old Terminal               | Face North or Taxi-out stand.                                                                         |
+| MRO Apron                  | Face East or West as appropriate or Taxi-out stand.                                                   |
 
 ## 3.3 Departure taxi procedures
 ### 3.3.1 General departure taxi procedures
@@ -114,8 +112,8 @@ To deconflict traffic, and to reduce the length of taxi clearances, intermediate
 ### 3.3.4 Runway 26L Departure Taxi Procedures
 | **Concourse/Apron**                                            | **Instruction Details**                                                                                                                                        |
 |----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| North of the Main Concourse                                    | Aircraft shall taxi to join Taxiway V, then proceed via Taxiways N and H. They may then continue onto Taxiway G, passing Taxiway M, to reach Holding Point E9. |
-| South of the Main Concourse                                    | Aircraft shall taxi to join Taxiway H. They may then continue onto Taxiway G, passing Taxiway M, to reach Holding Point E9.                                    |
+| North of the Main Concourse                                    | Aircraft shall taxi to join Taxiway V, then proceed via Taxiways N and H to reach Holding Point E9.                                                            |
+| South of the Main Concourse                                    | Aircraft shall taxi to join Taxiway H to reach Holding Point E9.                                                                                               |
 | Cargo Apron                                                    | Aircraft shall taxi to join Taxiway H to reach Holding Point E9.                                                                                               |
 | Old Terminal, Royal Apron, Police Apron, RAFO Apron, MRO Apron | Aircraft shall taxi to join Taxiway A to reach Holding Point D7.                                                                                               |
 
@@ -145,34 +143,34 @@ Once the aircraft is handed off to GMC, they can be directed to their assigned s
 ### 3.4.2 Runway 08L Arrival Taxi Procedures
 | **Concourse/Apron**                                            | **Instruction Details**                                                                                                                                           |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| North of the Main Concourse                                    | Aircraft vacating via Taxiway Y5 shall taxi via Taxiway W, then continue via Taxiway U, UD, or S, as instructed.                                                  |
-| South of the Main Concourse                                    | Aircraft vacating via Taxiway Y5 shall taxi via Taxiway W, then proceed via Taxiways N and H, followed by Taxiway K, KD, or M, as instructed.                     |
-| Cargo Apron                                                    | Aircraft vacating via Taxiway Y5 shall taxi via Taxiway W, then proceed via Taxiways N and H.                                                                     |
-| Old Terminal, Royal Apron, Police Apron, RAFO Apron, MRO Apron | Aircraft vacating via Taxiway Y5 shall taxi via Taxiway W, then proceed via Taxiways N and H, join Intersection E1, cross Runway 08R, and continue via Taxiway A. |
+| North of the Main Concourse                                    | Aircraft vacating via Taxiway Y5 shall taxi via Taxiway W, then taxi via Taxiway T, UE, or S, as instructed.                                                      |
+| South of the Main Concourse                                    | Aircraft vacating via Taxiway Y5 shall taxi via Taxiway W, then taxi via Taxiways N and G, then taxi via Taxiway L, KE, or M, as instructed.                      |
+| Cargo Apron                                                    | Aircraft vacating via Taxiway Y5 shall taxi via Taxiway W, then taxi via Taxiways N and G.                                                                        |
+| Old Terminal, Royal Apron, Police Apron, RAFO Apron, MRO Apron | Aircraft vacating via Taxiway Y5 shall taxi via Taxiway W, then taxi via Taxiways N and H, join Intersection E1, cross Runway 08R, and taxi via Taxiway A.        |
 
 ### 3.4.3 Runway 08R Arrival Taxi Procedures
-| **Concourse/Apron**                                            | **Instruction Details**                                                                                                      |
-| -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| North of the Main Concourse                                    | Aircraft vacating via Taxiway E5 or E6 shall taxi via Taxiway G and R, then continue via Taxiway U, UD, or S, as instructed. |
-| South of the Main Concourse                                    | Aircraft vacating via Taxiway E5 or E6 shall taxi via Taxiway G, then continue via Taxiway K, KD, or M, as instructed.       |
-| Cargo Apron                                                    | Aircraft vacating via Taxiway E5 or E6 shall taxi via Taxiway G, then proceed via Taxiways E6 and H.                         |
-| Old Terminal, Royal Apron, Police Apron, RAFO Apron, MRO Apron | Aircraft vacating via Taxiway D4, D5, or D6 shall taxi via Taxiway A.                                                        |
+| **Concourse/Apron**                                            | **Instruction Details**                                                                                                                                  |
+| -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| North of the Main Concourse                                    | Aircraft vacating via Taxiway E5 or E6 shall taxi via Taxiways G, R, and V, then taxi via Taxiway T, UE, or S, as instructed.                            |
+| South of the Main Concourse                                    | Aircraft vacating via Taxiway E5 or E6 shall taxi via Taxiway G, then taxi via Taxiway L, KE, or M, as instructed.                                       |
+| Cargo Apron                                                    | Aircraft vacating via Taxiway E5 or E6 shall taxi via Taxiway G.                                                                                         |
+| Old Terminal, Royal Apron, Police Apron, RAFO Apron, MRO Apron | Aircraft vacating via Taxiway D4, D5, or D6 shall taxi via Taxiway A.                                                                                    |
 
 ### 3.4.4 Runway 26L Arrival Taxi Procedures
-| **Concourse/Apron**                                            | **Instruction Details**                                                                                                      |
-| -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| North of the Main Concourse                                    | Aircraft vacating via Taxiway E3 or E4 shall taxi via Taxiway G and R, then continue via Taxiway U, UD, or S, as instructed. |
-| South of the Main Concourse                                    | Aircraft vacating via Taxiway E3 or E4 shall taxi via Taxiway G, then continue via Taxiway K, KD, or M, as instructed.       |
-| Cargo Apron                                                    | Aircraft vacating via Taxiway E3 or E4 shall taxi via Taxiway G, then proceed via Taxiways E6 and H.                         |
-| Old Terminal, Royal Apron, Police Apron, RAFO Apron, MRO Apron | Aircraft vacating via Taxiway D2 or D3 shall join Taxiway A.                                                                 |
+| **Concourse/Apron**                                            | **Instruction Details**                                                                                                                                  |
+| -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| North of the Main Concourse                                    | Aircraft vacating via Taxiway E3 or E4 shall taxi via Taxiways G, R, and V, then taxi via Taxiway T, UE, or S, as instructed.                            |
+| South of the Main Concourse                                    | Aircraft vacating via Taxiway E3 or E4 shall taxi via Taxiway G, then taxi via Taxiway L, KE, or M, as instructed.                                       |
+| Cargo Apron                                                    | Aircraft vacating via Taxiway E3 or E4 shall taxi via Taxiway G.                                                                                         |
+| Old Terminal, Royal Apron, Police Apron, RAFO Apron, MRO Apron | Aircraft vacating via Taxiway D2 or D3 shall taxi via Taxiway A.                                                                                         |
 
 ### 3.4.5 Runway 26R Arrival Taxi Procedures
-| **Concourse/Apron**                                            | **Instruction Details**                                                                                                                   |
-| -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| North of the Main Concourse                                    | Aircraft vacating via Taxiway Y4 shall taxi via Taxiways V and W, then continue via Taxiway U, UD, or S, as instructed.                   |
-| South of the Main Concourse                                    | Aircraft vacating via Taxiway Y4 shall taxi via Taxiways V, N, and G, then continue via Taxiway K, KD, or M, as instructed.               |
-| Cargo Apron                                                    | Aircraft vacating via Taxiway Y4 shall taxi via Taxiways V, N, and G, then proceed via Taxiways E6 and H.                                 |
-| Old Terminal, Royal Apron, Police Apron, RAFO Apron, MRO Apron | Aircraft vacating via Taxiway Y4 shall taxi via Taxiways V, N, and H, join Intersection E1, cross Runway 08R, and continue via Taxiway A. |
+| **Concourse/Apron**                                            | **Instruction Details**                                                                                                                                                     |
+| -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| North of the Main Concourse                                    | Aircraft vacating via Taxiway Y4 shall taxi via Taxiway V, then taxi via Taxiway T, UE, or S, as instructed.                                                                |
+| South of the Main Concourse                                    | Aircraft vacating via Taxiway Y4 shall taxi via Taxiways V, N, and G, then taxi via Taxiway L, KE, or M, as instructed.                                                     |
+| Cargo Apron                                                    | Aircraft vacating via Taxiway Y4 shall taxi via Taxiways V, N, and G.                                                                                                       |
+| Old Terminal, Royal Apron, Police Apron, RAFO Apron, MRO Apron | Aircraft vacating via Taxiway Y4 shall taxi via Taxiway V, then taxi via Taxiways N and H, join Intersection E1, cross Runway 08R, and taxi via Taxiway A.                  |
 
 ### 3.4.6 Stand allocation procedure
 Stand assignments shall be managed automatically via the Ground Radar Plugin (GRplugin) system wherever feasible.
