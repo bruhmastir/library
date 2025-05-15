@@ -204,7 +204,8 @@ However, when Runway Visual Range (RVR) falls below 550 meters, departures are n
 ### 3.6.1 GMC Positions
 Muscat has recently introduced a second ground position, allowing ground control to be split into two positions when necessary: Ground North (GMC 1) and Ground South (GMC 2).
 
-When both GMC 1 and GMC 2 are online, departing aircraft taxiing from the south side of the aerodrome via Taxiway R shall be instructed by GMC 2 to taxi via R to hold short at Taxiway V, before being transferred to GMC 1 (Ground North).  
+When both GMC 1 and GMC 2 are online, departing aircraft taxiing from the south side of the aerodrome via Taxiway R shall be instructed by GMC 2 to taxi via R to hold short at Taxiway V, before being transferred to GMC 1 (Ground North).
+ 
 Similarly, arriving aircraft taxiing from the north to the south side of the aerodrome shall be instructed to taxi via Taxiway N to hold short at Taxiway H, before being transferred to GMC 2 (Ground South).
 
 #### 3.6.1.1 GMC 1 Responsibilities  
