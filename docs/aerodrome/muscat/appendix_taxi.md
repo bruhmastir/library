@@ -4,20 +4,46 @@ Blue lines indicate departure taxi routes. Yellow lines indicate arrival taxi ro
 
 Commonly used intermediate holding points are shown in white. Runway holding points are shown in red.
 
-Pink indicates areas not available in some sceneries and shall not be used unless requested.
+## 6.2 Runway 08L
+### 6.2.1 Departures
+<figure markdown>
+![Runway 08L - Departure Flow](img/mct_dep_08l.png)
+</figure>
 
-Taxiways with a red background are not code F (A380/B747-8) compatible.
+### 6.2.2 Arrivals
+<figure markdown>
+![Runway 08L - Arrival Flow](img/mct_arr_08l.png)
+</figure>
 
-## 6.2 Runway 30 configuration
-### 6.2.1 Dual Runway 30L/30R
+## 6.3 Runway 08R
+### 6.3.1 Departures
+<figure markdown>
+![Runway 08R - Departure Flow](img/mct_dep_08r.png)
+</figure>
 
-### 6.2.2 Single Runway 30L
+### 6.3.2 Arrivals
+<figure markdown>
+![Runway 08R - Arrival Flow](img/mct_arr_08r.png)
+</figure>
 
-### 6.2.3 Single Runway 30R
+## 6.4 Runway 26L
+### 6.4.1 Departures
+<figure markdown>
+![Runway 26L - Departure Flow](img/mct_dep_26l.png)
+</figure>
 
-## 6.3 Runway 12 configuration
-### 6.3.1 Dual Runway 12L/12R (Departure Bias and Arrival Bias)
+### 6.4.2 Arrivals
+<figure markdown>
+![Runway 26L - Arrival Flow](img/mct_arr_26l.png)
+</figure>
 
-### 6.3.2 Single Runway 12L
+## 6.5 Runway 26R
+### 6.5.1 Departures
+<figure markdown>
+![Runway 26R - Departure Flow](img/mct_dep_26r.png)
+</figure>
 
-### 6.3.3 Single Runway 12R
+### 6.5.2 Arrivals
+<figure markdown>
+![Runway 26R - Arrival Flow](img/mct_arr_26r.png)
+</figure>
