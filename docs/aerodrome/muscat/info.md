@@ -3,12 +3,12 @@
 |                     |                                                   |
 |---------------------|---------------------------------------------------|
 |         Type        |                    Procedure                      |
-|       Revision      |                     01/2024                       |
-|    Effective Date   |                    01 DEC 2024                    |
-|     Prepared by     | Suprojit Paul - ACCARB3 & Shahzin Shajid - Mentor |
+|       Revision      |                     01/2025                       |
+|    Effective Date   |                    16 MAY 2025                    |
+|     Prepared by     |            Chriss Klosowski - ACCARB2             |
 |     Approved by     |             Chris Marriott - ACCARB1              |
-|   Next review date  |                    01 DEC 2025                    |
-| Cancelled documents |                SOP OMDB R05/2021                  |
+|   Next review date  |                    16 MAY 2025                    |
+| Cancelled documents |                       NIL                         |
 
 ## Record of Revisions
 <table><thead>
@@ -22,5 +22,10 @@
     <td>01/2019</td>
     <td>Initial issue</td>
     <td>26 SEP 2019</td>
+  </tr>
+  <tr>
+    <td>01/2025</td>
+    <td>SOP rewrite from scratch</td>
+    <td>16 MAY 2025</td>
   </tr>
 </tbody></table>
