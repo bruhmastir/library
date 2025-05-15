@@ -1,145 +1,201 @@
 # 4. Air Control ("Muscat Tower")
 ## 4.1 General provisions
-Tower control (TWR/AIR) is responsible for all aerodrome movements on runways and their associated
-taxiways. TWR shall also ensure separation in the control zone between IFR and IFR traffic as well as IFR and VFR traffic is maintained. Traffic information shall also be provided so pilots of VFR traffic can maintain visual separation between themselves.
+Air Control (AIR) is responsible for all aerodrome movements on runways and their associated taxiways. AIR shall also ensure separation between IFR aircraft that are arriving at and departing the aerodrome, as well as provide traffic information to VFR aircraft operating within the aerodrome control zone.
 
 ## 4.2 Preferential runways
-The preferred calm wind configuration is departing and arriving runway 26R, which shall be used up
-to a 5-knot tailwind. Otherwise, runway 08L will be used. Tower shall pick the configuration that is
-used in real life (by checking flight radar) whenever possible.
+The preferred calm wind configuration is using runway 26R, which may be utilized with a tailwind of up to 5 knots. If this configuration is not feasible due to wind conditions or other factors, runway 08L shall be used instead.
 
 !!! warning
-    At the time of writing, the southern runway (08R/26L) is currently closed, as per updated NOTAMs. This is due to the restructing of Muscat aerodrome. This runway shall not be used, except for crossing taxiing aircraft between taxiways E1 and D1. 
+    Runway 08R/26L is fully operational in the real world. However, in most simulator sceneries, this runway is either nonexistent or still under construction. Therefore, by default, this runway shall not be used and may only be assigned when requested by the pilot and confirmed to be available in their scenery.
 
 ## 4.3 Departure procedures
-
-Runway 08L/26R features three departure points per configuration. The standard departure points are full length on each runway. There should not be a performance difference between Y1 and Y2, and Y7 and Y8 respectively so they can be assigned to optimize the departure rate. Y3 and Y6 are intersection departure points that shall only be assigned after confirmation by the pilot that aircraft performance is sufficient.
+Runway 08L/26R has three departure points for each configuration. The standard departure points are full-length for each runway. There is no expected performance difference between Y1 and Y2, or between Y7 and Y8, allowing either to be assigned to optimize departure flow. Y3 and Y6 are intersection departure points and shall only be assigned after the pilot confirms that the aircraft’s performance is adequate.
 
 ### 4.3.2 Line up clearances
-Conditional line up instructions shall include the traffic that the aircraft is to follow, as well as the word “behind” at the beginning and end of the transmission. It is recommended to only have a maximum of two conditional line up clearances active at once.
+Conditional line up instructions shall include the traffic that the aircraft is to follow, as well as the word “behind” at the beginning and end of the transmission. It is recommended to only have a maximum of two conditional line up clearances active at one i.e., one aircraft lining up behind a departure, and another aircraft lining up behind them.
 
 !!! example
-    **Controller:** "SWR243, behind the departing Oman Air A330, runway 26R line upand wait behind."
+    **Controller**: "OMA661, behind the departing company Boeing 787, via Y2, line up and wait runway 08L behind."
 
 If aircraft have not yet reached the holding point where they are expected to line up at, ATC shall reiterate the cleared holding point.
 
 !!! example
-    **Controller:** "OMA298 via Y7, line up and wait runway 26R"
+    **Controller**: "OMA661, via Y2, line up and wait runway 08L."
 
 ### 4.3.3 Take-off clearances
-Aircraft shall be cleared for take-off once adequate separation exists, as provided in 4.3.4.
+Aircraft will be cleared for takeoff once adequate separation is ensured as outlined in sections 4.3.4 and 4.6.
 
 !!! example
-    **Controller:** "OMA8KC, wind 280 degrees 4 knots, runway 26R cleared for take-off."
+    **Controller**: "QTR40P, wind 330 degrees 7 knots, runway 26R, cleared for take-off."
 
 ### 4.3.4 Separation requirements
 #### 4.3.4.1 General
-Aircraft shall be separated on departure in compliance with standard IFR departure separation minima.
+Aircraft shall be separated on departure in accordance with standard IFR departure separation minima.
 
-Succeeding aircraft with the same Muscat FIR exit point shall be separated by a minimum of two minutes, except as provided in 4.3.4.2.
-
-A VFR aircraft following a VFR departure may be instructed to maintain visual separation with preceding aircraft and given take-off clearance if no wake turbulence separation minima exists.
-
-#### 4.3.4.2 Muscat FIR flow control procedure
-Two Muscat departures with the same Muscat FIR/Mumbai FIR boundary exit point and the same cruising level must adhere to a minimum departure interval of three minutes. During events, the appointed flow manager may adjust these as necessary.
+- A minimum separation of **2 minutes** shall be applied between successive aircraft departing with the same Muscat FIR exit point.  
+- If two aircraft are departing with the **same Muscat FIR exit point** *and* are filed at the **same cruising level**, a minimum of **3 minutes** separation shall be ensured.
 
 #### 4.3.4.3 Low visibility and IMC
-During low visibility operations and during IMC in general, departing aircraft shall not be cleared for take-off when there is an arriving aircraft within 4 nm of the landing runway threshold.
+During low visibility operations and during IMC, departing aircraft shall not be cleared for take-off when there is an arriving aircraft within **4 NM** of the landing runway threshold.
 
 ### 4.3.5 IFR handoff procedure
-Departing IFR aircraft shall be handed off to the Muscat TMA controller or –if not online- Muscat Control. Aircraft shall be handed off when passing 800ft to ensure adequate time for a frequency change and avoid a level off on departure.
+Departing IFR aircraft shall be transferred to **Muscat Approach**. If the TMA controller is not online, handoff shall be made to **Muscat Control**.
+
+- Handoff shall be initiated **when the aircraft passes 1,000 ft**.  
+- This ensures sufficient time for frequency change and helps prevent level-offs during the initial climb.
 
 ### 4.3.6 Stopping a departure
-Aircraft that have commenced their take-off roll may be instructed to stop immediately to avert a collision due to a runway incursion or any other dangerous situation.
+Aircraft that have commenced their take-off roll may be instructed to stop immediately to avert a collision due to a runway incursion or any other dangerous situation. 
 
-It must be noted though, that the instruction to stop must be given early enough such that the aircraft does not reach its decision speed. The stopping distance of an aircraft is also significant. Therefore, aerodrome controllers must be vigilant and remain aware of the location of traffic at all times as well as runway incursion hotspots.
-
-!!! example
-    **Controller:** "FDB687, Stop immediately, I say again stop immediately, runway incursion."
-
-For aircraft that have been given a take-off clearance, but have not yet started the roll, they shall be instructed to hold position and the take-off clearance must be cancelled along with the reason.
+It must be noted though, that the instruction to stop must be given early enough such that the aircraft does not reach its decision speed. Therefore, aerodrome controllers must be vigilant and remain aware of the location of traffic at all times as well as runway incursion hotspots.
 
 !!! example
-    **Controller:** "FDB687, hold position, cancel takeoff clearance, I say again cancel takeoff clearance, aircraft entering the runway."
+    **Controller**: "FDB7WA, stop immediately, I say again stop immediately, truck entering the runway!"
+
+For aircraft that have been given a take-off clearance, but have not yet started the roll, they shall be instructed to hold position and the take-off clearance must be cancelled along with the reason for cancellation.
+
+!!! example
+    **Controller**: "FDB7WA, hold position, cancel take-off, I say again cancel take-off, aircraft entering the runway, acknowledge."
+
 
 ## 4.4 Arrival Procedures
 ### 4.4.1 Preferred exit points
-During periods of increased arrival or departure activity, aircraft shall be instructed to vacate at the rapid exit taxiway for the runway in use. These are Y4 and Y5 respectively.
+During periods of increased arrival or departure traffic, arriving aircraft are expected to vacate the runway via the designated **rapid exit taxiways**, as applicable to the runway in use.
+
+The following taxiways serve as rapid exits:
+
+- **Runway 08L/26R**: Y4, Y5
+- **Runway 08R/26L**: E3, E4, E5, E6  
+
+This procedure supports efficient runway occupancy time and maximizes traffic throughput.
 
 ### 4.4.2 Separation requirements
 #### 4.4.2.1 General
-While the radar controllers are responsible for separating and sequencing arriving aircraft, the TWR controller shall still ensure that minimum separation (>3nm) is maintained until the preceding aircraft crosses the runway threshold.
+While the radar controllers are responsible for separating arriving aircraft, the AIR controller shall still ensure that minimum separation is maintained until the preceding aircraft crosses the runway threshold. 
 
 #### 4.4.2.2 Speed control
-If it is apparent that minimum separation may not exist, TWR may use a tactical reduction in aircraft speed.
+If it is apparent that minimum separation may not exist as provided in 4.4.2.1, AIR may use a tactical reduction in aircraft speed.
 
 !!! example
-    **Controller:** "OMA1784, reduce to final approach speed."
+    **Controller**: "OMS236, reduce to final approach speed."
 
 #### 4.4.2.3 Visual separation
-Aircraft may be instructed to maintain own separation visually, if speed control alone will not resolve the conflict. This shall only be done in VMD and in agreement with the pilot. If no other solutions are practical, the succeeding aircraft shall be instructed to go around.
+Aircraft may be instructed to maintain own separation visually, if speed control alone will not resolve the conflict. This shall only be done in VMC and with agreement with the pilot. If no other solutions are practical, the succeeding aircraft shall be instructed to go around.
 
 ### 4.4.3 Go-around instruction
 #### 4.4.3.1 General go-around procedure
-Should a runway at any time become unsuitable for an aircraft landing, or separation minima is not met, aircraft shall be instructed to go-around. 
+At any time should a runway become unsuitable for an aircraft landing, or separation minima is not met, aircraft shall be instructed to go-around.
 
 !!! example
-    **Controller:** "UAE797, go around, I say again, go around. Acknowledge."
+    **Controller**: "OMS236, go around, I say again, go around, acknowledge."
 
-At Muscat, instructions in case of a go-around are usually assigned by Muscat Approach. However, Muscat Tower may reiterate these if necessary and if these change, after coordination with Muscat Radar. Once aircraft have acknowledged the instruction and are observed to be safely climbing away, they shall be transferred to Muscat TMA.
+Once aircraft have acknowledged the instruction and are observed to be safely climbing away, they shall be handed off to the appropriate Doha Approach controller.
 
 !!! example
-    **Controller:** "UAE797, (fly runway heading, climb to altitude 3,000ft,) contact Muscat Radar 121.200."
+    **Controller**: "OMS236, climb to 6,000 ft via standard missed approach, contact Muscat Approach on 121.200."
 
 ### 4.4.4 Arrival taxi procedures
-In accordance with taxi procedures laid down in 3.4, aircraft shall be provided an intial taxi clearance to ensure they are kept moving, such that the relevant rapid exit taxiway (RET) is kept clear for the next arrival.
+In accordance with the taxi procedures laid down in 3.4, aircraft shall be provided an initial taxi clearance to ensure they are kept moving such that the rapid exit taxiway (RET) is clear for the next arrival.
 
-The intiial taxi instruction shall include instructions to taxi "LEFT" or "RIGHT" onto the relevant taxiway, as appropriate, and a hold short instruction at a suitable intermediate holding point.
+The initial taxi shall include instructions to taxi “LEFT” or “RIGHT” onto the relevant taxiway as appropriate and hold at a suitable intermediate holding point.
 
 !!! example
-    **Controller:** "OMA8KC, taxi right on W, hold short of V"
+    **Controller**: "OMS236 taxi left onto V, hold short V2."
 
-Once aircraft have been observed to be taxiing and completely clear of the RET, transfer of control shall be initiated to GMC, provided there will be no conflicts with other traffic.
+Once aircraft have been observed to be taxiing and completely clear of the RET, transfer of control shall be initiated to GMC provided there will be no conflicts with other arriving traffic.
 
 ## 4.5 VFR procedures
-The Muscat control zone is unique because it is class C and not class D like many other CTRs. This means that TWR is responsible for separating VFR and IFR traffic by at least 3nm or greater if wake turbulence separation is required. VFR traffic does not have to be separated from other VFR traffic but traffic information should be provided wherever possible.
+The Muscat Control Zone (CTR) is designated as **Class C** airspace, unlike many other CTRs which are typically Class D. As a result, **Muscat Tower is responsible for providing separation between IFR and VFR traffic** within the CTR.
+
+- **IFR vs VFR**: A minimum separation of **3 NM** shall be maintained, or greater if required by wake turbulence criteria.
+- **VFR vs VFR**: Separation is **not required**; however, **traffic information shall be provided** to enhance situational awareness wherever possible.
 
 ### 4.5.1 VFR departures
-Once VFR aircraft are ready for departure, they shall be cleared for take-off in sequence. As they begin their crosswind turn, they shall be instructed to report leaving the control zone or to report any other Visual Reporting Point on their route as deemed appropriate.
+Once VFR aircraft are ready for departure, they shall be **cleared for take-off in sequence**. As aircraft begin their **crosswind turn**, the following actions shall be taken:
 
-If aircraft are exiting into uncontrolled airspace, they shall be instructed to remain outside controlled airspace and monitor Unicom. If they are entering Muscat TMA airspace, they shall be handed off to the Muscat TMA controller approximately one minute before leaving the control zone.
+- **Reporting**: Pilots shall be instructed to **report leaving the control zone**, or to report at a relevant **Visual Reporting Point (VRP)** based on their route.
+
+- **Exiting to Uncontrolled Airspace**: Aircraft exiting the Muscat CTR into **uncontrolled airspace** shall be instructed to:
+  - **Remain outside controlled airspace**, and
+  - **Monitor UNICOM** on the appropriate frequency.
+
+- **Entering Muscat TMA**: Aircraft routing into the **Muscat TMA** shall be:
+  - **Handed off to the Muscat TMA controller**, ideally **one minute before exiting the control zone**, to ensure a smooth transfer of responsibility.
 
 ### 4.5.2 VFR traffic remaining in the circuit
-TWR control is responsible for managing circuit traffic. Circuits will always be conducted to the north of the airfield. Once aircraft are ready for departure they shall be cleared for take-off in sequence. As they begin their crosswind turn, they shall be instructed to report when they are on downwind with their intentions
+AIR control is responsible for managing circuit traffic. Circuits must always be conducted to the north of the aerodrome at 1,000 ft.
+
+Once aircraft are ready for departure, they should be cleared for take-off in sequence. As they begin their crosswind turn (the first turn after departure) they shall be instructed to report when they are on the downwind with their intentions.
 
 !!! example
-    **Controller:** "A-TT, report downwind with intentions"
+    **Controller**: "A4O-OAD, report downwind with intentions."
 
-Aircraft may request a touch and go, a stop and go, a low approach or a full stop landing. Once TWR is aware of the aircraft’s request, they may be sequenced to the runway, with due consideration given to runway occupancy time.
+Aircraft may request either a touch and go (where the aircraft lands and immediately takes off), a stop and go (where the aircraft lands, comes to a complete stop on the runway, then takes off), a low approach (where the aircraft flies low over the runway without landing), or a full stop (where
+the aircraft lands and vacates the runway).
 
-Aircraft on downwind shall be passed the following information:
-• Sequence
-• Traffic information if applicable
+Once AIR is aware of the aircraft’s request, they may be sequenced to the runway, with due consideration given to runway occupancy time.
+
+Aircraft on the downwind should be passed the following information:
+
+- Expected runway;
+- Sequence;
+- Traffic information, if applicable
 
 !!! example
-    **Controller:** "A-TT, number 1, report final runway 26R."
+    **Controller**: "A4O-OAD, report downwind with intentions."
 
-    **Controller:** "A-TT, runway 30R, cleared to land/touch and go/low approach."
+    **Controller**: "A4O-OAD, report final runway 08L, number 1."
+
+    **Controller**: "A4O-OAD, runway 08L, cleared to land/touch and go/low approach."
+
+Aircraft conducting a stop-and go shall be required to “REPORT READY FOR DEPARTURE”.
 
 ### 4.5.3 VFR arrivals
-Inbound VFR aircraft shall be instructed to contact TWR with enough time such that two-way radio communication has been established before aircraft enter the control zone. On first contact TWR will pass instructions on how to enter the CTR, the runway in use and the QNH.
+Inbound VFR aircraft shall be instructed to contact AIR with enough time such that two-way radio communications has been established before aircraft enter the aerodrome control zone.
+
+On first contact, AIR will pass instructions to enter the CTR, as well as any other pertinent information.
 
 !!! example
-    **Controller:** “A4O-TT, Muscat Tower, Enter control zone via Cement Plant East, Runway 26R, 2,000 feet VFR, QNH 1017”
+    **Controller:** “A4O-OAD, Muscat Tower, Enter the Muscat Control zone via Cement Plant East, Runway 26R, 2,000 ft VFR, QNH 1017”
 
-Once the traffic is closer to the aerodrome, they shall be given circuit joining instructions. VFR arrivals from the south can either be given a direct base for the respective runway or if there is a delay expected they should make a midfield crossing to join the normal circuit in the north of the aerodrome.
+As VFR traffic approaches the aerodrome, they shall be issued **circuit joining instructions** appropriate to the current traffic conditions and runway in use.
+
+- **Arrivals from the South**:
+  - If traffic conditions permit, aircraft may be given a **direct base leg join** for the active runway.
+  - If delays are anticipated or sequencing is required, aircraft shall be instructed to conduct a **midfield crossing** to join the **standard left-hand or right-hand circuit pattern** on the **north side of the aerodrome**, as appropriate.
+
+Controllers shall ensure circuit traffic is properly sequenced and provided with timely traffic information to maintain safe separation.
 
 !!! example
-    **Controller:** "A-TT, join base runway 26R" or
+    **Controller**: "A4O-OAD, Muscat Tower, join right hand base runway 08L."
 
-    **Controller:** "A-TT, cross midfield, join right-hand downwind runway 26R"
+Aircraft may also be instructed to track towards a visual reporting point (VRP).
 
-VFR arrivals may be denied entry into the control zone during times of increased IFR arrival activity and instructed to hold outside controller airspace awaiting further instructions. VFR aircraft may also be told to orbit at any VRP inside the CTR.
+!!! example
+    **Controller**: "A4O-OAD, Muscat Tower, track towards Cement Plant West, 2,000 ft VFR. Report one mile from Cement Plant West, QNH 1013."
 
-## 4.6 Secondary Muscat Tower position
-Muscat AIP has defined a secondary (south) tower position, for the southern runway (08R/26L). At this time, the runway remains closed as per updated NOTAMs. This section of the SOP will be updated when this changes. 
+VFR arrivals may be denied entry into the control zone during times of increased IFR arrival activity and instructed to hold outside controller airspace awaiting further instructions.
+
+## 4.6 Low visibility operations (LVO)
+### 4.6.1 Commencement of LVO
+Low visibility operations (LVO) are commenced at Muscat when:
+
+- The visibility is 1500 metres or less;
+- The cloud base is 1000 feet or less,
+- or whenever conditions are such that all of the manouvering area cannot be seen from the control tower
+
+Runway crossings shall be kept to a minimum. Muscat is not approved for CAT II/III operations.
+
+### 4.6.2 LVO departure procedures
+During LVO, aircraft are required to depart from the full-length holding points. Intersection departures are not allowed under LVO conditions.
+
+### 4.6.3 LVO arrival procedures
+Arriving aircraft must report fully vacated.
+
+## 4.7 Designated areas of responsibility
+### 4.7.1 AIR positions
+AIR 1 is responsible for runway 08L/26R and all associated taxiways. AIR 2 is responsible for runway 08R/26L and all associated taxiways.
+
+### 4.7.2 Handoff procedure
+Where transfer of control is to be made between aerodrome controllers, aircraft shall not be cleared to a point beyond the current controller’s designated zone of responsibility unless there has been
+prior coordination with the next controller. Hold short instructions may be used to satisfy this requirement.
