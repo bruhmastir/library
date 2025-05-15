@@ -16,7 +16,7 @@
 |       Muscat Ground       |   OOMS_2_GND   |     GMC 2    |  121.800  |
 |        Muscat Tower       |   OOMS_1_TWR   |     AIR 1    |  118.825  |
 |        Muscat Tower       |   OOMS_2_TWR   |     AIR 2    |  118.400  |
-|        Muscat Radar       |    OOMS_APP    |      RDR     |  121.200  |
+|      Muscat Approach      |    OOMS_APP    |      RDR     |  121.200  |
 |       Muscat Control      |   OOMM_7_CTR   |     ACC W    |  118.800  |
 |       Muscat Control      |   OOMM_6_CTR   |     ACC C    |  124.700  |
 |       Muscat Control      |   OOMM_3_CTR   |     ACC B    |  126.550  |
