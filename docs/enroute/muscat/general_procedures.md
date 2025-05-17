@@ -41,12 +41,3 @@ Controllers shall ensure that any deviation from the standard separation or leve
 Except when a transfer of control has been coordinated, aircraft shall not be vectored closer than **2.5 NM** to the lateral boundary of a controller’s area of responsibility **without prior coordination** with the controller of the adjacent sector.
 
 Controllers must ensure that any deviations from this rule are explicitly coordinated to maintain situational awareness and safe separation across sector boundaries.
-
-### 2.3 Designated Areas of Responsibility
-#### 2.3.1 General
-To reduce workload during peak times, the Muscat FIR may be split into a maximum of seven sectors. Each sector is responsible for specific departures and arrivals and as such, shall comply with standard level clearance and handoff procedures to ensure separation. 
-
-#### 2.3.2 Coordination Between Controllers
-Clearances to proceed direct to waypoints in adjacent sectors, radar vectors into adjacent sectors or deviation from standard level clearances shall not be given without prior coordination between the concerned controllers. 
-
-Where handoffs are to be made between controllers, traffic shall be handed off to the next sector early enough such that they may conduct a continuous climb/descent provided no conflicts exist with other traffic and separation has been assured. 
