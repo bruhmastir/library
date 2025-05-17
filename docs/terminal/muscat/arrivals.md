@@ -170,11 +170,11 @@ A minimum longitudinal separation of 7 NM shall be applied between arriving airc
 ## 3.5.4 Platform Altitudes
 | Type | Runway |                 Platform Altitude                |
 |:----:|:------:|:------------------------------------------------:|
-|  ILS |   08L  |                     2,200 ft                     |
+|  ILS |   08L  | 6,000 ft overhead MCT<br>2,200 ft before the FAP |
 |  RNP |   08L  |                     2,200 ft                     |
 |  VOR |   08L  | 6,000 ft overhead MCT<br>2,200 ft before the FAF |
 |  RNP |   08R  |                     3,200 ft                     |
 |  RNP |   26L  |                     2,200 ft                     |
-|  ILS |   26R  |                     2,200 ft                     |
+|  ILS |   26R  | 6,000 ft overhead MCT<br>2,200 ft before the FAP |
 |  RNP |   26R  |                     2,200 ft                     |
 |  VOR |   26R  | 6,000 ft overhead MCT<br>2,200 ft before the FAF |
