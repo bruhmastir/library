@@ -1,5 +1,14 @@
-# Document Information
-## Document Control Details
+# 1. Introduction
+## 1.1 Purpose & Scope
+
+
+## 1.2 Applicability
+
+
+## 1.3 Authority & Oversight
+
+
+## 1.4 Document Control & Updates
 |                     |                                                   |
 |---------------------|---------------------------------------------------|
 |         Type        |                    Procedure                      |
@@ -10,19 +19,6 @@
 |   Next review date  |                    17 MAY 2026                    |
 | Cancelled documents |                       NIL                         |
 
-## Purpose & Scope
-
-
-
-## Applicability
-
-
-
-## Authority & Oversight
-
-
-
-## Procedure Control & Updates
 <table><thead>
   <tr>
     <th>Revision Number</th>
@@ -37,4 +33,4 @@
   </tr>
 </tbody></table>
 
-## Definitions & Abbreviations
+## 1.5 Definitions & Abbreviations
