@@ -95,3 +95,60 @@ The Muscat FIR shall operate with the bandbox sector OOMM_1_CTR open at all time
 No additional sectors shall be activated unless explicit authorization is granted by the Arabian vACC staff team.
 
 This policy ensures consistent coordination, efficient traffic handling, and proper airspace coverage. Any deviation from this configuration requires prior approval from the relevant vACC staff authority.
+
+## 3.5 Sector Top-down Coverage
+When the lower sector is offline, in addition to the designated areas of responsbility, top-down sector coverage shall be as follows:
+
+<table><thead>
+  <tr>
+    <th>Online Sector</th>
+    <th>Offline Sector</th>
+    <th>Top-down Coverage</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td rowspan="2">OOMM_1_CTR (Bandbox)</td>
+    <td>OOMS_APP</td>
+    <td>Muscat TMA</td>
+  </tr>
+  <tr>
+    <td>OOSA_APP</td>
+    <td>Salalah TMA</td>
+  </tr>
+  <tr>
+    <td>OOMM_1_CTR (Sector N)</td>
+    <td>OOMS_APP</td>
+    <td>Muscat TMA</td>
+  </tr>
+    <tr>
+    <td rowspan="2">OOMM_4_CTR (Sector M)</td>
+    <td>OOFD_I_TWR</td>
+    <td>Fahud FIS</td>
+  </tr>
+  <tr>
+    <td>OODQ_I_TWR</td>
+    <td>Duqm FIS</td>
+  </tr>
+  <tr>
+    <td rowspan="4">OOMM_5_CTR (Sector S)</td>
+    <td>OOSA_APP</td>
+    <td>Salalah TMA</td>
+  </tr>
+  <tr>
+    <td>OOMK_I_TWR</td>
+    <td>Mukhaizna FIS</td>
+  </tr>
+  <tr>
+    <td>OOMX_I_TWR</td>
+    <td>Marmul FIS</td>
+  </tr>
+  <tr>
+    <td>OOJA_R_TWR</td>
+    <td>Ja'aluni Radio</td>
+  </tr>
+  <tr>
+    <td>OOMM_7_CTR (Sector W)</td>
+    <td>OOSH_I_TWR</td>
+    <td>Suhar FIS</td>
+  </tr>
+</tbody></table>
