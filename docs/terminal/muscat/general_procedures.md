@@ -19,7 +19,7 @@ The applicable ICAO Wake Turbulence Separation Minima must always be enforced fo
 
 ## 2.4 Designated Areas of Responsibility
 ### 2.4.1 General
-The Muscat TMA is operated solely by the Muscat Radar position. No additional radar or control positions are available within the TMA.
+The Muscat TMA is operated solely by the Muscat Approach position. No additional radar or control positions are available within the TMA.
 
 ### 2.4.2 Coordination between Controllers
 Clearances for direct routing to waypoints, radar vectors before the downwind leg, or deviations from standard level clearances within designated controller Areas of Responsibility (AoRs) must not be issued without prior coordination between the relevant controllers.  
@@ -31,4 +31,4 @@ Handoffs between controllers must be conducted early enough to allow the next se
 All departure and arrival traffic shall be handed off to the appropriate Muscat enroute sector upon exiting the lateral or vertical limits of the Muscat TMA. Handoffs must be initiated in a timely manner—ideally prior to the TMA boundary or when aircraft are 1,000 to 2,000 feet below their cleared altitude—to facilitate early coordination and allow for anticipated climb.
 
 ### 2.4.5 Sector Top-down Coverage
-When the lower sector is offline, Muscat Radar shall provide top-down coverage for Muscat in addition to its designated areas of responsibility.
+When the lower sector is offline, Muscat Approach shall provide top-down coverage for Muscat in addition to its designated areas of responsibility.
