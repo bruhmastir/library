@@ -1,4 +1,4 @@
-# 4. Arrivals into Oman Airports
+# 4. Arrivals
 ## 4.1 Procedure Assignment
 On initial contact with the first Muscat FIR controller, aircraft shall be assigned an appropriate RNAV STAR, as applicable to their arrival runway and routing.
 
