@@ -10,7 +10,7 @@ Where handoffs are to be made between controllers, traffic shall be handed off t
 
 ## 3.2 Muscat ACC Sectors
 <figure markdown>
-![Muscat FIR - Sectorization Overview](img/arbvacc_oomm_acc_overview.png.png)
+![Muscat FIR - Sectorization Overview](img/arbvacc_oomm_acc_overview.png)
 </figure>
 
 ### 3.2.1 Sector A
