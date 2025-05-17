@@ -9,6 +9,10 @@ Clearances to proceed direct to waypoints in adjacent sectors, radar vectors int
 Where handoffs are to be made between controllers, traffic shall be handed off to the next sector early enough such that they may conduct a continuous climb/descent provided no conflicts exist with other traffic and separation has been assured. 
 
 ## 3.2 Muscat ACC Sectors
+<figure markdown>
+![Muscat FIR - Sectorization Overview](img/arbvacc_oomm_acc_overview.png.png)
+</figure>
+
 ### 3.2.1 Sector A
 **Sector A** is the designated control area for traffic entering or exiting the Muscat FIR via **PARAR** and **RASKI**.
 
