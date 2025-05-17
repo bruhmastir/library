@@ -152,3 +152,5 @@ When the lower sector is offline, in addition to the designated areas of respons
     <td>Suhar FIS</td>
   </tr>
 </tbody></table>
+
+## 3.6 Arrivals into Oman Airports
