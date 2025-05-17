@@ -6,9 +6,10 @@ nav:
     - general_procedures.md
     - coordination.md
     - separation.md
-    - routings.md
+    - entry_exits.md
     - equipment.md
     - loa.md
+    - contingency.md
     - fmp.md
     - safety.md
     - sectors.md

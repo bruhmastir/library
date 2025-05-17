@@ -1,3 +1,31 @@
+# 7. Letters of Agreement (LoA)
+## 7.1 Overview of Existing LoAs
+
+## 7.2 Coordination Levels & Handoff Requirements
+
+
+## 7.3 Specific Routes & Corridors
+
+
+## 7.4 Delegated/Controlled Airspace Agreements
+
+
+## 7.5 Phraseology & Timing for Coordination
+
+
+## 7.6 Special Conditions & Exceptions
+
+
+
+
+
+
+
+
+
+
+
+
 ### 2.2.3 Letters of Agreement
 Where Letters of Agreement (LOAs) specify that aircraft shall be transferred with both **vertical and horizontal separation** established at the **coordinated level**, these minima **must be applied at all times**, unless alternate coordination has been explicitly agreed between the units involved.
 

@@ -1,3 +1,124 @@
+# 11. Sector Specific
+## 11.1 Sector Alpha
+
+### 11.1.1 Radar & Radio Limitations
+
+
+### 11.1.2 Typical Traffic Flows & Conflicts
+
+
+### 11.1.3 Coordination Requirements
+
+
+### 11.1.4 Frequencies & Vertical Limits
+
+## 11.2 Sector Bravo
+
+### 11.2.1 Radar & Radio Limitations
+
+
+### 11.2.2 Typical Traffic Flows & Conflicts
+
+
+### 11.2.3 Coordination Requirements
+
+
+### 11.2.4 Frequencies & Vertical Limits
+
+## 11.3 Sector Charlie
+
+### 11.3.1 Radar & Radio Limitations
+
+
+### 11.3.2 Typical Traffic Flows & Conflicts
+
+
+### 11.3.3 Coordination Requirements
+
+
+### 11.3.4 Frequencies & Vertical Limits
+
+## 11.4 Sector Middle
+
+### 11.4.1 Radar & Radio Limitations
+
+
+### 11.4.2 Typical Traffic Flows & Conflicts
+
+
+### 11.4.3 Coordination Requirements
+
+
+### 11.4.4 Frequencies & Vertical Limits
+
+## 11.5 Sector November
+
+### 11.5.1 Radar & Radio Limitations
+
+
+### 11.5.2 Typical Traffic Flows & Conflicts
+
+
+### 11.5.3 Coordination Requirements
+
+
+### 11.5.4 Frequencies & Vertical Limits
+
+## 11.6 Sector Sierra
+
+### 11.6.1 Radar & Radio Limitations
+
+
+### 11.6.2 Typical Traffic Flows & Conflicts
+
+
+### 11.6.3 Coordination Requirements
+
+
+### 11.6.4 Frequencies & Vertical Limits
+
+## 11.7 Sector Whisky
+
+### 11.7.1 Radar & Radio Limitations
+
+
+### 11.7.2 Typical Traffic Flows & Conflicts
+
+
+### 11.7.3 Coordination Requirements
+
+
+### 11.7.4 Frequencies & Vertical Limits
+
+## 11.8 Sector Opening Order
+
+## 11.9 Sector Top-down Coverage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 3. Sectorization
 ## 3.1 Designated Areas of Responsibility
 ### 3.1.2 General
