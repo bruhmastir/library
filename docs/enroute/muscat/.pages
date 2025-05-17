@@ -2,7 +2,6 @@ title: Muscat
 sort_type: natural
 nav:
     - introduction.md
-    - general_information.md
     - general_procedures.md
     - coordination.md
     - separation.md
