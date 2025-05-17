@@ -59,7 +59,7 @@ Squawk codes are distributed based on flight type and routing as follows:
 
 - **International Departures from Muscat FIR – Secondary Range**  
   `4701–4777`  
-  *Used as an alternate set for IFR international departures when the primary range is exhausted.*  
+  *Used as a secondary block for international IFR flights.*   
 
 - **Domestic Flights within Muscat FIR – Primary Range**  
   `1201–1277`  
@@ -69,7 +69,7 @@ Squawk codes are distributed based on flight type and routing as follows:
   `4601–4677`  
   *Used as a secondary block for domestic IFR flights.*  
 
-## 6.6.1 Operational Notes
+### 6.6.1 Operational Notes
 - **Squawk codes are assigned automatically** by the system upon flight plan activation or radar identification.
 - Controllers must ensure aircraft squawk the correct code and that it correlates with the radar return.
 - **Aircraft entering procedural airspace or outside radar coverage** may be instructed to squawk **2000** unless otherwise coordinated.
