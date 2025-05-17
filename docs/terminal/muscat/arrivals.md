@@ -6,9 +6,9 @@ On initial contact, arriving aircraft shall report the current ATIS information 
 !!! example
     **Pilot**: "Muscat Approach, good evening, OMA224 passing FL250 for 10,000 ft inbound MCT. Information C on board."
 
-    **Controller**: "OMA224, Muscat Approach, good evening, identified, expect ILS approach runway 08L, information C correct."
+    **Controller**: "OMA224, Muscat Approach, good evening, identified, descend to 6,000 ft, expect the base turn at MCT for the ILS 08L, information C correct."
 
-    **Pilot**: "Expect ILS approach runway 08L, OMA224."
+    **Pilot**: "Descend to 6,000 ft, expect the base turn at MCT for the ILS 08L, OMA224."
 
 If an aircraft has not confirmed receipt of the ATIS information, the current QNH must be communicated to them.
 
