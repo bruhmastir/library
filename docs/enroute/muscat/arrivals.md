@@ -1,4 +1,4 @@
-# 4. Arrivals
+# 4. Arrivals into Oman Airports
 ## 4.1 Procedure Assignment
 On initial contact with the first Muscat FIR controller, aircraft shall be assigned an appropriate RNAV STAR, as applicable to their arrival runway and routing.
 
@@ -15,7 +15,7 @@ Aircraft shall be transferred to the **Muscat TMA** controller at or above FL150
 
 If this is not achievable, aircraft shall be transferred with a minimum of **2,000 ft** vertical separation above the coordinated level for TMA entry, and increasing longitudinal separation shall be ensured prior to handoff.
 
-### 4.2.2 Arrival Procedures - Runway 08L/08R
+### 4.2.2 Arrivals - Runway 08L/08R
 | Procedure | Type | Trajectory                                                                                                                                                       |                     IAF                    |
 |:---------:|:----:|------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------:|
 |  ILS 08L  |  PA  | From the East: Base Turn at MCT<br>From the West: Straight-in                                                                                                    | From the East: MCT<br>From the West: BUBIL |
@@ -23,7 +23,7 @@ If this is not achievable, aircraft shall be transferred with a minimum of **2,0
 |  VOR 08L  |  NPA | From the East: Base Turn at MCT<br>From the West: Racetrack into a Base Turn at MCT                                                                              |                     MCT                    |
 |  RNP 08R  |  NPA | From the North-East: Vectors to KODIL<br>From the North-West: Vectors to KODIL<br>From the South-East: Vectors to ELELA<br>From the South-West: Vectors to ELELA |                 KODIL/ELELA                |
 
-### 4.2.3 Arrival Procedures - 26L/26R
+### 4.2.3 Arrivals - Runway 26L/26R
 | Procedure | Type | Trajectory                                                                                                                                                       |     IAF     |
 |:---------:|:----:|------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------:|
 |  ILS 26R  |  PA  | From the East: Straight-In<br>From the West: Base Turn at MCT                                                                                                    |      -      |
@@ -39,7 +39,7 @@ Aircraft shall be transferred to the **Salalah TMA** controller at or above FL15
 
 If this is not achievable, aircraft shall be transferred with a minimum of **2,000 ft** vertical separation above the coordinated level for TMA entry, and increasing longitudinal separation shall be ensured prior to handoff.
 
-### 4.3.2 Arrival Procedures - Runway 07
+### 4.3.2 Arrivals - Runway 07
 |   STAR  | Type | Descent Procedure                                                                                                                                                                                                         |
 |:-------:|------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ASTUN1F | RNAV | **Muscat Control**: 13,000 ft or above at DAXAM<br>**Salalah Radar**: 13,000 ft or above from DAXAM to SA417.<br>11,000 ft or above at PAVEM.                                                                             |
@@ -57,7 +57,7 @@ If this is not achievable, aircraft shall be transferred with a minimum of **2,0
 | PUTRA1E | CONV | **Muscat Control**: Subject to coordination with Radar.<br>**Salalah Radar**: PUTRA to D45 SLL 9,000 ft or above.<br>(DME ARC) R262 to R243 SLL 6,000 ft or above.                                                        |
 | SILTA1E | CONV | **Muscat Control**: Subject to coordination with Radar.<br>**Salalah Radar**: SILTA to PAVEM 11,000 ft or above.                                                                                                          |
 
-### 4.3.3 Arrival Procedures - 25
+### 4.3.3 Arrivals - Runway 25
 |   STAR  | Type | Descent Procedure                                                                                                                                                    |
 |:-------:|------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ASTUN1H | RNAV | **Muscat Control**: Subject to coordination with Radar.<br>**Salalah Radar**: FL140 at or below at SA420.<br>8,000 ft or above at DAXAM.                             |
