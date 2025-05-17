@@ -18,7 +18,7 @@
 |  Airspace  |                           Classification                          | Vertical Limits | Transition Altitude | Transition Level |
 |:----------:|:-----------------------------------------------------------------:|:---------------:|:-------------------:|:----------------:|
 | Muscat FIR |                   Class A above FL150 on Airways                  |   FL150 - UNL   |      13,000 ft      |      FL 150      |
-| Muscat FIR |                   Class C below FL150 on Airways                  |   FL150 - UNL   |      13,000 ft      |      FL 150      |
+| Muscat FIR |                   Class C below FL150 on Airways                  |   SFC - FL150   |      13,000 ft      |      FL 150      |
 | Muscat FIR | Class G (except within control areas, control zones, and airways) |    SFC - UNL    |      13,000 ft      |      FL 150      |
 
 !!! info
