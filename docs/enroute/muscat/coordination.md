@@ -28,15 +28,15 @@ Prior to transferring communication, the transferring controller must inform the
 If the receiving controller does not assume the aircraft tag within a reasonable timeframe, it indicates the aircraft has not yet contacted the next sector, and the transferring controller remains responsible for providing services until contact is established.
 
 ## 3.5 Transfer of Control
-The transfer of control is the formal passing of responsibility for an aircraft’s separation and navigation from one controller or sector to another. This transfer must be effected at least 20 nautical miles or 10 minutes prior to the aircraft reaching the FIR boundary, unless otherwise agreed between adjacent units. This ensures the receiving controller has adequate time to assume control and maintain safe separation.
+The transfer of control is the formal passing of responsibility for an aircraft’s separation and navigation from one controller or sector to another. This transfer must be effected at least **20 nautical miles** or **10 minutes** prior to the aircraft reaching the FIR boundary, unless otherwise agreed between adjacent units. This ensures the receiving controller has adequate time to assume control and maintain safe separation.
 
 Transfer of control can be performed as a silent handoff via the ATM system when all flight data is correctly displayed and no special coordination is needed. The transferring controller retains responsibility until the receiving controller explicitly accepts control by assuming the aircraft’s electronic tag, which occurs after the aircraft has established radio contact on the receiving controller’s frequency.
 
 There are three types of transfer conditions that define the extent of control delegated to the receiving controller:
 
-- Full: The receiving controller has full freedom to manage the aircraft’s route, speed, and altitude as necessary.
-- Turn: The receiving controller is authorized solely to execute heading changes.
-- Climb/Descend: The receiving controller is permitted only to adjust the aircraft’s altitude, either climbing or descending.
+- **Full**: The receiving controller has full freedom to manage the aircraft’s route, speed, and altitude as necessary.
+- **Turn**: The receiving controller is authorized solely to execute heading changes.
+- **Climb/Descend**: The receiving controller is permitted only to adjust the aircraft’s altitude, either climbing or descending.
 
 Any applicable restrictions or transfer conditions must be clearly communicated and agreed upon during coordination. If the receiving controller does not accept the aircraft tag within a reasonable timeframe, the transferring controller remains responsible for the aircraft until contact and transfer are completed.
 
