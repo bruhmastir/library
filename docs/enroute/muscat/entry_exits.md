@@ -360,11 +360,8 @@ Adherence to the relevant local SOPs ensures consistency, safety, and coordinati
 When transferring control to or from procedural FIRs (non-radar or limited radar coverage), controllers shall apply appropriate longitudinal and vertical separation standards as per ICAO guidance. Coordination should be timely, and transfer of communication must occur with sufficient advance notice (generally no less than 20 NM or 10 minutes from boundary) to allow for compliance with procedural separation minima.
 
 ## 5.7 Transition from Enroute to TMA
-The transition from enroute to Terminal Control Area (TMA) requires early coordination and sequencing to ensure safe and efficient traffic flow into the terminal airspace. Controllers shall:
+The transition from enroute to Terminal Control Area (TMA) requires early coordination and sequencing to ensure safe and efficient traffic flow into the terminal airspace. Controllers shall assign arrival routes or STARs where applicable, coordinate handoff and transfer of communication well in advance, and provide appropriate speed and altitude instructions to achieve proper sequencing. It is essential that all aircraft are established on their planned routes before transfer to the TMA controller to minimize holding and delays while maintaining separation and situational awareness.
 
-- Assign arrival routes or STARs where applicable.
-- Coordinate handoff and transfer of communication well in advance.
-- Provide appropriate speed and altitude instructions to achieve sequencing.
-- Ensure all aircraft are established on planned routes before transfer to the TMA controller.
+For aircraft entering the Muscat and Salalah TMAs via a common entry point, a minimum of **10 NM** longitudinal separation—either constant or increasing—shall be maintained. Aircraft shall normally be transferred to the Muscat and Salalah TMA controller **at or above FL150** unless otherwise coordinated.
 
-This process aims to minimize holding and delays while maintaining separation and situational awareness.
+If transfer at or above FL150 is not achievable, aircraft shall be transferred with a minimum of **2,000 ft** vertical separation above the coordinated entry level for the TMA, and increasing longitudinal separation must be ensured prior to handoff.
