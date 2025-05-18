@@ -56,7 +56,3 @@ Controllers operating within the Muscat FIR are responsible for ensuring the saf
 
 ## 2.7 Flight Plan Management
 Flight plan management within the Muscat FIR is conducted through coordination between the ATC units and myVATSIM. Upon receipt of flight plans, controllers verify route accuracy, level assignments, and compliance with applicable airspace restrictions. Any amendments or deviations requested by pilots are evaluated for safety and efficiency before approval. Controllers must ensure that flight plans are updated promptly to reflect changes such as reroutes or altitude adjustments. Effective flight plan management is crucial for maintaining optimum traffic flow, anticipating potential conflicts, and facilitating smooth handoffs across sectors.
-
-# 2. General Procedures
-## 2.1 General Provisions
-Area Control is responsible for providing surveillance-based control service and flight information service to traffic operating within the Muscat FIR outside the lateral and vertical limits of CTA/TMAs.
