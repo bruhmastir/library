@@ -91,13 +91,17 @@ When the lower sector is offline, in addition to the designated areas of respons
   </tr></thead>
 <tbody>
   <tr>
-    <td rowspan="2">OOMM_1_CTR (Bandbox)</td>
+    <td rowspan="3">OOMM_1_CTR (Bandbox)</td>
     <td>OOMS_APP</td>
     <td>Muscat TMA</td>
   </tr>
   <tr>
     <td>OOSA_APP</td>
     <td>Salalah TMA</td>
+  </tr>
+    <tr>
+    <td>OOXX_I_TWR</td>
+    <td>Any FIS Aerodrome</td>
   </tr>
   <tr>
     <td>OOMM_1_CTR (Sector N)</td>
