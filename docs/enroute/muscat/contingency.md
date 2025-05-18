@@ -3,7 +3,7 @@
 In the event of a **pilot communication failure**:
 
 - **Attempt contact on all available frequencies**, including guard (121.5 MHz), any previous frequency, or through CPDLC if available.
-- Request aircraft to **squawk 7600**.
+- Expect the aircraft to **squawk 7600**.
 - Monitor the aircraft’s route for adherence to expected flight plan behavior. ICAO DOC 4444 prescribes that aircraft should continue under the last clearance received and acknowledged.
 - If under radar control, continue to provide separation based on observed radar returns and expected routing.
 - **Coordinate with adjacent FIRs** if the aircraft is approaching a boundary.
@@ -11,7 +11,6 @@ In the event of a **pilot communication failure**:
 In the event of a **controller voice communication failure** (e.g., station audio failure):
 
 - Attempt to re-establish service via backup frequencies, text, or via coordination with adjacent sectors to relay instructions.
-- Suspend acceptance of new departures until resolved.
 
 ## 8.2 Radar Failure
 A partial or full **radar outage** may require a transition from radar to **procedural control**:
