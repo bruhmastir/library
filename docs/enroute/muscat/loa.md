@@ -1,37 +1,26 @@
 # 7. Letters of Agreement (LoA)
 ## 7.1 Overview of Existing LoAs
+Letters of Agreement (LoAs) are formal documents established between adjacent FIRs or sectors to define procedures for the transfer of control, coordination, and traffic management. Controllers must be familiar with any applicable LoAs governing their area of responsibility, as these agreements supplement the general provisions of ICAO and local SOPs, ensuring seamless cooperation and safety.
+
+The following Letters of Agreement are available:
+
+- Muscat & Jeddah FIR  (soon™)
+- Muscat & Karachi FIR  (soon™)
+- Muscat & Mumbai FIR  (soon™)
+- Muscat & Sanaa FIR  (soon™)
+- Muscat & U.A.E FIR  (soon™)
 
 ## 7.2 Coordination Levels & Handoff Requirements
-
+LoAs specify the required levels of coordination for different traffic situations, including mandatory information exchanges, handoff points, transfer of communication protocols, and separation standards at FIR boundaries. Controllers must adhere strictly to these requirements to avoid misunderstandings and ensure timely transfer of control.
 
 ## 7.3 Specific Routes & Corridors
-
+Certain LoAs may define specific routes, airways, or traffic corridors that require special coordination or handling. These routes often facilitate optimized traffic flow between FIRs or sectors, reduce controller workload, and improve safety margins. Controllers should ensure that aircraft follow these designated routes where applicable.
 
 ## 7.4 Delegated/Controlled Airspace Agreements
-
+Some LoAs include provisions for delegated or controlled airspace where one FIR or sector assumes responsibility for control beyond the normal boundary. Such agreements detail the extent and limitations of delegated control, including altitudes, frequencies, and types of control permitted. Controllers must operate within these parameters and maintain close communication with the responsible authorities.
 
 ## 7.5 Phraseology & Timing for Coordination
-
+LoAs often prescribe standardized phraseology and specific timing requirements for coordination and transfer of control to minimize communication errors. Controllers should use the agreed phraseology consistently and initiate coordination actions within the prescribed time frames, typically measured in nautical miles or minutes from the FIR boundary.
 
 ## 7.6 Special Conditions & Exceptions
-
-
-
-
-
-
-
-
-
-
-
-
-### 2.2.3 Letters of Agreement
-Where Letters of Agreement (LOAs) specify that aircraft shall be transferred with both **vertical and horizontal separation** established at the **coordinated level**, these minima **must be applied at all times**, unless alternate coordination has been explicitly agreed between the units involved.
-
-Controllers shall ensure that any deviation from the standard separation or level transfer procedures is clearly coordinated and confirmed prior to handoff.
-
-### 2.2.4 Separation from Adjacent Airspace
-Except when a transfer of control has been coordinated, aircraft shall not be vectored closer than **2.5 NM** to the lateral boundary of a controller’s area of responsibility **without prior coordination** with the controller of the adjacent sector.
-
-Controllers must ensure that any deviations from this rule are explicitly coordinated to maintain situational awareness and safe separation across sector boundaries.
+Some LoAs contain clauses for special conditions or exceptions, such as contingencies during equipment failure, adverse weather, or traffic surges. Controllers must be aware of these provisions and apply them as required, ensuring flexible yet safe management of traffic under varying operational circumstances.
