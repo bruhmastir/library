@@ -56,3 +56,8 @@ Controllers operating within the Muscat FIR are responsible for ensuring the saf
 
 ## 2.7 Flight Plan Management
 Flight plan management within the Muscat FIR is conducted through coordination between the ATC units and myVATSIM. Upon receipt of flight plans, controllers verify route accuracy, level assignments, and compliance with applicable airspace restrictions. Any amendments or deviations requested by pilots are evaluated for safety and efficiency before approval. Controllers must ensure that flight plans are updated promptly to reflect changes such as reroutes or altitude adjustments. Effective flight plan management is crucial for maintaining optimum traffic flow, anticipating potential conflicts, and facilitating smooth handoffs across sectors.
+
+Aircraft entering the Muscat FIR are issued an airways clearance by the first controlling sector, valid through to their FIR exit point. This ensures the aircraft can proceed along its planned route without requiring further route amendments within the FIR.
+
+!!! example
+    **Controller**: "QTR958, Muscat Control, radar contact, cleared N318 - TOLDA - L555 TOTOX, maintain FL350."
