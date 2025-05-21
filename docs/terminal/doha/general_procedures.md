@@ -22,7 +22,16 @@ Due to the interactions between departure and arrival procedures, the runway dir
 
 ## 2.4 Designated areas of responsibility
 ### 2.4.1 General
-To reduce workload during peak periods, the Doha TMA may be divided into a maximum of seven sectors. Each sector is assigned specific departures and arrivals and must adhere to standard level clearance and handoff procedures to maintain separation.  
+To manage controller workload during peak traffic periods, the **Doha Terminal Maneuvering Area (TMA)** may be sectorized into **a maximum of seven (7) sectors**. Each sector shall be assigned specific departure and arrival responsibilities and must adhere strictly to standard level assignment, coordination, and handoff procedures to ensure safe and efficient separation of traffic.
+
+- **Doha Radar**  
+  Responsible for air traffic within **Doha TMA 3** from **12,000 feet up to FL245**.
+
+- **Doha Approach**  
+  Responsible for air traffic within **Doha TMA 1, 1A, and 2** from **12,000 feet down to 4,000 feet**.
+
+- **Doha Director**  
+  Responsible for managing **downwind traffic** from **4,000 feet and below**.
 
 ### 2.4.2 Coordination between controllers
 Clearances for direct routing to waypoints, radar vectors before the downwind leg, or deviations from standard level clearances within designated controller Areas of Responsibility (AoRs) must not be issued without prior coordination between the relevant controllers.  
