@@ -130,9 +130,9 @@ Aircraft should not be cleared to descend below the current minimum radar altitu
 
 Intermediate levels may be assigned to ensure proper traffic separation between arrivals. When traffic is being handed off to the Final Approach (FIN) sector, aircraft shall not be cleared below 6000 ft.
 
-### 3.3.2 Doha 15 / Hamad 16s
+### 3.3.2 Descent Procedure - Doha 15 / Hamad 16s
 
-### 3.3.3 Doha 33 / Hamad 34s
+### 3.3.3 Descent Procedure - Doha 33 / Hamad 34s
 
 ## 3.4 Lateral Profile
 ### 3.4.1 General
