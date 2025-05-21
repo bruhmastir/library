@@ -173,4 +173,4 @@ Sectors not included in this priority order may be opened at any time.
 </figure>
 
 ### 2.4.6 Sector top-down coverage
-When the lower sector is offline, Doha Radar shall provide top-down coverage for Doha in addition to its designated areas of responsibility. This responsibility transitions to Doha Approach when it is online.  
+When the lower sector is offline, Doha Radar shall provide top-down coverage for Doha in addition to its designated areas of responsibility. This responsibility transitions to Doha Approach when it is online. Controllers are strongly encouraged to obtain the Tier-2 Military Endorsement to ensure proficiency in delivering military air traffic services at Al-Udeid Airbase (OTBH).

@@ -3,7 +3,7 @@
 ### 1.1.1 List of ATS callsigns
 |           Radio Callsign          | Logon Callsign | Abbreviation | Frequency (Mhz) |
 |:---------------------------------:|:--------------:|:------------:|:---------------:|
-|             Doha Tower            |   OTBD_1_TWR   |      AIR     |     118.900     |
+|             Doha Tower            |   OTBD_1_TWR   |      AIR      |     118.900     |
 |           Al-Udaid Tower          |    OTBH_TWR    |      AIR     |     135.500     |
 |         Hamad Tower (East)        |   OTHH_1_TWR   |     AIR E    |     118.525     |
 |         Hamad Tower (West)        |   OTHH_2_TWR   |     AIR W    |     118.025     |
@@ -19,11 +19,11 @@
 |        Doha Control (South)       |   OTDF_2_CTR   |     ACC S    |     132.975     |
 
 ### 1.1.2 ATS Airspace
-|                 Airspace                | Airspace Class |    Vertical Limits   | Transition Altitude | Transition Level |
-|:---------------------------------------:|:--------------:|:--------------------:|:-------------------:|:----------------:|
-|         Doha Control Zone (CTR)         |        D       |  Surface to 2,500 ft |      13,000 ft      |      FL 150      |
-|  Doha Terminal Maneuvering Area 1 (TMA) |        C       | 2,500 ft to 4,500 ft |      13,000 ft      |      FL 150      |
-| Doha Terminal Maneuvering Area 1A (TMA) |        C       | 2,500 ft to 4,500 ft |      13,000 ft      |      FL 150      |
-|  Doha Terminal Maneuvering Area 2 (TMA) |        C       | 3,500 ft to 4,500 ft |      13,000 ft      |      FL 150      |
-|  Doha Terminal Maneuvering Area 3 (TMA) |        C       |  4,500 ft to FL 150  |      13,000 ft      |      FL 150      |
-|  Doha Terminal Maneuvering Area 3 (TMA) |        A       |  FL 150 ft to FL 245 |      13,000 ft      |      FL 150      |
+|   Airspace  | Airspace Class |    Vertical Limits   | Transition Altitude | Transition Level |
+|:-----------:|:--------------:|:--------------------:|:-------------------:|:----------------:|
+|   Doha CTR  |        D       |  Surface to 2,500 ft |      13,000 ft      |      FL 150      |
+|  Doha TMA 1 |        C       | 2,500 ft to 4,500 ft |      13,000 ft      |      FL 150      |
+| Doha TMA 1A |        C       | 2,500 ft to 4,500 ft |      13,000 ft      |      FL 150      |
+|  Doha TMA 2 |        C       | 3,500 ft to 4,500 ft |      13,000 ft      |      FL 150      |
+|  Doha TMA 3 |        C       |  4,500 ft to FL 150  |      13,000 ft      |      FL 150      |
+|  Doha TMA 3 |        A       |  FL 150 ft to FL 245 |      13,000 ft      |      FL 150      |
