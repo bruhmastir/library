@@ -13,13 +13,16 @@
 |:---------------------------:|:----------------:|:--------------:|:-----------:|
 | Al Maktoum ATIS (Departure) |  OMDW_D_ATIS     |     ATIS       |    126.475  |
 | Al Maktoum ATIS (Arrival)   | OMDW_A_ATIS      |     ATIS       |  123.175    |
+|  Academy Apron Information  |   OMDW_I_GND     |    EFTA APRON  |  118.700    |
+| Al Maktoum Ground           |   OMDW_GND       |      GND       |   118.375   |
+|    Al Maktoum Tower         |      OMDW_TWR    |     TWR        |   118.625   |
+|     Academy Tower           |     OMDW_A_TWR   |    EFTA TWR    |    118.775  |
 |                             |                  |                |             |
 |                             |                  |                |             |
 |                             |                  |                |             |
 |                             |                  |                |             |
 |                             |                  |                |             |
 |                             |                  |                |             |
-
 ### 1.2.2 ATS airspace
 | Airspace                    | Classification   | Vertical Limits    | Transition Altitude   | Transition Level   |
 |:---------------------------:|:----------------:|:------------------:|:---------------------:|:------------------:|
