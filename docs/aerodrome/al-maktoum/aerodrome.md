@@ -17,25 +17,25 @@
 | Al Maktoum Ground           |   OMDW_GND       |      GND       |   118.375   |
 |    Al Maktoum Tower         |      OMDW_TWR    |     TWR        |   118.625   |
 |     Academy Tower           |     OMDW_A_TWR   |    EFTA TWR    |    118.775  |
-|                             |                  |                |             |
-|                             |                  |                |             |
-|                             |                  |                |             |
-|                             |                  |                |             |
-|                             |                  |                |             |
-|                             |                  |                |             |
-### 1.2.2 ATS airspace
-| Airspace                    | Classification   | Vertical Limits    | Transition Altitude   | Transition Level   |
-|:---------------------------:|:----------------:|:------------------:|:---------------------:|:------------------:|
-| CTA (Terminal Area)         |                  |                    | 13 000 ft             | FL 150             |
-| CTR (Control Zone)          |                  |                    | 13 000 ft             | FL 150             |
+|  Al Maktoum Radar           |     OMDW_APP     |     APP        |   124.025   |
+|     Dubai South Radar       |    OMDW_S_APP    |    APP         |   120.400   |
+|     Minhad Approach         |      OMDM_APP    |    APP         |   122.500   |
+|    Dubai Departures (South) |     OMDB_1_DEP   | DEP 1 (South)  |   121.025   |
+|   Dubai Departures (North)  |     OMDB_2_DEP   | DEP 2 (North)  |   126.200   |
 
+
+### 1.2.2 ATS airspace
+| Airspace                        | Classification   | Vertical Limits    | Transition Altitude   | Transition Level   |
+|:-------------------------------:|:----------------:|:------------------:|:---------------------:|:------------------:|
+| Dubai CTA (Terminal Area)       |       C          |   1500 ft to FL155 | 13 000 ft             | FL 150             |
+| Al Maktoum CTR 1 (Control Zone) |       D          |    SFC to 1500 ft  | 13 000 ft             | FL 150             |
+| Al Maktoum CTR 2 (Control Zone) |       D          | 1000 ft to 1500 ft | 13 000 ft             | FL 150             |
 ## 1.3 Radio navigation aids
 | Type            | Identifier   | Frequency   |
 |:---------------:|:------------:|:-----------:|
-|                 |              |             |
-|                 |              |             |
-|                 |              |             |
-|                 |              |             |
+|   ILS/DME (12)  |   IJEA       |  111.750    |
+|   ILS/DME (30)  |   IJWA       |  109.750    |
+|   ILS/DME (31)  |     IDEF     |  110.550    |
 
 ## 1.4 Runways
 ### 1.4.1 Runway physical characteristics
