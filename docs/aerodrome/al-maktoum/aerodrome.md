@@ -30,6 +30,7 @@
 | Dubai CTA (Terminal Area)       |       C          |   1500 ft to FL155 | 13 000 ft             | FL 150             |
 | Al Maktoum CTR 1 (Control Zone) |       D          |    SFC to 1500 ft  | 13 000 ft             | FL 150             |
 | Al Maktoum CTR 2 (Control Zone) |       D          | 1000 ft to 1500 ft | 13 000 ft             | FL 150             |
+
 ## 1.3 Radio navigation aids
 | Type            | Identifier   | Frequency   |
 |:---------------:|:------------:|:-----------:|
@@ -41,10 +42,10 @@
 ### 1.4.1 Runway physical characteristics
 | Runway Designation   | True/Magnetic Bearing     | Dimensions (m)   |
 |:--------------------:|:-------------------------:|:----------------:|
-|                      |                           |                  |
-|                      |                           |                  |
-|                      |                           |                  |
-|                      |                           |                  |
+|      12              |         121° / 119°       |     4500 x 60    |
+|      30              |      301° / 299°          |     4500 x 60    |
+|     13               |        121° / 119°        |      1838 x 30   |
+|      31              |         301° / 299°       |    1838 x 30     |
 
 ### 1.4.2 Declared distances (take-off)
 <table><thead>
@@ -56,22 +57,100 @@
   </tr></thead>
 <tbody>
   <tr>
-    <td rowspan="5">12R</td>
+    <td rowspan="6">12</td>
     <td>FULL LENGTH</td>
-    <td>4315 m</td>
-    <td>4504 m</td>
+    <td>4500 m</td>
+    <td>4500 m</td>
   </tr>
   <tr>
-    <td>K2/M5B</td>
-    <td>4125 m</td>
-    <td>4314 m</td>
+    <td>V2</td>
+    <td>4452 m</td>
+    <td>4452 m</td>
+  </tr>
+  <tr>
+    <td>V3</td>
+    <td>4352 m</td>
+    <td>4352 m</td>
+  </tr>
+  <tr>
+    <td>V4</td>
+    <td>4252 m </td>
+    <td>4252 m</td>
+  </tr>
+  <tr>
+    <td>V6</td>
+    <td>3030 m</td>
+    <td>3030 m</td>
+  </tr>
+  <tr>
+    <td>V10</td>
+    <td>2122 m</td>
+    <td>2122 m</td>
+  </tr>
+  <tr>
+    <td rowspan="7">30</td>
+    <td>FULL LENGTH</td>
+    <td>4500 m</td>
+    <td>4500 m</td>
+  </tr>
+  <tr>
+    <td>V20</td>
+    <td>4390 m</td>
+    <td>4390 m</td>
+  </tr>
+  <tr>
+    <td>V19</td>
+    <td>4288 m</td>
+    <td>4288 m</td>
+  </tr>
+  <tr>
+    <td>V18</td>
+    <td>4188 m</td>
+    <td>4188 m</td>
+  </tr>
+  <tr>
+    <td>V17</td>
+    <td>4088 m</td>
+    <td>4088 m</td>
+  </tr>
+  <tr>
+    <td>V16</td>
+    <td>3995 m</td>
+    <td>3995 m</td>
+  </tr>
+  <tr>
+    <td>V13</td>
+    <td>2980 m</td>
+    <td>2980 m</td>
+  </tr>
+  <tr>
+    <td rowspan="2">13</td>
+    <td>FULL LENGTH</td>
+    <td>1838 m</td>
+    <td>1838 m</td>
+  </tr>
+  <tr>
+    <td>A2</td>
+    <td>1804 m</td>
+    <td>1804 m</td>
+  </tr>
+  <tr>
+    <td rowspan="2">31</td>
+    <td>FULL LENGTH</td>
+    <td>1838 m</td>
+    <td>1838 m</td>
+  </tr>
+  <tr>
+    <td>A6</td>
+    <td>1804 m</td>
+    <td>1804 m</td>
   </tr>
 </tbody></table>
 
 ### 1.4.3 Declared distances (landing)
 | Runway | Landing Distance Available (at Threshold) |
 |:------:|:-----------------------------------------:|
-|        |                                           |
-|        |                                           |
-|        |                                           |
-|        |                                           |
+|   12   |              4500 m                       |
+|   30   |              4500 m                       |
+|   13   |              1688 m                       |
+|   31   |              1688 m                       |
