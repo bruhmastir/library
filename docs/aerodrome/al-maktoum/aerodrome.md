@@ -1,18 +1,18 @@
 # 1. Aerodrome Information
 ## 1.1 Aerodrome Details
-| ICAO Code                          |                      |
+| ICAO Code                          |           OMDW       |
 |------------------------------------|----------------------|
-| Aerodrome Reference Point (ARP)    |                      |
-| Elevation                          |                      |
-| Magnetic Variation / Annual Change |                      |
+| Aerodrome Reference Point (ARP)    | N 24 55.6 E 055 10.3 |
+| Elevation                          |       171ft          |
+| Magnetic Variation / Annual Change | 2° E (2020) / +0.05° |
 | Transition Altitude / Level        | 13,000 ft / FL150    |
 
 ## 1.2 Air traffic services
 ### 1.2.1 List of ATS callsigns
 | Radio Callsign              | Logon Callsign   | Abbreviation   | Frequency   |
 |:---------------------------:|:----------------:|:--------------:|:-----------:|
-|                             |                  |                |             |
-|                             |                  |                |             |
+| Al Maktoum ATIS (Departure) |  OMDW_D_ATIS     |     ATIS       |    126.475  |
+| Al Maktoum ATIS (Arrival)   | OMDW_A_ATIS      |     ATIS       |  123.175    |
 |                             |                  |                |             |
 |                             |                  |                |             |
 |                             |                  |                |             |
