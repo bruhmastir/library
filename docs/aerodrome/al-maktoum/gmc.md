@@ -260,152 +260,159 @@ Aircraft requesting pushback that are not squawking their assigned transponder c
 
 Pushback direction is based primarily on aircraft location and runway configuration.
 
-### 1.4.2 Declared distances (take-off)
+
 <table><thead>
   <tr>
     <th>Apron</th>
-    <th>Intersection</th>
+    <th>Stand(s)</th>
     <th>Taxiway</th>
     <th>Direction</th>
   </tr></thead>
 <tbody>
   <tr>
-    <td rowspan="6">12</td>
-    <td>FULL LENGTH</td>
-    <td>4500 m</td>
-    <td>4500 m</td>
+    <td rowspan="1">S2</td>
+    <td>S289-S300</td>
+    <td>Z5</td>
+    <td>Facing north</td>
   </tr>
   <tr>
-    <td>V2</td>
-    <td>4452 m</td>
-    <td>4452 m</td>
+    <td rowspan="3">S3</td>
+    <td>S301-S313</td>
+    <td>Z6</td>
+    <td>Facing north</td>
   </tr>
   <tr>
-    <td>V3</td>
-    <td>4352 m</td>
-    <td>4352 m</td>
+    <td>S340-S348</td>
+    <td>Z</td>
+    <td>Facing east or west</td>
   </tr>
   <tr>
-    <td>V4</td>
-    <td>4252 m </td>
-    <td>4252 m</td>
+    <td>S324-S332</td>
+    <td>Z7</td>
+    <td>Facing north</td>
   </tr>
   <tr>
-    <td>V6</td>
-    <td>3030 m</td>
-    <td>3030 m</td>
+    <td rowspan="3">S4</td>
+    <td>S401-S410</td>
+    <td>Z8</td>
+    <td>Facing north</td>
   </tr>
   <tr>
-    <td>V10</td>
-    <td>2122 m</td>
-    <td>2122 m</td>
+    <td>S440-S448</td>
+    <td>Z</td>
+    <td>Facing east or west</td>
   </tr>
   <tr>
-    <td rowspan="7">30</td>
-    <td>FULL LENGTH</td>
-    <td>4500 m</td>
-    <td>4500 m</td>
+    <td>S420-S425</td>
+    <td>Z9</td>
+    <td>Facing north</td>
   </tr>
   <tr>
-    <td>V20</td>
-    <td>4390 m</td>
-    <td>4390 m</td>
+    <td rowspan="13">G</td>
+    <td>G1-G4</td>
+    <td>Z17</td>
+    <td>Facing north</td>
   </tr>
   <tr>
-    <td>V19</td>
-    <td>4288 m</td>
-    <td>4288 m</td>
+    <td>G5-G8</td>
+    <td>Z17</td>
+    <td>Facing south</td>
   </tr>
   <tr>
-    <td>V18</td>
-    <td>4188 m</td>
-    <td>4188 m</td>
+    <td>G9 and G10</td>
+    <td>Z17</td>
+    <td>Facing north</td>
   </tr>
   <tr>
-    <td>V17</td>
-    <td>4088 m</td>
-    <td>4088 m</td>
+    <td>G11 and G12</td>
+    <td>Z17</td>
+    <td>Facing south</td>
+  </tr>
+    <tr>
+    <td>G13 and G14</td>
+    <td>Z16</td>
+    <td>Facing north</td>
   </tr>
   <tr>
-    <td>V16</td>
-    <td>3995 m</td>
-    <td>3995 m</td>
+    <td>G15 and G16</td>
+    <td>Z16</td>
+    <td>Facing south</td>
   </tr>
   <tr>
-    <td>V13</td>
-    <td>2980 m</td>
-    <td>2980 m</td>
+    <td>G17A-G17E</td>
+    <td>Z15</td>
+    <td>Facing west</td>
   </tr>
   <tr>
-    <td rowspan="2">13</td>
-    <td>FULL LENGTH</td>
-    <td>1838 m</td>
-    <td>1838 m</td>
+    <td>G18A and G18B</td>
+    <td>Z16</td>
+    <td>Facing north</td>
   </tr>
   <tr>
-    <td>A2</td>
-    <td>1804 m</td>
-    <td>1804 m</td>
+    <td>G18C and G18D</td>
+    <td>Z16</td>
+    <td>Facing south</td>
   </tr>
   <tr>
-    <td rowspan="2">31</td>
-    <td>FULL LENGTH</td>
-    <td>1838 m</td>
-    <td>1838 m</td>
+    <td>G19A-G19D</td>
+    <td>Z12</td>
+    <td>Facing south</td>
   </tr>
   <tr>
-    <td>A6</td>
-    <td>1804 m</td>
-    <td>1804 m</td>
+    <td>G20 and G20A</td>
+    <td>Z20</td>
+    <td>Facing west</td>
   </tr>
+  <tr>
+    <td>G21A-G22E</td>
+    <td>Z14</td>
+    <td>Facing west</td>
+  </tr>
+  <tr>
+    <td>G100-G108</td>
+    <td>Z11</td>
+    <td>Facing north</td>
+  </tr>
+ 
 </tbody></table>
 
-On apron S2, all traffic shall be instructed to pushback on taxiway Z5. On apron S3, all traffic should be instructed to pushback onto Z6, Z or Z7. On apron S4, all traffic should be instructed to pushback onto Z8, Z or Z9. On apron G, all aircraft should be instructed to pushback onto Z11, Z14, Z15, Z16, Z17 or Z20 respectively 
-
-
-Aircraft on stands S289-S300, S301-S313, S324-S332, S401-S410, S420-S425 and G100-G108 shall be instructed to pushback *"facing North"* on their respective taxiway.
-
-Aircraft on stands S340-S348 and S440-S448 shall be instructed to pushback corresponding to the active runway, if runway 30 is active aircraft will pushback *"facing East"*, if runway 12 is active aircraft will pushback *"facing West"*.
-
-Aircraft on stands 2 to 7 shall be instructed to pushback *"facing East".*
 
 !!! example
-      **Controller:** RJA613, Sharjah ground, pushback approved, facing east.
+      **Controller:** UAE9212, Al Maktoum Ground, pushback approved, facing north.
 
-      **Pilot:** Pushback approved, facing east, RJA613.
+      **Pilot:** Pushback approved, facing north, UAE9212.
 
 !!! note
       Conditional pushback instructions may also be issued if an aircraft is taxiing behind another waiting for pushback.
 
 !!! example
-      **Controler:** RJA613, Sharjah ground, behind the AirArabia A320 passing right to left, pushback approved, facing east, behind.
+      **Controler:** CLX215, Al Maktoum Ground, behind the Execujet Global 7500, passing right to left, pushback approved, facing east, behind.
 
-      **Pilot:** Behind the AirArabia A320 passing right to left, pushback approved, facing east, behind, RJA613.
+      **Pilot:** Behind the Execujet Global 7500, passing right to left, pushback approved, facing east, behind, CLX215.
 
-### 2.8.2 Pushback types
-#### 2.8.2.1 Standard pushback
-This type will normally have the aircraft stop abeam the adjacent stand. The phraseology for this type of pushback is identical to the pushback phraseology as provided in 2.8.1.
+### 2.7.2 Pushback types
+#### 2.7.2.1 Standard pushback
+This type will normally have the aircraft stop abeam the adjacent stand. The phraseology for this type of pushback is identical to the pushback phraseology as provided in 2.7.1.
 
-#### 2.8.2.2 Short pushback
+#### 2.7.2.2 Short pushback
 A short pushback instruction shall require the aircraft to complete the pushback abeam the current stand such that the adjacent stand will not be blocked.
 
 !!! example
-    **Pilot**: "Sharjah Ground, ABY8KC, on stand 3 request pushback."
+    **Pilot**: "Al Maktoum Ground, EJO155, on stand G22B request pushback."
 
-    **Controller**: "ABY8KC, Sharjah Ground, short pushback approved, face east on A to finish abeam stand 64."
+    **Controller**: "EJO155, Al Maktoum Ground, short pushback approved, face west on Z14 to finish abeam stand G22B."
 
-    **Pilot**: "Short pushback approved, facing east on A to finish abeam stand 4, ABY8KC."
+    **Pilot**: "Short pushback approved, facing west on Z14 to finish abeam stand G22B, EJO155."
 
 #### 2.8.2.3 Long pushback
 A long pushback instruction shall require aircraft to complete the pushback operation two stands away from where the pushback was commenced. This manoeuvre may be used when aircraft are vacating a stand to be used by another aircraft that is taxiing in.
 
 !!! example
-    **Pilot**: "Sharjah Ground, ABY8KC, on stand 4 request pushback."
+    **Pilot**: "Al Maktoum Ground, UAE9154, on stand S295 request pushback."
 
-    **Controller**: "ABY8KC, Sharjah Ground, long pushback approved, face east on A to finish abeam stand 6."
+    **Controller**: "UAE9154, Al Maktoum Ground, long pushback approved, face north on Z5 to finish abeam stand S297."
 
-    **Pilot**: "Long pushback approved, facing east on A to finish abeam stand 6, ABY8KC."
-
+    **Pilot**: "Long pushback approved, facing north on Z5 to finish abeam stand S297, UAE9154."
 #### 2.8.3 Simultaneous pushback procedure
 Simultaneous pushback operations shall be permitted so long as aircraft are separated by at least 2 stands upon completion of their pushback.
 
