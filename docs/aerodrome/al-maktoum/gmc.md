@@ -265,7 +265,7 @@ On apron S2, all traffic shall be instructed to pushback on taxiway Z5. On apron
 
 Aircraft on stands S289-S300, S301-S313, S324-S332, S401-S410, S420-S425 and G100-G108 shall be instructed to pushback *"facing North"* on their respective taxiway.
 
-Aircraft on stands 2 to 7 shall be instructed to pushback *"facing East".*
+Aircraft on stands S340-S348 and S440-S448 shall be instructed to pushback corresponding to the active runway, if runway 30 is active aircraft will pushback *"facing East"*, if runway 12 is active aircraft will pushback *"facing West"*.
 
 Aircraft on stands 2 to 7 shall be instructed to pushback *"facing East".*
 
