@@ -27,9 +27,9 @@ An IFR clearance shall be in the following format:
 - Initially cleared altitude;
 - Assigned SSR code
 
-OMDW GMC shall obtain a full readback of the clearance. If the pilot does not report the current ATIS letter on first contact, OMDW GMC shall pass the current ATIS letter and QNH.
+GMC shall obtain a full readback of the clearance. If the pilot does not report the current ATIS letter on first contact, GMC shall pass the current ATIS letter and QNH.
 
-Departing aircraft shall be instructED to report ready for pushback.
+Departing aircraft shall be instructed to report ready for pushback.
 
 !!! example
 
@@ -74,6 +74,18 @@ Al Maktoum primarily uses RNAV standard instrument departures (SIDs) and is the 
 
 
 ### 2.3.2 Radar departures
+The radar departure procedure shall be used when aircraft are unable to accept an RNAV departure, such as one with outdated nav data. Whereas RNAV departures follow a prescribed track until leaving the Dubai Departures airspace, radar departures are given radar vectors to the first fix.
+
+In the take-off clearance, Air Control (AIR) shall assign a heading to fly after departure appropriate to the Dubai CTA exit point.
+
+A radar departure clearance shall contain the following information:
+
+- Callsign;
+- Destination;
+- Departure instructions;
+- Initially cleared altitude;
+- Frequency handoff;
+- Assigned SSR code
 
 
 !!! note
