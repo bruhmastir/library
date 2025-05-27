@@ -260,6 +260,106 @@ Aircraft requesting pushback that are not squawking their assigned transponder c
 
 Pushback direction is based primarily on aircraft location and runway configuration.
 
+### 1.4.2 Declared distances (take-off)
+<table><thead>
+  <tr>
+    <th>Apron</th>
+    <th>Intersection</th>
+    <th>Taxiway</th>
+    <th>Direction</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td rowspan="6">12</td>
+    <td>FULL LENGTH</td>
+    <td>4500 m</td>
+    <td>4500 m</td>
+  </tr>
+  <tr>
+    <td>V2</td>
+    <td>4452 m</td>
+    <td>4452 m</td>
+  </tr>
+  <tr>
+    <td>V3</td>
+    <td>4352 m</td>
+    <td>4352 m</td>
+  </tr>
+  <tr>
+    <td>V4</td>
+    <td>4252 m </td>
+    <td>4252 m</td>
+  </tr>
+  <tr>
+    <td>V6</td>
+    <td>3030 m</td>
+    <td>3030 m</td>
+  </tr>
+  <tr>
+    <td>V10</td>
+    <td>2122 m</td>
+    <td>2122 m</td>
+  </tr>
+  <tr>
+    <td rowspan="7">30</td>
+    <td>FULL LENGTH</td>
+    <td>4500 m</td>
+    <td>4500 m</td>
+  </tr>
+  <tr>
+    <td>V20</td>
+    <td>4390 m</td>
+    <td>4390 m</td>
+  </tr>
+  <tr>
+    <td>V19</td>
+    <td>4288 m</td>
+    <td>4288 m</td>
+  </tr>
+  <tr>
+    <td>V18</td>
+    <td>4188 m</td>
+    <td>4188 m</td>
+  </tr>
+  <tr>
+    <td>V17</td>
+    <td>4088 m</td>
+    <td>4088 m</td>
+  </tr>
+  <tr>
+    <td>V16</td>
+    <td>3995 m</td>
+    <td>3995 m</td>
+  </tr>
+  <tr>
+    <td>V13</td>
+    <td>2980 m</td>
+    <td>2980 m</td>
+  </tr>
+  <tr>
+    <td rowspan="2">13</td>
+    <td>FULL LENGTH</td>
+    <td>1838 m</td>
+    <td>1838 m</td>
+  </tr>
+  <tr>
+    <td>A2</td>
+    <td>1804 m</td>
+    <td>1804 m</td>
+  </tr>
+  <tr>
+    <td rowspan="2">31</td>
+    <td>FULL LENGTH</td>
+    <td>1838 m</td>
+    <td>1838 m</td>
+  </tr>
+  <tr>
+    <td>A6</td>
+    <td>1804 m</td>
+    <td>1804 m</td>
+  </tr>
+</tbody></table>
+
 On apron S2, all traffic shall be instructed to pushback on taxiway Z5. On apron S3, all traffic should be instructed to pushback onto Z6, Z or Z7. On apron S4, all traffic should be instructed to pushback onto Z8, Z or Z9. On apron G, all aircraft should be instructed to pushback onto Z11, Z14, Z15, Z16, Z17 or Z20 respectively 
 
 
