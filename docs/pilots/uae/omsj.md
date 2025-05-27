@@ -87,7 +87,7 @@ Departing aircraft shall contact Sharjah Ground **10 minutes prior to start-up**
     <li>Parking Stand</li>
     <li>Requested Flight Level</li>
     <li>Destination</li>
-    <li>Current ATIS Information</li>
+    <li>Current ATIS Information and QNH</li>
 </ul>
 
 #### Initial Clearance
@@ -117,14 +117,16 @@ Pilots must comply with all taxi instructions, including holds. Taxi instruction
 !!! example
     **Controller**: "ABY436, Taxi via A, A20, holding point B20, Runway 30."
 
+### Taxi
+Taxi should be expected via the next available linking taxiway to taxiway A, then direct to the appropriate holding point. This may differ based on operational requirements.
+
 #### Standard Intersection Departures
 For the purposes of takeoff performance planning the standard departure taxiways are:
 
-* 12 - B20
-* 30 - B2
+* 12 - B2
+* 30 - B20
 
 Crews should base their performance calculations on departure from standard departure points from the notified runway in use.
-
 
 #### Runway 30 Configuration
 ##### General
@@ -137,3 +139,7 @@ Crews should base their performance calculations on departure from standard depa
 </figure>
 
 ### Take-off
+#### Minimum Runway Occupancy
+On receipt of a line-up clearance pilots shall ensure, complying with safety and standard operating procedures, that they are able to line-up on the runway as soon as the preceding aircraft has commenced take-off roll or landing run.
+
+Wherever possible, pilots are encouraged to conduct a rolling takeoff to minimise runway occupancy time.
