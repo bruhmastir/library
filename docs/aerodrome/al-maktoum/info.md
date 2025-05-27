@@ -3,12 +3,12 @@
 |                     |                                                   |
 |---------------------|---------------------------------------------------|
 |         Type        |                    Procedure                      |
-|       Revision      |                     01/2024                       |
-|    Effective Date   |                    01 DEC 2024                    |
-|     Prepared by     | Suprojit Paul - ACCARB3 & Shahzin Shajid - Mentor |
-|     Approved by     |             Chris Marriott - ACCARB1              |
-|   Next review date  |                    01 DEC 2025                    |
-| Cancelled documents |                SOP OMDB R05/2021                  |
+|       Revision      |                     01/2025                       |
+|    Effective Date   |                                                   |
+|     Prepared by     |                                                   |
+|     Approved by     |                                                   |
+|   Next review date  |                                                   |
+| Cancelled documents |                                                   |
 
 ## Record of Revisions
 <table><thead>
