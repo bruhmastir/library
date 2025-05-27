@@ -44,28 +44,41 @@ Departing aircraft shall be instructED to report ready for pushback.
 ### 2.2.3 Datalink clearance (DCL)
 Aircraft clearance may also be delivered by DCL. This type of clearance reduces controller workload and frequency congestion. For suitably equipped aircraft, this will be through the ACARS system on board the aircraft.
 ### 2.2.4 Aircraft requiring a reroute
-Aircraft requiring a reroute shall not be given a DCL. Instead, a voice clearance must be used. This shall be communicated by ACARS datalink message or on frequency.
+If an aircraft requires a reroute, they shall be informed of such as soon as they have connected to the network by private message or on frequency. The use of “.rte" and “.rtef" aliases are encouraged.
+
+An aircraft shall be issued a reroute by GMC if the pilot’s route doesn’t comply with the standard routes laid out in Table 2-2.
 ### 2.2.5 Voice clearance
 Aircraft requesting clearance via voice shall be given a voice clearance as per the format in 2.2.2.
 ## 2.3 Departure Procedures
 ### 2.3.1 RNAV Standard instrument departures
+Al Maktoum primarily uses RNAV standard instrument departures (SIDs) and is the preferred departure type for IFR aircraft. Departing aircraft shall be assigned an appropriate RNAV departure according to the first fix in the flight plan and runway(s) in use.
 
-| First Fix | 30L/30R | 12L/12R |
-|:---------:|:-------:|:-------:|
-|   ANVIX   |    7F   |    5G   |
-|   DAVMO   |    4F   |    4G   |
-|   EMERU   |    2F   |    2G   |
-|   IVURO   |    1F   |    1G   |
-|   KUTLI   |    4F   |    4G   |
-|   MIROT   |    3F   |    3G   |
-|   NABIX   |    3F   |    3G   |
-|   RIDAP   |    2F   |    3G   |
-|   SENPA   |    2F   |    3G   |
+| First Fix |    30   |    12   |    31   |    13   |
+|:---------:|:-------:|:-------:|:-------:|:-------:|
+|   ANVIX   |    4L   |    6J   |    1P   |    2N   |
+|   DAVMO   |    4L   |    5J   |         |         |
+|   EMERU   |    1L   |    3J   |         |         |  
+|   KUTLI   |    3L   |    4J   |         |         |
+|   MIROT   |    3L   |    4J   |    1P   |    1N   |
+|   NABIX   |    3L   |    4J   |    1P   |    1N   |
+|   NOLSU   |    3L   |    3J   |         |         |
+|   RIDAP   |    3L   |    4J   |         |         |
+|   SENPA   |    3L   |    4J   |         |         |
+
 <figure markdown>
   <figcaption>Table 2-1: RNAV SIDs</figcaption>
 </figure>
 
-### 2.3.2 Omnidirectional departures
+!! info
+      All aircraft shall be assigned an initial climb of **3000ft**. 
+
+
+### 2.3.2 Radar departures
+
+
+!!! note
+      Aircraft on a radar departure shall have the text *VECTORS* inserted to the scratchpad section of their entry on the departure list.
+
 
 ## 2.4 Rerouting aircraft
 
