@@ -202,8 +202,8 @@ Several routing restrictions exist within UAE airspace and must be complied with
     <td>DCT ANVIX R401 GIDIS G783 VAVIM</td>
   </tr>
   <tr>
-    <td>Landing OMDW, OMDB, OMRK, and OMFJ</td>
-    <td>Max 7,000 ft<br>(Omni-directional Departure)</td>
+    <td>Landing OMSJ, OMDB, OMRK, and OMFJ</td>
+    <td>Max 7,000 ft<br>(Radar Departure)</td>
     <td>DCT (RADAR VECTORS)</td>
   </tr>
 </tbody></table>
