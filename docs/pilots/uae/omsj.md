@@ -44,7 +44,7 @@ Pilots can access the latest charts through the following sources: [Chartfox (Fr
 | OMDB_APP   | Dubai Arrivals   | 124.900   | - Primary Arrivals Position - Services for: OMDB, OMSJ, OMDW      |
 
 !!! info
-    Your airborne frequency will be provided during your IFR clearance. Ensure you note this and connect to the correct Departure frequency.
+    For IFR flights, the airborne frequency will be provided during the IFR clearance. Pilots should note this and tune the correct Departure frequency once airborne. **Sharjah Tower will not provide a handoff.**
 
 ## Departing Traffic
 ### Flight Planning: Route(s)
@@ -64,7 +64,7 @@ Pilots can find valid routes for most flights departing from Sharjah on SimBrief
 </figure>
 
 ### Flight Planning: Standard Instrument Departure (SID)
-Controllers will assign a Standard Instrument Departure (SID) based on the first waypoint in your flight plan, guiding you out of the Dubai Terminal Maneuvering Area (TMA). Refer to the table below to see which SID you can expect. If your waypoint isn't listed in the table, ensure your AIRAC cycle is up to date. If your AIRAC is outdated, please inform the controller promptly so we can arrange an omnidirectional departure for you. All initial climbs are set at 3000ft!
+Controllers will assign a Standard Instrument Departure (SID) based on the first waypoint in your flight plan, guiding you out of the Dubai Terminal Maneuvering Area (TMA). Refer to the table below to see which SID you can expect. If your waypoint isn't listed in the table, ensure your AIRAC cycle is up to date. If your AIRAC is outdated, please inform the controller promptly so we can arrange an omnidirectional departure for you. All initial climbs are set at 3000ft.
 
 | Waypoint |   12   |   30   |
 |----------|:------:|:------:|
@@ -112,13 +112,10 @@ Datalink clearances are currently unavailable at Sharjah. Clearance should be re
     If pilots are unable to commence pushback within 2-3 minutes, the pushback clearance may be revoked, and slot times will be recalculated.
 
 ### Taxi
-Pilots must comply with all taxi instructions, including holds. Taxi instructions are given based on various factors such as aircraft type and traffic.
+Pilots must comply with all taxi instructions, including holds. Taxi instructions are given based on various factors such as aircraft type and traffic. Taxi should be expected via the next available linking taxiway to taxiway A, then direct to the appropriate holding point. This may differ based on operational requirements.
 
 !!! example
     **Controller**: "ABY436, Taxi via A, A20, holding point B20, Runway 30."
-
-### Taxi
-Taxi should be expected via the next available linking taxiway to taxiway A, then direct to the appropriate holding point. This may differ based on operational requirements.
 
 #### Standard Intersection Departures
 For the purposes of takeoff performance planning the standard departure taxiways are:
