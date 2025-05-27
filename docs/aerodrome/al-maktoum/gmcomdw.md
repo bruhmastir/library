@@ -1,14 +1,14 @@
 # 2. Ground Movement Control ("Al Maktoum Ground")
 ## 2.1 General provisions
-The Ground Movement Controller (GMC) is responsible for managing aircraft movements on all aerodrome movement areas except for runways and their associated taxiways. Due to the low volumes of traffic at Al Maktoum, there is no Ground Movement Planner (GMP) position, furthermore the Ground Movement Controller (GMC) will take full responsibility for GMP's position, including issuing IFR clearances. The controller shall assign the correct departure procedure to the aircraft based on the first point that is filed on the flight plan.
+Ground Movement Control (GMC) is responsible for validating routes and shall provide IFR clearance to departing aircraft. The controller shall assign the correct departure procedure to the aircraft based on the first point that is filed on the flight plan.
 
-Where the flight plan contains an invalid route, level, or departure procedure, in this case GMC must ensure that the error is corrected before the aircraft is given its clearance. 
+Where the flight plan contains an invalid route, level, or departure procedure, GMC shall ensure that the error is corrected before the aircraft is given its clearance.
 
-Departing aircraft are given their clearances, pushback instructions and instructions to taxi to the runway holding point. Arriving aircraft are assigned a stand and instructed to taxi as appropriate.
+GMC is also responsible for managing aircraft movements on all aerodrome movement areas except for runways and their associated taxiways. Departing aircraft are given pushback instructions and instructions to taxi to the runway holding point. Arriving aircraft are assigned a stand and instructed to taxi as appropriate.
 
 ## 2.2 Departure clearance
 ### 2.2.1 General
-The OMDW GMC is responsible for issuing clearances for departing aircraft. Pilots may be expected to report the following information on first contact:
+The GMC is responsible for issuing clearances for departing aircraft. Pilots may be expected to report the following information on first contact:
 
 - Aircraft Callsign;
 - Aircraft type;
