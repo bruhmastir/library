@@ -36,7 +36,7 @@
 |:---------------:|:------------:|:-----------:|
 |   ILS/DME (12)  |   IJEA       |  111.750    |
 |   ILS/DME (30)  |   IJWA       |  109.750    |
-|   ILS/DME (31)  |     IDEF     |  110.550    |
+|   ILS/DME (31)  |   IDEF       |  110.550    |
 
 ## 1.4 Runways
 ### 1.4.1 Runway physical characteristics

@@ -426,7 +426,7 @@ Where aircraft are taxied to runway holding points, transfer of control to AIR s
 To deconflict traffic and to reduce the length of taxi clearances, intermediate holding points shall be used wherever possible.
 
 !!! example
-      **Controller:** ABY436, Taxi via A, A20, holding point B20, Runway 30.
+      **Controller:** UAE9254, Taxi via Z7, V, holding point V4, Runway 12.
 
       **Pilot:** Taxi via A, A20, holding point B20, Runway 30, ABY436.
 
