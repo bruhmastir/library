@@ -406,7 +406,8 @@ A short pushback instruction shall require the aircraft to complete the pushback
 
 #### 2.8.2.3 Long pushback
 A long pushback instruction shall require aircraft to complete the pushback operation two stands away from where the pushback was commenced. This manoeuvre may be used when aircraft are vacating a stand to be used by another aircraft that is taxiing in.
-
+!!! example
+    **Pilot**: "Al Maktoum Ground, UAE9154, on stand S295 request pushback."
 !!! example
     **Pilot**: "Al Maktoum Ground, UAE9154, on stand S295 request pushback."
 
