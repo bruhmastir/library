@@ -6,6 +6,18 @@ Air Control (AIR) is responsible for all aerodrome movements on runways and thei
 Due to the close interaction between arrival and departure procedures within the Dubai CTA, the active runway at Sharjah shall be determined by the active runway direction at Dubai airport. 
 
 ## 3.3 Departure procedures
+### 3.3.1 Standard departure points
+Al Maktoum has “standard departure points” from which pilots are expected to base their performance calculations. Aircraft may be tactically issued holding points closer to the runway end to optimise traffic flow or to yield a more efficient departure sequence. If the standard departure point is insufficient, crews must advice ATC of the required departure on first contact. The AIR controller may issue delays for such departures based on runway dependency requirements, as priority is given to the standard departure points.
+
+| Runway | Standard departure points |
+|:------:|:-------------------------:|
+|   30  |          V16               |
+|   12  |          V4                |
+|   31  |          M1C/N1C          |
+|   13  |             K5            |
+<figure markdown>
+  <figcaption>Table 5-1: Standard departure points</figcaption>
+</figure>
 ### 3.3.1 Line up clearances
 Aircraft that have reached the runway holding points for departure shall be told to line-up once the runway is vacant and there is room to maneuver the aircraft onto the runway.
 
