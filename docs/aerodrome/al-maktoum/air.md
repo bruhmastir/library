@@ -10,8 +10,8 @@ Al Maktoum has “standard departure points” from which pilots are expected to
 |:------:|:-------------------------:|
 |   30  |          V16               |
 |   12  |          V4                |
-|   31  |          M1C/N1C          |
-|   13  |             K5            |
+|   31  |         A6                 |
+|   13  |             A2            |
 <figure markdown>
   <figcaption>Table 5-1: Standard departure points</figcaption>
 </figure>
