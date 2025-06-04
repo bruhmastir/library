@@ -16,6 +16,9 @@ Al Maktoum has “standard departure points” from which pilots are expected to
   <figcaption>Table 5-1: Standard departure points</figcaption>
 </figure>
 
+!!! note
+    V13 intersection departure may be used for departing aircraft on runway 30 
+
 ### 3.2.2 Line up clearances
 Aircraft that have reached the runway holding points for departure shall be told to line-up once the runway is vacant and there is room to maneuver the aircraft onto the runway.
 
