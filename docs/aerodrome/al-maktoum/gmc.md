@@ -446,12 +446,16 @@ Aircraft requesting a departure from V13 shall be instructed to taxi via Z and W
 
 *(See 4.1)*
 ### 2.9.3 Runway 12 departure taxi procedures
-When departing from 12, aircraft taxiing from passenger apron (stands 1A to 26) shall be instructed to taxi via A and A2 to holding point B2.
-
-Aircraft on the cargo apron (stands 50 to 62) shall be instructed to taxi via Z8, A8 and B to holding point B2. 
-
+When departing from 30:
+- aircraft taxiing from stands S289-S313 shall be instructed to taxi via Z5/Z6 and W to holding point V4.
+- aircraft taxiing from stands S340-S348 and S440-S448 shall be instructed to taxi via Z, W7 and W to holding point V4.
+- aircraft taxiing from stands S324-S332 and S401-S410 shall be instructed to taxi via Z7/Z8, Z, W7 and W to holding point V4.
+- aircraft taxiing from stands S420-S425 shall be instructed to taxi viz Z9, Z, W7 and W to holding point V4.
+- aircraft taxiing from stands G100-G108 shall be instructed to taxi via Z11, Z, W7 and W to holding point runway V4.
+- aircraft taxiing from Apron G shall be instructed to taxi via Z12 and W to holding point runway V4.
+  
 !!! warning
-      Westbound traffic flow on B must be avoided between B14 and B11, as this blocks the exit taxiways from runway 12.
+      Westbound traffic flow on V must be avoided, as this blocks the exit taxiways from runway 12.
 
 *(See 4.4)*
 
@@ -461,22 +465,17 @@ GMC shall assign an arrival stand to aircraft when they are on final approach.
 
 Once the aircraft is handed off to GMC, they shall be taxied to their stand in accordance with the procedures laid down in 2.10.4. 
 
-*(See 4.2)*
 
 ### 2.10.2 Runway 30 arrival taxi procedures
-Aircraft shall vacate 30 onto B7 or B6 and are then handed off to GMC.
+Aircraft shall vacate 30 onto V10, V12 or V6 and are then handed off to GMC.
 
-Aircraft shall be taxied via A6 and A to the appropriate stand. 
-
+Aircraft shall be taxied in accordance with 4.2
 *(See 4.2)*
 
 ### 2.10.3 Runway 12 arrival taxi procedures
-Aircraft shall vacate 30 onto B11 or B14 and are then handed off to GMC.
+Aircraft shall vacate 12 onto V7, V9 or V13 and are then handed off to GMC.
 
-Aircraft shall be taxied via A14 and A to the appropriate stand.
-
-!!! warning
-      Aircraft shall not be instructed to make a right turn on A12 after vacating B11. They shall always make a left turn onto B.
+Aircraft shall be taxied in accordance with 4.2
 
 *(See 4.3)*
 
@@ -508,7 +507,7 @@ Only CAT II/III holding points may be used during LVO (3.3.1).
 ### 2.12.1 GMC positions
 GMC is responsible for all aprons and associated taxiways.
 
-*(See 6.1)*
+*(See 5.1)*
 
 ### 2.12.2 Handoff procedure
 Where transfer of control is to be made between controllers, aircraft shall not be cleared to a point beyond the current controller’s designated zone of responsibility unless there has been prior coordination with the next controller. Intermediate holding points may be used to satisfy this requirement. 
