@@ -483,12 +483,16 @@ Aircraft shall be taxied via A14 and A to the appropriate stand.
 ### 2.10.4 Stand allocation procedure
 |             Area             |                 Operator               |
 |:----------------------------:|:--------------------------------------:|
-|         1A, 1B and 1C        |             ABY                        |
-|             2 to 8           |     ABY, all international             |
-|            11 to 26          |     ABY, low-cost (overflow)           |
-|  51, 53, 55, 57, 59, 61      |     ABY, SQC, GEC, UPS                 | 
-|  50, 52, 54, 56, 58, 60, 62  |  ABY, other cargo, low-cost (overflow) |  
-
+|         S289-S313            |             EK Sky Cargo               |
+|         S324-S410            |     Other Cargo                        |
+|         S340-S348L           |     Small Private Jets                 |
+|        S440R-S446L           |     International Carriers             | 
+|       S420R-S420L            |         Leased Carriers                |  
+|        S420R-S425L           |     Private Companies                  | 
+|        G100-G108             |         Falcon                         | 
+|        G17 and G20           |        Private Jet Hangars             | 
+|        G1-G8                 |               VIP Terminal             | 
+|        S801-S812             |               Dubai Airshow            | 
   <figcaption>Table 2-3: Stand allocation procedure</figcaption>
 </figure>
 
