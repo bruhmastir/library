@@ -97,7 +97,7 @@ A radar departure clearance shall contain the following information:
 ## 2.4 Rerouting aircraft
 
 !!! example
-    **Controller**: "RJA615, cleared to Amman, via SENPA1G, SENPA N571 ALPOB L768 ULADA, flight planned route. Maintain 4000ft, squawk 0553."
+    **Controller**: "UAE9824, cleared to Amman, via SENPA3L, SENPA N571 ALPOB L768 ULADA, flight planned route. Maintain 3000ft, squawk 0553."
 
 An aircraft shall be issued a reroute by GMP if the pilot’s route doesn’t comply with the standard routes laid out in Table 2-2. 
 
@@ -221,7 +221,7 @@ Several routing restrictions exist within UAE airspace and must be complied with
 
 
 ## 2.5 Runway change procedure
-Runway change shall be coordinated between Dubai AIR and Sharjah AIR due to the runway dependencies as provided in 3.2.
+Runway change shall be coordinated with Al Maktoum AIR
 ## 2.6 VFR aircraft
 VFR flight activity should be planned in accordance to published VFR charts, specifically the “**Dubai CTA VFR**” chart for VFR traffic navigating out of the Al Maktoum CTR into neighbouring airspaces and within the Al Maktoum control zone. GMC may use the appropriate charts as per the requirements of the pilot’s intentions in accordance with 2.6.1, 2.6.2 and 2.6.3.
 
@@ -432,12 +432,17 @@ To deconflict traffic and to reduce the length of taxi clearances, intermediate 
       **Pilot:** Taxi via A, A20, holding point B20, Runway 30, ABY436.
 
 ### 2.9.2 Runway 30 departure taxi procedures
-When departing from 30, aircraft taxiing from passenger apron (stands 1A to 26) shall be instructed to taxi via A and A20 to holding point B20. 
+When departing from 30:
+- aircraft taxiing from stands S289-S313 shall be instructed to taxi via Z5/Z6, W7/W8, and W to holding point V16.
+- aircraft taxiing from stands S340-S348 and S440-S448 shall be instructed to taxi via Z and W16 to holding point V16.
+- aircraft taxiing from stands S324-S332 and S401-S410 shall be instructed to taxi via Z7/Z8, Z and W16 to holding point V16.
+- aircraft taxiing from stands S420-S425 shall be instructed to taxi viz Z9, Z and W16 to holding point V16.
+- aircraft taxiing from Apron G shall be instructed to taxi via Z11/Z12 and W16 to holding point runway V16.
 
-Aircraft on the cargo apron (stands 50 to 62) shall be instructed to taxi via Z8, A8 and B to holding point B20.
+Aircraft requesting a departure from V13 shall be instructed to taxi via Z and W15 to holding point V13.
 
 !!! warning
-      Eastbound traffic flow on B must be avoided between B2 and B7, as this blocks the exit taxiways from runway 30.
+      Eastbound traffic flow on V must be avoided, as this blocks the exit taxiways from runway 30.
 
 *(See 4.1)*
 ### 2.9.3 Runway 12 departure taxi procedures
@@ -478,12 +483,16 @@ Aircraft shall be taxied via A14 and A to the appropriate stand.
 ### 2.10.4 Stand allocation procedure
 |             Area             |                 Operator               |
 |:----------------------------:|:--------------------------------------:|
-|         1A, 1B and 1C        |             ABY                        |
-|             2 to 8           |     ABY, all international             |
-|            11 to 26          |     ABY, low-cost (overflow)           |
-|  51, 53, 55, 57, 59, 61      |     ABY, SQC, GEC, UPS                 | 
-|  50, 52, 54, 56, 58, 60, 62  |  ABY, other cargo, low-cost (overflow) |  
-
+|         S289-S313            |             EK Sky Cargo               |
+|         S324-S410            |     Other Cargo                        |
+|         S340-S348L           |     Small Private Jets                 |
+|        S440R-S446L           |     International Carriers             | 
+|       S420R-S420L            |         Leased Carriers                |  
+|        S420R-S425L           |     Private Companies                  | 
+|        G100-G108             |         Falcon                         | 
+|        G17 and G20           |        Private Jet Hangars             | 
+|        G1-G8                 |               VIP Terminal             | 
+|        S801-S812             |               Dubai Airshow            | 
   <figcaption>Table 2-3: Stand allocation procedure</figcaption>
 </figure>
 
