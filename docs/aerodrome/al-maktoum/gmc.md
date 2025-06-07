@@ -32,7 +32,6 @@ GMC shall obtain a full readback of the clearance. If the pilot does not report 
 Departing aircraft shall be instructed to report ready for pushback.
 
 !!! example
-    
     **Pilot**: "Al Maktoum Ground, good evening, UAE9782, Boeing 777-200LR, stand S298, requesting IFR clearance to Hong Kong, exiting the Dubai control zone at ANVIX"
     
     **Controller**: "UAE9782, cleared to Hong Kong via the ANVIX4L departure, maintain altitude 3000ft, squawk 0542."
@@ -45,12 +44,15 @@ Departing aircraft shall be instructed to report ready for pushback.
 
 ### 2.2.3 Datalink clearance (DCL)
 Aircraft clearance may also be delivered by DCL. This type of clearance reduces controller workload and frequency congestion. For suitably equipped aircraft, this will be through the ACARS system on board the aircraft.
+
 ### 2.2.4 Aircraft requiring a reroute
 If an aircraft requires a reroute, they shall be informed of such as soon as they have connected to the network by private message or on frequency. The use of “.rte" and “.rtef" aliases are encouraged.
 
 An aircraft shall be issued a reroute by GMC if the pilot’s route doesn’t comply with the standard routes laid out in Table 2-2.
+
 ### 2.2.5 Voice clearance
 Aircraft requesting clearance via voice shall be given a voice clearance as per the format in 2.2.2.
+
 ## 2.3 Departure Procedures
 ### 2.3.1 RNAV Standard instrument departures
 Al Maktoum primarily uses RNAV standard instrument departures (SIDs) and is the preferred departure type for IFR aircraft. Departing aircraft shall be assigned an appropriate RNAV departure according to the first fix in the flight plan and runway(s) in use.
@@ -96,12 +98,13 @@ A radar departure clearance shall contain the following information:
 
 ## 2.4 Rerouting aircraft
 
-!!! example
-    **Controller**: "UAE9824, cleared to Amman, via SENPA3L, SENPA N571 ALPOB L768 ULADA, flight planned route. Maintain 3000ft, squawk 0553."
 
 An aircraft shall be issued a reroute by GMP if the pilot’s route doesn’t comply with the standard routes laid out in Table 2-2. 
 
 Several routing restrictions exist within UAE airspace and must be complied with when issuing a departure clearance.
+
+!!! example
+    **Controller**: "UAE9824, cleared to Amman, via SENPA3L, SENPA N571 ALPOB L768 ULADA, flight planned route. Maintain 3000ft, squawk 0553."
 
 !!! note
     The Arabian vACC Operations Department maintains an up-to-date route database on SimBrief. These routes can be accessed by selecting the ***"User Submitted Routes"*** option, highlighted in purple, when planning a flight.
@@ -222,6 +225,7 @@ Several routing restrictions exist within UAE airspace and must be complied with
 
 ## 2.5 Runway change procedure
 Runway change shall be coordinated with Al Maktoum AIR
+
 ## 2.6 VFR aircraft
 VFR flight activity should be planned in accordance to published VFR charts, specifically the “**Dubai CTA VFR**” chart for VFR traffic navigating out of the Al Maktoum CTR into neighbouring airspaces and within the Al Maktoum control zone. GMC may use the appropriate charts as per the requirements of the pilot’s intentions in accordance with 2.6.1, 2.6.2 and 2.6.3.
 
@@ -470,6 +474,7 @@ Once the aircraft is handed off to GMC, they shall be taxied to their stand in a
 Aircraft shall vacate 30 onto V10, V12 or V6 and are then handed off to GMC.
 
 Aircraft shall be taxied in accordance with 4.2
+
 *(See 4.2)*
 
 ### 2.10.3 Runway 12 arrival taxi procedures
