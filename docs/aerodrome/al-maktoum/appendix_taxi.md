@@ -1,4 +1,3 @@
-# 6. Appendix - Taxi Diagrams
 # 4. Appendix - Taxi Diagrams
 ## 4.1 Runway 30 taxi-out diagram
 <figure markdown>
