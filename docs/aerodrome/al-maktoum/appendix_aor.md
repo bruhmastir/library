@@ -4,6 +4,7 @@ Areas indicated in a solid colour are the sole responsibility of the respective 
 
 Areas indicated in a cross-hatched colour are areas of shared responsibility. Here, transfer of control may only be initiated when required between controllers, except as provided in 3.3.1 to facilitate a non-stop taxi.
 
-Uncoloured areas are the responsibility of the respective GMC controller as indicated by the green boundary line between GMC 1 and GMC 2.
+Uncoloured areas are the responsibility of the respective GMC controller as indicated by the green boundary line.
 
 ## 5.2 Runway 30/12
+![Area of Responsibility](img/OMDW AOR.png)
