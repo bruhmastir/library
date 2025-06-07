@@ -497,11 +497,8 @@ Aircraft shall be taxied via A14 and A to the appropriate stand.
 </figure>
 
 ### 2.10.5 Stand restrictions
-Stands 1A, 1B, 1C, and stands 11 to 26 are medium (code C) capable only. 
+Stands S291-S294, S306, S310, S325, S329, G100-G108 and S801-S806 are A380 (code F) capable.
 
-Stands 2 to 8 are heavy (code E) capable only. 
-
-Stands 50 to 62 are A380 (code F) capable. 
 ## 2.11 Low visibility operations (LVO)
 ### 2.11.1 LVO taxi routes
 When LVO is in force shall only be issued taxi instructions in accordance with the designated LVO taxi routes.
