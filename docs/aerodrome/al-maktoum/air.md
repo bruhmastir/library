@@ -41,6 +41,7 @@ Aircraft shall be cleared for take-off once adequate separation exists as provid
       **Controler:** ABW255, (surface) wind 330 degrees, 7 knots, runway 30, cleared for takeoff.
 
       **Pilot:** Cleared for takeoff, runway 30, ABW255.
+      
 ### 3.2.4 Separation requirements
 #### 3.2.4.1 General
 Aircraft shall be separated on departure in compliance with standard IFR departure separation minima or enhanced wake turbulence separation (eWTS) requirements. 
@@ -122,7 +123,6 @@ Once aircraft are observed to be safely climbing away, they shall be handed off 
 
 !!! example
       **Controller:** EJO21M, Climb to 3000ft via standard missed approach, contact Al Maktoum Radar 124.025.
-      
 
 ### 3.3.3 Arrival taxi procedures
 Aircraft shall be provided an initial taxi clearance to ensure they are kept moving such that the exit taxiway (RET) is clear for the next arrival and to minimise runway occupancy times. 
@@ -135,7 +135,7 @@ The initial taxi shall include instructions to taxi “LEFT” or “RIGHT” on
 Once aircraft have been observed to be taxiing and completely clear of the exit, transfer of control shall be initiated to GMC provided there will be no conflicts with other arriving traffic.  
 
 !!! note
-      Aircraft may normally be expected to vacate on V10 in the 30 direction or ??? in the 12 direction.  
+      Aircraft may normally be expected to vacate on V10 in the 30 direction or V9 in the 12 direction.  
 
 !!! note
       If required for separation and to expedite traffic, aircraft may be instructed to vacate via the appropriate rapid exit taxiway on initial contact. 

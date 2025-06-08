@@ -32,7 +32,6 @@ GMC shall obtain a full readback of the clearance. If the pilot does not report 
 Departing aircraft shall be instructed to report ready for pushback.
 
 !!! example
-    
     **Pilot**: "Al Maktoum Ground, good evening, UAE9782, Boeing 777-200LR, stand S298, requesting IFR clearance to Hong Kong, exiting the Dubai control zone at ANVIX"
     
     **Controller**: "UAE9782, cleared to Hong Kong via the ANVIX4L departure, maintain altitude 3000ft, squawk 0542."
@@ -45,12 +44,15 @@ Departing aircraft shall be instructed to report ready for pushback.
 
 ### 2.2.3 Datalink clearance (DCL)
 Aircraft clearance may also be delivered by DCL. This type of clearance reduces controller workload and frequency congestion. For suitably equipped aircraft, this will be through the ACARS system on board the aircraft.
+
 ### 2.2.4 Aircraft requiring a reroute
 If an aircraft requires a reroute, they shall be informed of such as soon as they have connected to the network by private message or on frequency. The use of “.rte" and “.rtef" aliases are encouraged.
 
 An aircraft shall be issued a reroute by GMC if the pilot’s route doesn’t comply with the standard routes laid out in Table 2-2.
+
 ### 2.2.5 Voice clearance
 Aircraft requesting clearance via voice shall be given a voice clearance as per the format in 2.2.2.
+
 ## 2.3 Departure Procedures
 ### 2.3.1 RNAV Standard instrument departures
 Al Maktoum primarily uses RNAV standard instrument departures (SIDs) and is the preferred departure type for IFR aircraft. Departing aircraft shall be assigned an appropriate RNAV departure according to the first fix in the flight plan and runway(s) in use.
@@ -96,12 +98,13 @@ A radar departure clearance shall contain the following information:
 
 ## 2.4 Rerouting aircraft
 
-!!! example
-    **Controller**: "UAE9824, cleared to Amman, via SENPA3L, SENPA N571 ALPOB L768 ULADA, flight planned route. Maintain 3000ft, squawk 0553."
 
 An aircraft shall be issued a reroute by GMP if the pilot’s route doesn’t comply with the standard routes laid out in Table 2-2. 
 
 Several routing restrictions exist within UAE airspace and must be complied with when issuing a departure clearance.
+
+!!! example
+    **Controller**: "UAE9824, cleared to Amman, via SENPA3L, SENPA N571 ALPOB L768 ULADA, flight planned route. Maintain 3000ft, squawk 0553."
 
 !!! note
     The Arabian vACC Operations Department maintains an up-to-date route database on SimBrief. These routes can be accessed by selecting the ***"User Submitted Routes"*** option, highlighted in purple, when planning a flight.
@@ -222,6 +225,7 @@ Several routing restrictions exist within UAE airspace and must be complied with
 
 ## 2.5 Runway change procedure
 Runway change shall be coordinated with Al Maktoum AIR
+
 ## 2.6 VFR aircraft
 VFR flight activity should be planned in accordance to published VFR charts, specifically the “**Dubai CTA VFR**” chart for VFR traffic navigating out of the Al Maktoum CTR into neighbouring airspaces and within the Al Maktoum control zone. GMC may use the appropriate charts as per the requirements of the pilot’s intentions in accordance with 2.6.1, 2.6.2 and 2.6.3.
 
@@ -446,12 +450,16 @@ Aircraft requesting a departure from V13 shall be instructed to taxi via Z and W
 
 *(See 4.1)*
 ### 2.9.3 Runway 12 departure taxi procedures
-When departing from 12, aircraft taxiing from passenger apron (stands 1A to 26) shall be instructed to taxi via A and A2 to holding point B2.
-
-Aircraft on the cargo apron (stands 50 to 62) shall be instructed to taxi via Z8, A8 and B to holding point B2. 
-
+When departing from 30:
+- aircraft taxiing from stands S289-S313 shall be instructed to taxi via Z5/Z6 and W to holding point V4.
+- aircraft taxiing from stands S340-S348 and S440-S448 shall be instructed to taxi via Z, W7 and W to holding point V4.
+- aircraft taxiing from stands S324-S332 and S401-S410 shall be instructed to taxi via Z7/Z8, Z, W7 and W to holding point V4.
+- aircraft taxiing from stands S420-S425 shall be instructed to taxi viz Z9, Z, W7 and W to holding point V4.
+- aircraft taxiing from stands G100-G108 shall be instructed to taxi via Z11, Z, W7 and W to holding point runway V4.
+- aircraft taxiing from Apron G shall be instructed to taxi via Z12 and W to holding point runway V4.
+  
 !!! warning
-      Westbound traffic flow on B must be avoided between B14 and B11, as this blocks the exit taxiways from runway 12.
+      Westbound traffic flow on V must be avoided, as this blocks the exit taxiways from runway 12.
 
 *(See 4.4)*
 
@@ -461,22 +469,18 @@ GMC shall assign an arrival stand to aircraft when they are on final approach.
 
 Once the aircraft is handed off to GMC, they shall be taxied to their stand in accordance with the procedures laid down in 2.10.4. 
 
-*(See 4.2)*
 
 ### 2.10.2 Runway 30 arrival taxi procedures
-Aircraft shall vacate 30 onto B7 or B6 and are then handed off to GMC.
+Aircraft shall vacate 30 onto V10, V12 or V6 and are then handed off to GMC.
 
-Aircraft shall be taxied via A6 and A to the appropriate stand. 
+Aircraft shall be taxied in accordance with 4.2
 
 *(See 4.2)*
 
 ### 2.10.3 Runway 12 arrival taxi procedures
-Aircraft shall vacate 30 onto B11 or B14 and are then handed off to GMC.
+Aircraft shall vacate 12 onto V7, V9 or V13 and are then handed off to GMC.
 
-Aircraft shall be taxied via A14 and A to the appropriate stand.
-
-!!! warning
-      Aircraft shall not be instructed to make a right turn on A12 after vacating B11. They shall always make a left turn onto B.
+Aircraft shall be taxied in accordance with 4.2
 
 *(See 4.3)*
 
@@ -497,11 +501,8 @@ Aircraft shall be taxied via A14 and A to the appropriate stand.
 </figure>
 
 ### 2.10.5 Stand restrictions
-Stands 1A, 1B, 1C, and stands 11 to 26 are medium (code C) capable only. 
+Stands S291-S294, S306, S310, S325, S329, G100-G108 and S801-S806 are A380 (code F) capable.
 
-Stands 2 to 8 are heavy (code E) capable only. 
-
-Stands 50 to 62 are A380 (code F) capable. 
 ## 2.11 Low visibility operations (LVO)
 ### 2.11.1 LVO taxi routes
 When LVO is in force shall only be issued taxi instructions in accordance with the designated LVO taxi routes.
@@ -511,7 +512,7 @@ Only CAT II/III holding points may be used during LVO (3.3.1).
 ### 2.12.1 GMC positions
 GMC is responsible for all aprons and associated taxiways.
 
-*(See 6.1)*
+*(See 5.1)*
 
 ### 2.12.2 Handoff procedure
 Where transfer of control is to be made between controllers, aircraft shall not be cleared to a point beyond the current controller’s designated zone of responsibility unless there has been prior coordination with the next controller. Intermediate holding points may be used to satisfy this requirement. 
