@@ -1,51 +1,49 @@
 # 1. Aerodrome Information
 ## 1.1 Aerodrome Details
-| ICAO Code                          |           OMDW       |
-|------------------------------------|----------------------|
-| Aerodrome Reference Point (ARP)    | N 24 55.6 E 055 10.3 |
-| Elevation                          |       171ft          |
-| Magnetic Variation / Annual Change | 2° E (2020) / +0.05° |
-| Transition Altitude / Level        | 13,000 ft / FL150    |
+| ICAO Code                          |              OMDW             |
+|------------------------------------|:-----------------------------:|
+| Aerodrome Reference Point (ARP)    | N024.53.17.801 E055.09.37.361 |
+| Elevation                          | 171 ft                        |
+| Magnetic Variation / Annual Change | 2°E (2020)/+0.05°             |
+| Transition Altitude / Level        | 13,000 ft / FL150             |
 
 ## 1.2 Air traffic services
 ### 1.2.1 List of ATS callsigns
-| Radio Callsign              | Logon Callsign   | Abbreviation   | Frequency   |
-|:---------------------------:|:----------------:|:--------------:|:-----------:|
-| Al Maktoum ATIS (Departure) |  OMDW_D_ATIS     |     ATIS       |    126.475  |
-| Al Maktoum ATIS (Arrival)   | OMDW_A_ATIS      |     ATIS       |  123.175    |
-|  Academy Apron Information  |   OMDW_I_GND     |    EFTA APRON  |  118.700    |
-| Al Maktoum Ground           |   OMDW_GND       |      GND       |   118.375   |
-|    Al Maktoum Tower         |      OMDW_TWR    |     TWR        |   118.625   |
-|     Academy Tower           |     OMDW_A_TWR   |    EFTA TWR    |    118.775  |
-|  Al Maktoum Radar           |     OMDW_APP     |     APP        |   124.025   |
-|     Dubai South Radar       |    OMDW_S_APP    |    APP         |   120.400   |
-|     Minhad Approach         |      OMDM_APP    |    APP         |   122.500   |
-|    Dubai Departures (South) |     OMDB_1_DEP   | DEP 1 (South)  |   121.025   |
-|   Dubai Departures (North)  |     OMDB_2_DEP   | DEP 2 (North)  |   126.200   |
+|        Radio Callsign       | Logon Callsign |  Abbreviation | Frequency |
+|:---------------------------:|:--------------:|:-------------:|:---------:|
+|  Academy Apron Information  |   OMDW_I_GND   |    EFTA APN   |  118.700  |
+|      Al Maktoum Ground      |    OMDW_GND    |      GMC      |  118.375  |
+|       Al Maktoum Tower      |    OMDW_TWR    |      AIR      |  118.625  |
+|        Academy Tower        |   OMDW_A_TWR   |    EFTA AIR   |  118.775  |
+|       Al Maktoum Radar      |    OMDW_APP    |      RDR      |  124.025  |
+|      Dubai South Radar      |   OMDW_S_APP   |     RDR S     |  120.400  |
+|       Minhad Approach       |    OMDM_APP    |      APP      |  122.500  |
+|   Dubai Departures (South)  |   OMDB_1_DEP   |     DEP 1     |  121.025  |
+|   Dubai Departures (North)  |   OMDB_2_DEP   |     DEP 2     |  126.200  |
 
 
 ### 1.2.2 ATS airspace
-| Airspace                        | Classification   | Vertical Limits    | Transition Altitude   | Transition Level   |
-|:-------------------------------:|:----------------:|:------------------:|:---------------------:|:------------------:|
-| Dubai CTA (Terminal Area)       |       C          |   1500 ft to FL155 | 13 000 ft             | FL 150             |
-| Al Maktoum CTR 1 (Control Zone) |       D          |    SFC to 1500 ft  | 13 000 ft             | FL 150             |
-| Al Maktoum CTR 2 (Control Zone) |       D          | 1000 ft to 1500 ft | 13 000 ft             | FL 150             |
+|             Airspace            | Classification |   Vertical Limits   | Transition Altitude | Transition Level |
+|:-------------------------------:|:--------------:|:-------------------:|:-------------------:|:----------------:|
+|    Dubai CTA (Terminal Area)    |        C       |  1,500 ft - FL 155  |      13,000 ft      |      FL 150      |
+| Al Maktoum CTR 1 (Control Zone) |        D       |    SFC - 1,500 ft   |      13,000 ft      |      FL 150      |
+| Al Maktoum CTR 2 (Control Zone) |        D       | 1,000 ft - 1,500 ft |      13,000 ft      |      FL 150      |
 
 ## 1.3 Radio navigation aids
-| Type            | Identifier   | Frequency   |
-|:---------------:|:------------:|:-----------:|
-|   ILS/DME (12)  |   IJEA       |  111.750    |
-|   ILS/DME (30)  |   IJWA       |  109.750    |
-|   ILS/DME (31)  |   IDEF       |  110.550    |
+|     Type     | Identifier | Frequency |
+|:------------:|:----------:|:---------:|
+| ILS/DME (12) |    IJEA    |  111.750  |
+| ILS/DME (30) |    IJWA    |  109.750  |
+| ILS/DME (31) |    IDEF    |  110.550  |
 
 ## 1.4 Runways
 ### 1.4.1 Runway physical characteristics
-| Runway Designation   | True/Magnetic Bearing     | Dimensions (m)   |
-|:--------------------:|:-------------------------:|:----------------:|
-|      12              |         121° / 119°       |     4500 x 60    |
-|      30              |      301° / 299°          |     4500 x 60    |
-|     13               |        121° / 119°        |      1838 x 30   |
-|      31              |         301° / 299°       |    1838 x 30     |
+| Runway Designation | True/Magnetic Bearing | Dimensions (m) |
+|:------------------:|:---------------------:|:--------------:|
+|         12         |      121° / 119°      |    4500 x 60   |
+|         13         |      121° / 119°      |    1838 x 30   |
+|         30         |      301° / 299°      |    4500 x 60   |
+|         31         |      301° / 299°      |    1838 x 30   |
 
 ### 1.4.2 Declared distances (take-off)
 <table><thead>
@@ -150,7 +148,7 @@
 ### 1.4.3 Declared distances (landing)
 | Runway | Landing Distance Available (at Threshold) |
 |:------:|:-----------------------------------------:|
-|   12   |              4500 m                       |
-|   30   |              4500 m                       |
-|   13   |              1688 m                       |
-|   31   |              1688 m                       |
+|   12   |                   4500 m                  |
+|   13   |                   1688 m                  |
+|   30   |                   4500 m                  |
+|   31   |                   1688 m                  |
