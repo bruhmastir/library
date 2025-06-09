@@ -6,31 +6,31 @@
 ![OMSJ - Sharjah International](img/omsj/omsj_header.jpg)
 </figure>
 
-| IATA | ICAO | Charts | NOTAM(s) |
-|:----:|:----:|:------:|:----------:|
-| SHJ  | OMSJ | [U.A.E eAIP (Account Required)](https://www.gcaa.gov.ae/en/ais/Pages/default.aspx)    | [U.A.E FIR - NOTAM(S) ](https://www.gcaa.gov.ae/en/ais/notice-to-airmen-notam)      |
+| IATA | ICAO |                                       Charts                                       |                                    NOTAM(s)                                    |
+|:----:|:----:|:----------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
+|  SHJ | OMSJ | [U.A.E eAIP (Account Required)](https://www.gcaa.gov.ae/en/ais/Pages/default.aspx) | [U.A.E FIR - NOTAM(S) ](https://www.gcaa.gov.ae/en/ais/notice-to-airmen-notam) |
 
 Sharjah International Airport is an international airport located 7 nautical miles southeast of Sharjah, United Arab Emirates. It has a single runway and, as of 2022, is the only airport in Sharjah handling international flights.
 
 ### Charts & Scenery
 Pilots can access the latest charts through the following sources: [Chartfox (Free, VATSIM login required)](https://chartfox.org/), [the U.A.E eAIP (Free, account required)](https://www.gcaa.gov.ae/en/ais/Pages/default.aspx), or [Navigraph (Subscription required)](https://navigraph.com/).
 
-| Simulator      | Freeware                                                                                                  | Payware                            |
-|----------------|-----------------------------------------------------------------------------------------------------------|------------------------------------|
-| MSFS           |                                                                                                           | [MSK Productions](https://orbxdirect.com/product/msk-productions-omsj-msfs?srsltid=AfmBOooBAXPFiM5O199sxM-b0BHi7h-X6agzKrOW8dtCPlAyoDKJNslu) |
-| X-Plane        | X-Plane Default                                                                                           |                                    |
-| Prepar3D V4/V5 | [AVSIM](https://library.avsim.net/search.php?SearchTerm=OMSJ&CatID=fsxscen&Go=Search) | [MSK Productions](https://secure.simmarket.com/msk-productions-sharjah-international-omsj-p3d45.phtml)                                   |
+|    Simulator   |                                        Freeware                                       |                                                                    Payware                                                                   |
+|:--------------:|:-------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|
+|      MSFS      |                                                                                       | [MSK Productions](https://orbxdirect.com/product/msk-productions-omsj-msfs?srsltid=AfmBOooBAXPFiM5O199sxM-b0BHi7h-X6agzKrOW8dtCPlAyoDKJNslu) |
+|     X-Plane    |                                    X-Plane Default                                    |                                                                                                                                              |
+| Prepar3D V4/V5 | [AVSIM](https://library.avsim.net/search.php?SearchTerm=OMSJ&CatID=fsxscen&Go=Search) |                    [MSK Productions](https://secure.simmarket.com/msk-productions-sharjah-international-omsj-p3d45.phtml)                    |
 
 ### Stand Allocation
-|             Area             |                 Operator               |
-|:----------------------------:|:--------------------------------------:|
-|         1A, 1B and 1C        |             ABY                        |
-|             2 to 8           |     ABY, all international             |
-|            11 to 26          |     ABY, low-cost (overflow)           |
-|  51, 53, 55, 57, 59, 61      |     ABY, SQC, GEC, UPS                 | 
-|  50, 52, 54, 56, 58, 60, 62  |  ABY, other cargo, low-cost (overflow) |  
+|            Area            |                Operator               |
+|:--------------------------:|:-------------------------------------:|
+|        1A, 1B and 1C       |                  ABY                  |
+|           2 to 8           |         ABY, all international        |
+|          11 to 26          |        ABY, low-cost (overflow)       |
+|   51, 53, 55, 57, 59, 61   |           ABY, SQC, GEC, UPS          |
+| 50, 52, 54, 56, 58, 60, 62 | ABY, other cargo, low-cost (overflow) |
 
-!!! info
+!!! Info
     All arriving aircraft will be assigned stands by our stand assigner using the Ground Radar Plugin.
 
 ### Air Traffic Control positions
@@ -78,7 +78,6 @@ Controllers will assign a Standard Instrument Departure (SID) based on the first
 | RIDAP    |   3Q   |   2R   |
 | SENPA    |   3Q   |   2R   |
 
-
 ### Getting your clearance
 Departing aircraft shall contact Sharjah Ground **10 minutes prior to start-up** and pass the following information:
 <ul>
@@ -96,14 +95,14 @@ Datalink clearances are currently unavailable at Sharjah. Clearance should be re
 !!! example
     **Pilot**: "Sharjah Ground, ABY463, Airbus A321neo, information X, stand 4, requesting IFR clearance to Delhi, FL350."
 
-    **Controller**: "ABY463, Sharjah Ground, cleared to Delhi via DAVMO 3R, maintain altitude 3000ft, when airborne contact Dubai departures on 124.675, squawk 1743."
+    **Controller**: "ABY463, Sharjah Ground, cleared to Delhi via DAVMO 3R, maintain altitude 3,000 ft, when airborne contact Dubai Departures on 124.675, squawk 1743."
 
-    **Pilot**: "Cleared to Delhi via DAVMO 3R, maintain altitude 3000ft, when airborne contact Dubai departures on 124.675, squawk 1743, ABY463."
+    **Pilot**: "Cleared to Delhi via DAVMO 3R, maintain altitude 3,000 ft, when airborne contact Dubai Departures on 124.675, squawk 1743, ABY463."
 
     **Controller**: "ABY463, readback correct. QNH 1013, report ready for pushback."
 
 ### Push & Start
- Once the pushback tug is connected, and chocks removed, pilots may request push and start clearance. The ground controller will usually provide the direction to face. Pilots must ensure they can comply with these instructions; if unable, they must inform the ground controller.
+Once the pushback tug is connected, and chocks removed, pilots may request push and start clearance. The ground controller will usually provide the direction to face. Pilots must ensure they can comply with these instructions; if unable, they must inform the ground controller.
 
 !!! example
     **Controller**: "RJA613, Sharjah Ground, pushback approved, facing east"
