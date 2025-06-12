@@ -171,9 +171,9 @@ At Doha-Hamad, if datalink clearances are unavailable, voice clearances will be 
 !!! example
     **Pilot**: "Hamad Clearance Delivery, QTR6M, Boeing 777-300ER, information X, stand B3, requesting FL310, to Melbourne."
 
-    **Controller**: "QTR6M, Hamad Clearance Delivery, information X correct, cleared to Melbourne via the BUNDU2E departure, climb via the SID to altitude 4000ft, squawk 2613."
+    **Controller**: "QTR6M, Doha Ground, information X correct, cleared to Dubai via the ######## departure, climb via the SID to altitude 3000ft, squawk 2613."
 
-    **Pilot**: "Cleared to Melbourne via the BUNDU2E departure, climb via the SID to altitude 4000ft, squawk 2613, QTR6M."
+    **Pilot**: "Cleared to Dubai via the ####### departure, climb via the SID to altitude 3000ft, squawk 2613, QTR6M."
 
     **Controller**: "QTR6M, readback correct, QNH 1016, report ready for pushback."
 
@@ -182,54 +182,60 @@ At Doha-Hamad, if datalink clearances are unavailable, voice clearances will be 
   
 ### VFR Operations
 #### Helicopter Routes
+
 | VFR Reporting Point|    Designator   |
 |:------------------:|:---------------:|
 |      AL HAZM       |       HZM       |
-|      AL HAZM       |       HZM       |
-|      AL HAZM       |       HZM       |
-|      AL HAZM       |       HZM       |
-|      AL HAZM       |       HZM       |
-|      AL HAZM       |       HZM       |
-|      AL HAZM       |       HZM       |
-|      AL HAZM       |       HZM       |
-|      AL HAZM       |       HZM       |
+|      ASPIRE        |       ASP       |
+|      BAHAR         |       BHR       |
+|    BANANA EAST     |       BNE       |
+|     BAY-POINT      |       BAY       |
+|      BEACH         |       BCH       |
+|      BOAT          |       BOT       |
+| CENTRAL ROUNDABOUT |       CRA       |
+|        DHOW        |       DOW       |
+| DOHA FESTIVAL CITY |       DFC       |
+|    EASTERN EDGE    |       ESE       |
+|        EZDAN       |       EZD       |
+|       HAMAMA       |       HMM       |
+|   INTERCEPT POINT  |       INT       |
+|       IZBAH        |       IZB       |
+|    LUSAIL NORTH    |       LSN       |
+|        MAJD        |       MJD       |
+|        MINA        |       MIN       |
+|       MORJAN       |       MOR       |
+|     NORTH MALL     |       NML       |
+|  NORTH ROUNDABOUT  |       NRA       |
+|   ORANGE HOLD 16   |      OH 16      |
+|   ORANGE HOLD 34   |      OH 34      |
+|      RADISSON      |       RDS       |
+|        SBAQ        |       SBQ       |
+|      SEA-POINT     |       SEA       |
+|  SOUTH ROUNDABOUT  |       SRA       |
+|       THUMAMA      |       THM       |
+|       TURTLE       |       TTL       |
+|        ZULU        |       ZUL       |
 
 <figure markdown>
-  <figcaption>Table 2-1: RNAV SIDs</figcaption>
+  <figcaption>Helicopter Route VRPs</figcaption>
 </figure>
+
 <table><thead>
   <tr>
-    <th>Destination</th>
-    <th>Level Restrictions</th>
-    <th>Routing</th>
+    <th>Runway</th>
+    <th>Name</th>
+    <th>Description</th>
   </tr></thead>
 <tbody>
   <tr>
-    <td>Tehran FIR Northbound (including OIKB)</td>
-    <td>-</td>
-    <td>DAVMO M318 GABKO</td>
+    <td rowspan="2">RWY 15</td>
+    <td rowspan="2">ORANGE ROUTE 15</td>
+    <td>**Departure:**
+After departure RWY 15, turn left towards CRA and climb to cross CRA maintaining 1000 FT. Contact Hamad TWR West on Freq 118.025 MHz once East of OTBD RWY 15. From CRA, route to BCH and Hold, remaining clear of final approach path OTBD RWY 15 and OTHH RWY 16R whilst awaiting crossing clearance from OTHH ATC. When cleared, cross North of threshold OTHH RWY 16R/RWY 16L and route towards BAY. After BAY, route OH 16 maintaining 1000 FT. After OH 16, climb to 1500 FT and route to ESE.</td>
   </tr>
   <tr>
-    <td>Landing OOMS, transiting Muscat FIR Eastbound and Southeast bound</td>
-    <td>-</td>
-    <td>ANVIX L223 TARDI</td>
-  </tr>
-  <tr>
-    <td rowspan="5">Transiting Sanaa FIR and Jeddah FIR</td>
-    <td rowspan="5">-</td>
-    <td>SENPA N571 ALPOB</td>
-  </tr>
-  <tr>
-    <td>ANVIX R401 GIDIS G783 TANSU</td>
-  </tr>
-  <tr>
-    <td>ANVIX R401 GIDIS G783 RIGIL M628 PEKEM</td>
-  </tr>
-  <tr>
-    <td>KUTLI L519 ATUDO M318 KATIT</td>
-  </tr>
-  <tr>
-    <td>KUTLI L519 ATUDO M318 GOLGU</td>
+    <td>**Arrival:**
+Enter the CTR via ESE maintaining 500 FT. From ESE, route OH 16, BAY to hold, awaiting instructions from OTHH ATC. When cleared, cross north of threshold. Once West of OTHH RWY 16R, contact OTBD ATC Freq. 118.900 MHz and follow joining instructions.</td>
   </tr>
   <tr>
     <td>Transiting Bahrain FIR onwards landing/transiting Kuwait, Baghdad, and Tehran FIRs</td>
