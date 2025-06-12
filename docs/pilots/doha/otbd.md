@@ -257,6 +257,13 @@ Enter the CTR via ESE maintaining 500 FT. From ESE, route OH 34, SEA to hold, aw
 <figure markdown>
   <figcaption>Table 2-2: Helicopters departing to and/or arriving at OTBD, crossing OTHH</figcaption>
 </figure>
+Note:
+Suspension of Orange Route
+
+The Orange route shall be suspended when the cloud ceiling is below 2000 FT and/ or visibility is less than 3500 M.
+The Orange route shall be suspended during peak arrival periods and IPO.
+The OTHH Supervisor may for any other valid reasons suspend the Orange Route.
+When the route is suspended, the OTHH ATCO Supervisor shall inform OTBD Tower who shall inform GHC immediately. Best practice is to provide a minimum of 15 minutes’ notice to GHC.
 
 
 ### Push & Start
