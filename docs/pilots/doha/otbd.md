@@ -182,18 +182,17 @@ At Doha-Hamad, if datalink clearances are unavailable, voice clearances will be 
   
 ### VFR Operations
 #### Helicopter Routes
-
-| First Fix |    30   |
-|:---------:|:-------:|
-|   ANVIX   |    4L   |
-|   DAVMO   |    4L   |
-|   EMERU   |    1L   |
-|   KUTLI   |    3L   |
-|   MIROT   |    3L   |
-|   NABIX   |    3L   |
-|   NOLSU   |    3L   |
-|   RIDAP   |    3L   |
-|   SENPA   |    3L   |
+| VFR Reporting Point|    Designator   |
+|:------------------:|:---------------:|
+|      AL HAZM       |       HZM       |
+|      AL HAZM       |       HZM       |
+|      AL HAZM       |       HZM       |
+|      AL HAZM       |       HZM       |
+|      AL HAZM       |       HZM       |
+|      AL HAZM       |       HZM       |
+|      AL HAZM       |       HZM       |
+|      AL HAZM       |       HZM       |
+|      AL HAZM       |       HZM       |
 
 <figure markdown>
   <figcaption>Table 2-1: RNAV SIDs</figcaption>
