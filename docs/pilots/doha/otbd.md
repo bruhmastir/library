@@ -257,14 +257,73 @@ Enter the CTR via ESE maintaining 500 FT. From ESE, route OH 34, SEA to hold, aw
 <figure markdown>
   <figcaption>Table 2-2: Helicopters departing to and/or arriving at OTBD, crossing OTHH</figcaption>
 </figure>
-Note:
-Suspension of Orange Route
 
-The Orange route shall be suspended when the cloud ceiling is below 2000 FT and/ or visibility is less than 3500 M.
-The Orange route shall be suspended during peak arrival periods and IPO.
-The OTHH Supervisor may for any other valid reasons suspend the Orange Route.
-When the route is suspended, the OTHH ATCO Supervisor shall inform OTBD Tower who shall inform GHC immediately. Best practice is to provide a minimum of 15 minutes’ notice to GHC.
+!!! note "Suspension of Orange Route"
+  1. The Orange route shall be suspended when the cloud ceiling is below 2000 FT and/ or visibility is less than 3500 M.
+  2. The Orange route shall be suspended during peak arrival periods and IPO.
+  3. The OTHH Supervisor may for any other valid reasons suspend the Orange Route.
+  4. When the route is suspended, the OTHH ATCO Supervisor shall inform OTBD Tower who shall inform GHC immediately. Best practice is to provide a minimum of
+  5. 15 minutes’ notice to GHC.
 
+<table><thead>
+  <tr>
+    <th>Runway</th>
+    <th>Name</th>
+    <th>Description</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td rowspan="2">RWY 15 and RWY 33</td>
+    <td rowspan="2">TURTLE ROUTE (TTL)</td>
+    <td>Departure:
+
+After departure RWY 15/33, route direct RDS and climb to 1500 FT. After RDS, route EZD, NML, DFC, LSN and exit via TTL.</td>
+  </tr>
+  <tr>
+    <td>Arrival:
+
+Enter the CTR via TTL maintaining 1000  FT. After TTL, route LSN, DFC, NML, EZD, RDS. After RDS, follow instructions from OTBD ATC.</td>
+  </tr>
+  <tr>
+    <td rowspan="2">RWY 15 and RWY 33</td>
+    <td rowspan="2">BOAT ROUTE (BOT) (This route subject to ATC approval)</td>
+    <td>Departure:
+
+After departure OTBD turn to THM climbing 1500 FT, route to ASP, HMM, SBQ to exit via BOT.</td>
+  </tr>
+  <tr>
+    <td>Arrival:
+
+Enter the CTR via BOT, maintaining 1000 FT and route to SBQ, HMM, then climb 1500 FT and route to ASP, follow instructions from OTBD ATC.</td>
+  </tr>
+   <tr>
+    <td rowspan="2">RWY 15 and RWY 33</td>
+    <td rowspan="2">DHOW ROUTE (DOW)</td>
+    <td>Departure:
+
+After departure RWY 15/33, route direct THM and climb to 1500 FT. After THM, route IZB, MIN, BHR, DOW.</td>
+  </tr>
+  <tr>
+    <td>Arrival:
+
+Enter the CTR via DOW maintaining 1000 FT. After DOW, route BHR, MIN, IZB, THM. After THM, follow instructions from OTBD ATC.</td>
+  </tr>
+   <tr>
+    <td rowspan="2">RWY 15 and RWY 33</td>
+    <td rowspan="2">MORJAN ROUTE (MOR)</td>
+    <td>Departure:
+
+After departure RWY 15/33, route direct THM and climb to 1500 FT. After THM, join via IZB at 500 FT. After IZB, route SEF, INT, and exit via MOR.</td>
+  </tr>
+  <tr>
+    <td>Arrival:
+
+Enter the CTR via MOR maintaining 500 FT. After MOR, route INT, SEF, and IZB to climb 1000 FT to THM. After THM, follow instructions from OTBD ATC.</td>
+  </tr>
+</tbody></table>
+<figure markdown>
+  <figcaption>Table 2-2: Helicopters arriving and departing OTBD.</figcaption>
+</figure>
 
 ### Push & Start
 Once clearance delivery releases you to the designated ground frequency, pilots may request push and start clearance. Upon initial contact, the ground controller may provide various types of pushback instructions. Pilots must ensure they can comply with these instructions; if unable, they must inform the ground controller.
