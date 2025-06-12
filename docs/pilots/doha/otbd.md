@@ -182,7 +182,7 @@ At Doha-Hamad, if datalink clearances are unavailable, voice clearances will be 
   
 ### VFR Operations
 #### Helicopter Routes
-
+##### Visual Reporting Points
 | VFR Reporting Point|    Designator   |
 |:------------------:|:---------------:|
 |      AL HAZM       |       HZM       |
@@ -220,6 +220,8 @@ At Doha-Hamad, if datalink clearances are unavailable, voice clearances will be 
   <figcaption>Helicopter Route VRPs</figcaption>
 </figure>
 
+#### Standard VFR departure and arrival routes for helicopters
+
 <table><thead>
   <tr>
     <th>Runway</th>
@@ -230,82 +232,30 @@ At Doha-Hamad, if datalink clearances are unavailable, voice clearances will be 
   <tr>
     <td rowspan="2">RWY 15</td>
     <td rowspan="2">ORANGE ROUTE 15</td>
-    <td>**Departure:**
+    <td>Departure:
+
 After departure RWY 15, turn left towards CRA and climb to cross CRA maintaining 1000 FT. Contact Hamad TWR West on Freq 118.025 MHz once East of OTBD RWY 15. From CRA, route to BCH and Hold, remaining clear of final approach path OTBD RWY 15 and OTHH RWY 16R whilst awaiting crossing clearance from OTHH ATC. When cleared, cross North of threshold OTHH RWY 16R/RWY 16L and route towards BAY. After BAY, route OH 16 maintaining 1000 FT. After OH 16, climb to 1500 FT and route to ESE.</td>
   </tr>
   <tr>
-    <td>**Arrival:**
+    <td>Arrival:
+
 Enter the CTR via ESE maintaining 500 FT. From ESE, route OH 16, BAY to hold, awaiting instructions from OTHH ATC. When cleared, cross north of threshold. Once West of OTHH RWY 16R, contact OTBD ATC Freq. 118.900 MHz and follow joining instructions.</td>
   </tr>
   <tr>
-    <td>Transiting Bahrain FIR onwards landing/transiting Kuwait, Baghdad, and Tehran FIRs</td>
-    <td>-</td>
-    <td>RIDAP M557 TUMAK</td>
+    <td rowspan="2">RWY 33</td>
+    <td rowspan="2">ORANGE ROUTE 33</td>
+    <td>Departure:
+
+After departure RWY 33, turn right towards CRA and climb to cross CRA maintaining 1000 FT. Contact Hamad TWR West on Freq  118.025 MHz once East of OTBD RWY 33. From CRA, route to SRA and Hold, remaining clear of final approach path OTBD RWY 33 and OTHH RWY 34L whilst awaiting crossing clearance from OTHH ATC. When cleared, cross South of threshold OTHH RWY 34L/RWY 34R and route towards SEA. After SEA, route OH 34 maintaining 1000 FT. After OH 34, climb to 1500 FT and route ESE.</td>
   </tr>
   <tr>
-    <td>Transiting Bahrain FIR onwards landing/transiting Jeddah FIR (including OERK, OEJN)</td>
-    <td>-</td>
-    <td>SENPA N571 ALPOB</td>
-  </tr>
-  <tr>
-    <td>Landing within Bahrain FIR (including OBBI, OEDF, OEDR)</td>
-    <td>Max FL260</td>
-    <td>NABIX P699 ORMID</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Landing within Doha TMA (OTHH, OTBD)</td>
-    <td rowspan="2">Max FL260</td>
-    <td>NABIX P699 OXARI M430 TOSNA</td>
-  </tr>
-  <tr>
-    <td>MIROT Q576 RORON M430 TOSNA</td>
-  </tr>
-  <tr>
-    <td>Landing OIII &amp; OISS</td>
-    <td>-</td>
-    <td>DCT KUMUN</td>
-  </tr>
-  <tr>
-    <td>Landing OIBK</td>
-    <td>-</td>
-    <td>RIDAP M557 TOTKU DCT KIVUS DCT LUDAM DCT ORSAR</td>
-  </tr>
-  <tr>
-    <td>Landing OOSH</td>
-    <td>At 11,000ft only</td>
-    <td>ANVIX L223 TARDI</td>
-  </tr>
-  <tr>
-    <td>Landing OOSA, transiting Muscat FIR Southbound and Southwest bound</td>
-    <td>-</td>
-    <td>ANVIX R401 GIDIS G783 UKRAG L710 MEMTU</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Transiting Muscat FIR Eastbound onwards landing/transiting Karachi and Mumbai FIRs</td>
-    <td rowspan="2">-</td>
-    <td>IVURO M677 LALDO</td>
-  </tr>
-  <tr>
-    <td>IVURO M428 GOMTA</td>
-  </tr>
-  <tr>
-    <td>Landing OMAA &amp; OMAD</td>
-    <td>Max 10,000 ft</td>
-    <td>DCT EMERU</td>
-  </tr>
-  <tr>
-    <td>Landing OMAL</td>
-    <td>-</td>
-    <td>DCT ANVIX R401 GIDIS G783 VAVIM</td>
-  </tr>
-  <tr>
-    <td>Landing OMSJ, OMDB, OMRK, and OMFJ</td>
-    <td>Max 7,000 ft<br>(Radar Departure)</td>
-    <td>DCT (RADAR VECTORS)</td>
+    <td>Arrival:
+
+Enter the CTR via ESE maintaining 500 FT. From ESE, route OH 34, SEA to hold, awaiting instructions from OTHH ATC. When cleared, cross south of threshold. Contact OTBD ATC Freq. 118.900 MHz once west of OTHH RWY 34L and follow joining instructions.</td>
   </tr>
 </tbody></table>
 <figure markdown>
-  <figcaption>Table 2-2: Standard routes</figcaption>
+  <figcaption>Table 2-2: Helicopters departing to and/or arriving at OTBD, crossing OTHH</figcaption>
 </figure>
 
 
