@@ -16,7 +16,7 @@ The GMC is responsible for issuing clearances for departing aircraft. Pilots may
 - Destination;
 - Dubai CTA exit point;
 - Speed if unable to comply with minimum speed on the SID;
-- ATIS letter & QNH;
+- ATIS letter & QNH
 
 ### 2.2.2 Information contained in a departure clearance
 An IFR clearance shall be in the following format:
