@@ -1,23 +1,21 @@
-# 6. Appendix - Taxi Diagrams
-## 6.1 Use of Diagrams
-Blue lines indicate departure taxi routes. Yellow lines indicate arrival taxi routes.
+# 4. Appendix - Taxi Diagrams
+## 4.1 Runway 30 taxi-out diagram
+<figure markdown>
+![Taxi out - 30 config](img/OMDW 30 dep.jpeg)
+</figure>
 
-Commonly used intermediate holding points are shown in white. Runway holding points are shown in red.
+## 4.2 Runway 30 taxi-in diagram
+<figure markdown>
+![Taxi in - 30 config](img/OMDW 30 arr.jpeg)
+</figure>
 
-Pink indicates areas not available in some sceneries and shall not be used unless requested.
 
-Taxiways with a red background are not code F (A380/B747-8) compatible.
+## 4.3 Runway 12 taxi-in diagram
+<figure markdown>
+![Taxi out - 12 config](img/OMDW 12 dep.jpeg)
+</figure>
 
-## 6.2 Runway 30 configuration
-### 6.2.1 Dual Runway 30L/30R
-
-### 6.2.2 Single Runway 30L
-
-### 6.2.3 Single Runway 30R
-
-## 6.3 Runway 12 configuration
-### 6.3.1 Dual Runway 12L/12R (Departure Bias and Arrival Bias)
-
-### 6.3.2 Single Runway 12L
-
-### 6.3.3 Single Runway 12R
+## 4.4 Runway 12 taxi-in diagram
+<figure markdown>
+![Taxi in - 12 config](img/OMDW 12 arr.png)
+</figure>
