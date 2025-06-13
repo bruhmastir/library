@@ -87,7 +87,7 @@ Controllers will assign a Standard Instrument Departure (SID) based on the first
   <tr>
     <td><b>PATOM</b></td>
     <td>3S</td>
-    <td>3N/td>
+    <td>3N</td>
   </tr>
   <tr>
     <td><b>TULUB</b></td>
