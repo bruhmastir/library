@@ -73,7 +73,7 @@ Al Maktoum primarily uses RNAV standard instrument departures (SIDs) and is the 
   <figcaption>Table 2-1: RNAV SIDs</figcaption>
 </figure>
 
-!! info
+!!! info
       All aircraft shall be assigned an initial climb of **3000ft**. 
 
 
